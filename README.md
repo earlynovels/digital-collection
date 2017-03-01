@@ -1,5 +1,9 @@
 # digital-collection
-Fulltext and PDFs from Print at Penn's Collection of British and American Fiction, as well as corresponding Early Novels Dataset records in MARCXML.
+This repository brings together Fulltext and PDFs from Print at Penn's [Digital Collection of British & American Fiction, 1660-1830](http://dla.library.upenn.edu/dla/print/index.html) and corresponding metadata produced by the Early Novels Dataset. 
+
+
+
+The University of Pennsylvania Libraries' Collection of British & American Fiction, 1660-1830 (CBAF) numbers nearly three thousand works that together form a rich teaching and research collection of early fiction in English. While drawing from the general Rare Books Collection as well as several smaller named collections, its core is the Singer-Mendenhall Collection, built through the combined efforts of a University of Pennsylvania graduate student and professor in the first half of the twentieth century. Godfrey F. Singer and John C. Mendenhall each accumulated working collections of mainly epistolary fiction; Singer's parents donated his books to the University of Pennsylvania Library after his death in 1934, and Mendenhall added his library in 1950. Since then, the Singer-Mendenhall collection has augmented its initial strengths in epistolary fiction with rare, non-canonical works published by female or anonymous authors. The CBAF includes a number of works that are unique to Penn on the title or edition level, among them *Frederick and Alicia* (1791), *The History of Laura* (1700), and *The New Clarissa* (1769). The Digital Collection of British & American fiction includes these unique titles, as well as epistolary fiction by female or anonymous authors that is not readily available in digital form elsewhere.
 
 Keyword-searchable PDFs of all works currently in the Print at Penn Collection of British and American fiction can be accessed and downloaded [here](<https://upenn.box.com/s/t9su0mz1qtv5qtm4s3hhfjjthvk485pg>).
 
