@@ -1,0 +1,176 @@
+<marc:record>
+        <marc:leader>02192cam a2200493 a 4500</marc:leader>
+        <marc:controlfield tag="001">341473</marc:controlfield>
+        <marc:controlfield tag="005">20130301143718.0</marc:controlfield>
+        <marc:controlfield tag="008">860613s1782    enk           00000 eng d</marc:controlfield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(PUVoyagerBIBID)157631</marc:subfield></marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CStRLIN)PAUG86-B24238</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CaOTULAS)146835916</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="9">AAX4738</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(MediadbVoyBIBID)341473</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(END)sm_pr3991_a6_l319_1782</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="040">
+            <marc:subfield code="a">PU</marc:subfield>
+            <marc:subfield code="c">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="090">
+            <marc:subfield code="a">PR3991.A6</marc:subfield>
+            <marc:subfield code="b">L319 1782</marc:subfield>
+            <marc:subfield code="i">06/16/86 CT</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="100">
+            <marc:subfield code="a">Lady.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="3" tag="245">
+            <marc:subfield code="a">An interesting sketch of genteel life /</marc:subfield>
+            <marc:subfield code="c">by a Lady.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">An interesting sketch of genteel life. In three volumes.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Half</marc:subfield>
+            <marc:subfield code="x">Work</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">An interesting sketch of genteel life. By a lady. Vol. I.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">An interesting sketch of genteel life. By a lady. Vol. II.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">An interesting sketch of genteel life. By a lady. Vol. III.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="260">
+            <marc:subfield code="a">Southampton</marc:subfield>
+            <marc:subfield code="b">Printed by Linden &amp; Cunningham. Sold by Skelton &amp; Mills, Southampton, and B. Law, Avemary Lane, London.</marc:subfield>
+            <marc:subfield code="c">M DCC LXXXII.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="261">
+            <marc:subfield code="f">Linden &amp; Cunningham</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">3 v. ;</marc:subfield>
+            <marc:subfield code="c">17 cm.</marc:subfield>
+            <marc:subfield code="x">Octavo</marc:subfield>
+            <marc:subfield code="z">In three volumes.</marc:subfield>
+            <marc:subfield code="a">[3 v.]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">An epistolary novel.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+            <marc:subfield code="c">N8582</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">English novel, 1770-1829,</marc:subfield>
+            <marc:subfield code="c">1782:8</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="590">
+            <marc:subfield code="a">Bound in 1 volume.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="592">
+            <marc:subfield code="a">Epistolary</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="b">Generic/Descriptive</marc:subfield>
+            <marc:subfield code="2">By a lady.</marc:subfield>
+            <marc:subfield code="3">Title Page</marc:subfield>
+            <marc:subfield code="5">Female</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">CHR 1782</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="655">
+            <marc:subfield code="a">Epistolary fiction</marc:subfield>
+            <marc:subfield code="z">England</marc:subfield>
+            <marc:subfield code="y">18th century.</marc:subfield>
+            <marc:subfield code="2">rbgenr</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Law, B. (Bedwell)</marc:subfield>
+            <marc:subfield code="d">1798</marc:subfield>
+            <marc:subfield code="4">Distributor</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="710">
+            <marc:subfield code="S">kelton &amp; Mills</marc:subfield>
+            <marc:subfield code="4">Distributor</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="710">
+            <marc:subfield code="a">Linden &amp; Cunningham</marc:subfield>
+            <marc:subfield code="4">Printer</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="1" tag="852">
+            <marc:subfield code="b">scsing</marc:subfield>
+            <marc:subfield code="t">1</marc:subfield>
+            <marc:subfield code="h">PR3991.A6</marc:subfield>
+            <marc:subfield code="i">L319 1782</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="3" ind2="0" tag="866">
+            <marc:subfield code="8">0</marc:subfield>
+            <marc:subfield code="a">3 v.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="950">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="e">\\\\Singer-\\Menden-\\hall\\</marc:subfield>
+            <marc:subfield code="v">3 v.</marc:subfield>
+            <marc:subfield code="i">06/16/86 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="955">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="q">746229</marc:subfield>
+            <marc:subfield code="s">g. Singer-Mendenhall</marc:subfield>
+            <marc:subfield code="s">in 1</marc:subfield>
+            <marc:subfield code="i">06/16/86 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="989">
+            <marc:subfield code="2">Sketch</marc:subfield>
+            <marc:subfield code="2">Life</marc:subfield>
+            <marc:subfield code="2">Volume</marc:subfield>
+            <marc:subfield code="2">Lady</marc:subfield>
+            <marc:subfield code="3">Interesting</marc:subfield>
+            <marc:subfield code="3">Genteel</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="999">
+            <marc:subfield code="a">AFD</marc:subfield>
+            <marc:subfield code="b">06/27/2011</marc:subfield>
+        </marc:datafield>
+    </marc:record>

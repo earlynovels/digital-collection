@@ -1,0 +1,320 @@
+<marc:record>
+        <marc:leader>06952cam a2200721 a 4500</marc:leader>
+        <marc:controlfield tag="001">430787</marc:controlfield>
+        <marc:controlfield tag="005">20130621103358.0</marc:controlfield>
+        <marc:controlfield tag="008">850410s1791    enk           00000 eng d</marc:controlfield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CStRLIN)PAUG85-B13421</marc:subfield></marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CaOTULAS)121255034</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="9">ABD4002</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">208123</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(END)PR5178_P66_L3_1791</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">MediadbVoyBIBID)430787</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="040">
+            <marc:subfield code="a">PU</marc:subfield>
+            <marc:subfield code="c">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="090">
+            <marc:subfield code="a">PR5178.P66</marc:subfield>
+            <marc:subfield code="b">L3 1791</marc:subfield>
+            <marc:subfield code="i">04/12/85 CT</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="0" tag="100">
+            <marc:subfield code="a">Pigott, Harriet,</marc:subfield>
+            <marc:subfield code="d">1766-1839.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="4" tag="245">
+            <marc:subfield code="a">The labyrinths of life :</marc:subfield>
+            <marc:subfield code="b">a novel /</marc:subfield>
+            <marc:subfield code="c">by the author of Excessive sensibility, and Fatal follies : in four volumes.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">The labyrinths of life. Vol. I.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Half</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">The labyrinths of life. A novel. By the author of Excessive sensibility, and Fatal follies. In four volumes. Vol. I.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">The labyrinths of life. Vol. II.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Half</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">The labyrinths of life. A novel. By the author of Excessive sensibility, and Fatal follies. In four volumes. Vol. II.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">The labyrinths of life. Vol. III.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Half</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">The labyrinths of life. A novel. By the author of Excessive sensibility, and Fatal follies. In four volumes. Vol. III.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">The labyrinths of life. Vol. IV.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Half</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.4</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">The labyrinths of life. A novel. By the author of Excessive sensibility, and Fatal follies. In four volumes. Vol. IV.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.4</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="7" tag="246">
+            <marc:subfield code="a">The labyrinths of life.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="7" tag="246">
+            <marc:subfield code="a">The labyrinths of life. (verso)</marc:subfield>
+            <marc:subfield code="a">The labyrinths of life. (recto)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="260">
+            <marc:subfield code="a">London</marc:subfield>
+            <marc:subfield code="b">Printed by G.G.J. and J. Robinson, Pater-Noster-Row,</marc:subfield>
+            <marc:subfield code="c">1791.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+            <marc:subfield code="v">v.4</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">4 v. ;</marc:subfield>
+            <marc:subfield code="c">18 cm. (12mo)</marc:subfield>
+            <marc:subfield code="x">Duodecimo</marc:subfield>
+            <marc:subfield code="z">In four volumes</marc:subfield>
+            <marc:subfield code="a">[4 v.]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">[i]-iv, [1]-225</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">[1]-227</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">[1]-222</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">[1]-268, [1-4]</marc:subfield>
+            <marc:subfield code="v">v.4</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Published anonymously.  Attributed to Harriet Pigott.  Cf. Halkett &amp; Laing (2nd ed.)  Also attributed to Mrs. Thomson.  Cf. Allibone, S.A.  Critical dictionary of English literature.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Advertisements: v. 4, last 2 leaves.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+            <marc:subfield code="c">N20615</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">English novel, 1770-1829,</marc:subfield>
+            <marc:subfield code="c">1791:70</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">Block, A.  Engl. novel (1961 ed.),</marc:subfield>
+            <marc:subfield code="c">p.235</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">Halkett &amp; Laing (2nd ed.)</marc:subfield>
+            <marc:subfield code="c">III, p.227</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="520">
+            <marc:subfield code="a">Dedication</marc:subfield>
+            <marc:subfield code="b">To her grace, the Duchess of Leeds</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="x">&quot;Madam, Though the practice of dedicating books to distinguished characters has, like other things, been perverted in some instances to low purposes, yet in its origin it was neither unnatural nor unuseful [...] The author was animated with the idea that at least one good judge, whom he was ambitious to please, would read what he wrote: and, in writing, the same idea operated as a monitor, that no sentiment or expression should be suffered to escape the pen of the author, that the judgement, the taste, or the virtue of the party addressed might be ready to condemn. It is on these principles that I have presumed to address to your Grace The Labyrinths of Life, intended to shew, that amidst all the fluctuations of human affairs, however surprising, there is, sooner or latter, a reward for patient and preserving probity and honour.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="592">
+            <marc:subfield code="a">Epistolary</marc:subfield>
+            <marc:subfield code="c">Poems</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+            <marc:subfield code="v">v.4</marc:subfield>
+            <marc:subfield code="x">The poetry that appears is primarily only a few lines long, quoted within the letters.</marc:subfield>
+            <marc:subfield code="x">A full poem appears on p. 136 of Vol. II; although not attributed in the text, it appears to be &quot;Elegy, On the Death of Lady Coventry&quot; by Mason. It is thought to be written in 1760.</marc:subfield>
+            <marc:subfield code="x">On p. 36 of Vol. III, a &quot;manuscript sonnet&quot; -- titled &quot;To Eliza&quot; -- appears in the text. The first lines read: You ask me, what is Love? hear all I know: -- It is not Reason\'s, \'tis not Nature\'s child. ----- Thus speaks th\' experience of six thousand years: -- Reason\'s too proud, and Nature is too wild.</marc:subfield>
+            <marc:subfield code="x">On p. 59 in Vol. III, &quot;The story of Emilia Fitzalleyne&quot; appears in the text. A sequel appears on p. 92.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="594">
+            <marc:subfield code="a">John B Johnston</marc:subfield>
+            <marc:subfield code="b">Ink</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+            <marc:subfield code="v">v.4</marc:subfield>
+            <marc:subfield code="x">Inscription appears above the word &quot;Life&quot; on the full title pages of all four volumes.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="594">
+            <marc:subfield code="a">John * B * Johnston</marc:subfield>
+            <marc:subfield code="b">Ink</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+            <marc:subfield code="v">v.4</marc:subfield>
+            <marc:subfield code="x">Inscription appears to be made with a stamp.</marc:subfield>
+            <marc:subfield code="x">Inscription appears between volume designation and publisher\'s information on the full title page of Vol. I, Vol. III, and Vol. IV; and between the words &quot;life&quot; and &quot;a novel&quot; in Vol. II.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Ink</marc:subfield>
+            <marc:subfield code="b">words</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+            <marc:subfield code="v">v.4</marc:subfield>
+            <marc:subfield code="x">On p. 50, the two inscriptions (handwritten and stamped) that appear on the full title pages occur again.</marc:subfield>
+            <marc:subfield code="x">In Vol. I, the two inscriptions appear one after another on the bottom of p. 50; in Vol. II and Vol. III, &quot;John B Johnston&quot; appears in the letter heading, while &quot;John B Johnston&quot; appears on the bottom of the page; and in Vol. IV, the inscriptions appear below the signature of a letter.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">editorial markings</marc:subfield>
+            <marc:subfield code="b">words</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="x">On p. 65-66 and p. 127, segments of the text are underlined; on p. 66, on which a letter ends, what appears to be a question is penciled in after a bracketed portion of text.</marc:subfield>
+            <marc:subfield code="x">The first words of the question appear to be &quot;is the.&quot;</marc:subfield>
+            <marc:subfield code="x">The portion of text that is underlined on p. 65 reads: ... Providence that I think you deserve; and, if laurels are your ambition, may you, wherever you are called to assert the rights of your country, return crowned with glory.</marc:subfield>
+            <marc:subfield code="x">On p. 127, the segment of text that is underlined reads: Love is an involuntary passion!</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="b">Reference to other works</marc:subfield>
+            <marc:subfield code="2">By the author of Excessive sensibility, and Fatal follies.</marc:subfield>
+            <marc:subfield code="3">Title page (full)</marc:subfield>
+            <marc:subfield code="5">Indeterminate</marc:subfield>
+            <marc:subfield code="6">Unknown</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+            <marc:subfield code="v">v.4</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Author (paratext)</marc:subfield>
+            <marc:subfield code="b">Generic/descriptive</marc:subfield>
+            <marc:subfield code="2">Madam, Your Grace\'s most obedient, humble servant, the author.</marc:subfield>
+            <marc:subfield code="4">Dedication</marc:subfield>
+            <marc:subfield code="5">Indeterminate</marc:subfield>
+            <marc:subfield code="6">Unknown</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">CHR 1791</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="656">
+            <marc:subfield code="a">Mixed genre</marc:subfield>
+            <marc:subfield code="b">Back</marc:subfield>
+            <marc:subfield code="c">Same publisher</marc:subfield>
+            <marc:subfield code="x">Contains list of works in alphabetical order by title, with prices.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="0" tag="700">
+            <marc:subfield code="a">Thomson,</marc:subfield>
+            <marc:subfield code="c">Mrs.,</marc:subfield>
+            <marc:subfield code="d">fl. 1787-1804.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Robinson, John</marc:subfield>
+            <marc:subfield code="d">1753-1813</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Robinson, James</marc:subfield>
+            <marc:subfield code="d">-1803 or 1804</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Robinson, George</marc:subfield>
+            <marc:subfield code="d">1736-1801</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Robinson, George</marc:subfield>
+            <marc:subfield code="d">-1811</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">John B Johnston</marc:subfield>
+            <marc:subfield code="4">Author (inscription)</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="710">
+            <marc:subfield code="a">G.G. J. &amp; J. Robinson</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="950">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="e">\\\\Singer-\\Menden-\\hall\\</marc:subfield>
+            <marc:subfield code="v">4 v.</marc:subfield>
+            <marc:subfield code="i">04/12/85 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="955">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">1:(v.1-4)</marc:subfield>
+            <marc:subfield code="q">726361-64</marc:subfield>
+            <marc:subfield code="i">04/12/85 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="989">
+            <marc:subfield code="2">Labyrinth</marc:subfield>
+            <marc:subfield code="2">Life</marc:subfield>
+            <marc:subfield code="2">Novel</marc:subfield>
+            <marc:subfield code="2">Author</marc:subfield>
+            <marc:subfield code="1">Excessive sensibility</marc:subfield>
+            <marc:subfield code="1">Fatal follies</marc:subfield>
+            <marc:subfield code="3">Four</marc:subfield>
+            <marc:subfield code="2">Volumes</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="999">
+            <marc:subfield code="a">ANS</marc:subfield>
+            <marc:subfield code="b">6/18/2013</marc:subfield>
+            <marc:subfield code="c">Swarthmore College</marc:subfield>
+            <marc:subfield code="d">CLRA</marc:subfield>
+        </marc:datafield>
+	</marc:record> 

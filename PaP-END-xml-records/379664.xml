@@ -1,0 +1,341 @@
+<marc:record>
+	<marc:leader>04657cam a2200901 a 4500</marc:leader>
+	<marc:controlfield tag="001">379664</marc:controlfield>
+	<marc:controlfield tag="005">20130219173650.0</marc:controlfield>
+	<marc:controlfield tag="008">860528s1779    ie            00010 eng d</marc:controlfield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(CStRLIN)PAUG86-B20543</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(CaOTULAS)146829315</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="9">AAX2067</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(MediadbVoyBIBID)379664</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(END)PR3991_A6_L313_1779</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">155045</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="040">
+		<marc:subfield code="a">PU</marc:subfield>
+		<marc:subfield code="c">PU</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="090">
+		<marc:subfield code="a">PR3991.A6</marc:subfield>
+		<marc:subfield code="b">L313 1779</marc:subfield>
+		<marc:subfield code="i">05/29/86 CT</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="0" tag="100">
+		<marc:subfield code="a">Lady.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="1" ind2="0" tag="245">
+		<marc:subfield code="a">Coxheath-Camp :</marc:subfield>
+		<marc:subfield code="b">a novel, in a series of letters /</marc:subfield>
+		<marc:subfield code="c">by a Lady : in two volumes.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">Coxheath-Camp: a novel. In a series of letters. By a lady. In two volumes. Vol. I.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">Coxheath-Camp: a novel. Vol. II.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Half</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">Coxheath-Camp: a novel. In a series of letters. By a lady. In two volumes. Vol. II.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="7" tag="246">
+		<marc:subfield code="a">Coxheath: a novel.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="7" tag="246">
+		<marc:subfield code="a">Coxheath: (verso)</marc:subfield>
+		<marc:subfield code="a">a novel. (recto)</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2=" " tag="260">
+		<marc:subfield code="a">Dublin :</marc:subfield>
+		<marc:subfield code="b">Printed for Messrs. Price [and 16 others],</marc:subfield>
+		<marc:subfield code="c">1779.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="260">
+		<marc:subfield code="a">Dublin</marc:subfield>
+		<marc:subfield code="b">Printed for Messrs. Price, Whitestone, Wilkinson, Williams, Walker, E. Cross, Jenkin, Sleater, Moncrieffe, W. Wilson, Burnett, Porter, Exshaw, Beatty, Burton, Higley, and B. Watson.</marc:subfield>
+		<marc:subfield code="c">M.DCC.LXXIX.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="300">
+		<marc:subfield code="a">284 p. ;</marc:subfield>
+		<marc:subfield code="c">17 cm. (12mo)</marc:subfield>
+		<marc:subfield code="x">Duodecimo</marc:subfield>
+		<marc:subfield code="z">In two volumes.</marc:subfield>
+		<marc:subfield code="a">[1 v.]</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Issued in 1 volume.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+		<marc:subfield code="c">T140103</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">English novel, 1770-1829,</marc:subfield>
+		<marc:subfield code="c">1779:3</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Dedication</marc:subfield>
+		<marc:subfield code="c">Front</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="x">The dedication reads: &quot;&quot;To the ladies, both nobility and commoners, who, during the late campaign, disdained not to share, in order to soften the inconveniencies of their husbands\' situation, the following little performance is most humbly dedicated: not on interested motives, but merely as a token of that admiration every Briton must feel of conduct so truly compatible with conjugal faith and conjugal affection. A conduct, in a most particular manner, respected and admired by, ladies, your most obedient, humble servant, the author.&quot;</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="590">
+		<marc:subfield code="a">Imperfect: half-title of v. 1 wanting?</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="592">
+		<marc:subfield code="a">Epistolary</marc:subfield>
+		<marc:subfield code="c">Poetry</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="599">
+		<marc:subfield code="a">Author (text)</marc:subfield>
+		<marc:subfield code="b">Generic/descriptive</marc:subfield>
+		<marc:subfield code="2">By a lady.</marc:subfield>
+		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="5">Female</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="599">
+		<marc:subfield code="a">Author (text)</marc:subfield>
+		<marc:subfield code="a">Author (paratext)</marc:subfield>
+		<marc:subfield code="b">Generic/descriptive</marc:subfield>
+		<marc:subfield code="2">Your most obedient, humble servant, the author.</marc:subfield>
+		<marc:subfield code="5">Indeterminate</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="7" tag="655">
+		<marc:subfield code="a">Epistolary fiction</marc:subfield>
+		<marc:subfield code="z">Ireland</marc:subfield>
+		<marc:subfield code="y">18th century.</marc:subfield>
+		<marc:subfield code="2">rbgenr</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">CHR 1779</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">PRO  Singer, Jacob (Donor)</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">PRO Singer, Leah (donor)</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">PRO Singer, Godfrey F. (honoree)</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Price</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Whitestone</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Wilkinson</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Williams</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Walker</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">E. Cross</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Jenkin</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Sleater</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Moncrieffe</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">W. Wilson</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Burnett</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Porter</marc:subfield>
+		<marc:subfield code="4">Published  by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Exshaw</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Beatty</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Burton</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Higley</marc:subfield>
+		<marc:subfield code="4">B. Watson</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Price</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Whitestone</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Wilkinson</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Williams</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Walker</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">E. Cross</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Jenkin</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Sleater</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Moncrieffe</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">W. Wilson</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Burnett</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Porter</marc:subfield>
+		<marc:subfield code="4">Published  by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Exshaw</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Beatty</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Burton</marc:subfield>
+		<marc:subfield code="4">Published by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Higley</marc:subfield>
+		<marc:subfield code="4">B. Watson</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Early Novels</marc:subfield>
+		<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="752">
+		<marc:subfield code="a">England</marc:subfield>
+		<marc:subfield code="d">London.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="950">
+		<marc:subfield code="l">RBC</marc:subfield>
+		<marc:subfield code="e">\\\\Singer-\\Menden-\\hall\\</marc:subfield>
+		<marc:subfield code="v">2 v.</marc:subfield>
+		<marc:subfield code="i">05/29/86 C</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="955">
+		<marc:subfield code="l">RBC</marc:subfield>
+		<marc:subfield code="c">1</marc:subfield>
+		<marc:subfield code="q">725152</marc:subfield>
+		<marc:subfield code="s">g. Mr. and Mrs. Jacob Singer</marc:subfield>
+		<marc:subfield code="s">in 1</marc:subfield>
+		<marc:subfield code="i">05/29/86 C</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="989">
+		<marc:subfield code="5">Coxheath-Camp</marc:subfield>
+		<marc:subfield code="2">Novel</marc:subfield>
+		<marc:subfield code="2">Series</marc:subfield>
+		<marc:subfield code="7">Letter</marc:subfield>
+		<marc:subfield code="2">Lady</marc:subfield>
+		<marc:subfield code="3">Two</marc:subfield>
+		<marc:subfield code="2">Volume</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="999">
+		<marc:subfield code="a">MFC</marc:subfield>
+		<marc:subfield code="b">7/16/2012</marc:subfield>
+		<marc:subfield code="c">Bryn Mawr College</marc:subfield>
+	</marc:datafield>
+</marc:record>

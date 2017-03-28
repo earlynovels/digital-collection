@@ -1,0 +1,213 @@
+<marc:record>
+	<marc:leader>04756cam a2200565 a 4500</marc:leader>
+	<marc:controlfield tag="001">341388</marc:controlfield>
+	<marc:controlfield tag="005">20130221160235.0</marc:controlfield>
+	<marc:controlfield tag="008">860226s1775    ie            00000 eng d</marc:controlfield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(PUVoyagerBIBID)187116</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(CStRLIN)PAUG86-B8072</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(MediadbVoyBIBID)341388</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="9">ABB0408</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(END)sm_pr3505_g42_d44_1775_v1</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(END)sm_pr3505_g42_d44_1775_v2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="040">
+		<marc:subfield code="a">PU</marc:subfield>
+		<marc:subfield code="c">PU</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="090">
+		<marc:subfield code="a">PR3505.G42</marc:subfield>
+		<marc:subfield code="b">D44 1775</marc:subfield>
+		<marc:subfield code="i">02/28/86 CTZ</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="1" ind2=" " tag="100">
+		<marc:subfield code="a">Griffith,</marc:subfield>
+		<marc:subfield code="c">Mrs.</marc:subfield>
+		<marc:subfield code="q">(Elizabeth),</marc:subfield>
+		<marc:subfield code="d">1720?-1793.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="1" ind2="4" tag="245">
+		<marc:subfield code="a">The delicate distress :</marc:subfield>
+		<marc:subfield code="b">a novel, in letters : in two volumes.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">The delicate distress: a novel. In letters. In two volumes. By Frances. Vol. I.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">The delicate distress: a novel. In letters. In two volumes. By Frances. Vol. II.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="7" tag="246">
+		<marc:subfield code="a">The delicate distress.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="260">
+		<marc:subfield code="a">Dublin</marc:subfield>
+		<marc:subfield code="b">Dublin: Printed for T. Walker, in Dame-Street.</marc:subfield>
+		<marc:subfield code="c">MDCCLXXV.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="300">
+		<marc:subfield code="a">2 v. ;</marc:subfield>
+		<marc:subfield code="c">17 cm. (12mo)</marc:subfield>
+		<marc:subfield code="x">Duodecimo</marc:subfield>
+		<marc:subfield code="z">In two volumes.</marc:subfield>
+		<marc:subfield code="a">[2 v.]</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">&quot;&quot;Frances&quot;&quot; is Elizabeth Griffith.  Cf. Halkett &amp; Laing (2nd ed.)&quot;</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">A printing error has placed the Dedication (numbered pp. iii-iv) after both the Preface (numbered pp. v-vi) and the first page of the text (numbered pp. 7-8).</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+		<marc:subfield code="c">N6231</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Preface</marc:subfield>
+		<marc:subfield code="b">Preface.</marc:subfield>
+		<marc:subfield code="c">Front</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="x">Discusses this work\'s location within the genre/form of &quot;&quot;novel&quot;&quot; and associated audiences</marc:subfield>
+		<marc:subfield code="x">Differentiates between novel-readers and &quot;&quot;common&quot;&quot; readers (e.g. &quot;&quot;The generality of NOVEL-READERS may, therefore, probably, be disapoointed in not meeting with any extraordinary adventure...while persons of a more natural taste, will, I flatter myself, be rather pleased at finding the stories and incidents, here related, such as might, for I affirm they did, and most of them to my own knowledge, certainly happen, in the various contingencies of real life.&quot;&quot;)</marc:subfield>
+		<marc:subfield code="x">Discusses origin in real events and persons (e.g. &quot;&quot;as there is no fictitious memoir here related&quot;&quot;) but admits that these events and purposes have been altered for the purposes of this work (e.g. &quot;&quot;But though I have not attempted to feign any fable, I acknowledge that I have endeavoured to conceal some truth, by changing scenes, and altering cirumstances...&quot;&quot;)</marc:subfield>
+		<marc:subfield code="x">Reacts against what may be seen as an early formalist critical approach to the novel and instead privileges &quot;&quot;sensibility&quot;&quot; over &quot;&quot;cold criticism&quot;&quot; (e.g. &quot;&quot;I know not whether novel...has any rules peculiar to itself...Sensibility is, in my mind, as necessary, as taste, to intitle us to judge of a work...and a cold criticism, formed upon rules for writing, can, therefore, be of no manner of use but to enable the stupid to speak, with a seeming intelligence&quot;&quot;)&quot;</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Dedication</marc:subfield>
+		<marc:subfield code="b">To his grace the Duke of Bedford.</marc:subfield>
+		<marc:subfield code="c">front</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="x">Reads: To his grace the Duke of Bedford. Sir, If a private suffrage could add fame to a public character, I should be the foremost to express my opinion of your Grace\'s merits; &quot;&quot;for they who speak thy praise secure their own.&quot;&quot; But as a compliment is always intended, in an address of this nature, I shall assume the sole honour of it to myself, by declaring to the world, that I am one of the many, who have reason to subscribe myself, With respect and gratitude, your Grace\'s, very much obliged, and most obedient servant, Frances.&quot;</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="590">
+		<marc:subfield code="a">Bound in 1 volume.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="591">
+		<marc:subfield code="a">L\'amour ne peut jamais subsister, sans peine, dans une ame delicate, mais ses peine mêmes, sont, quelquefois, la source de ses plus doux plaisirs.</marc:subfield>
+		<marc:subfield code="2">Recueil Anonyme [Anonymous].</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="592">
+		<marc:subfield code="a">Epistolary</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="594">
+		<marc:subfield code="a">Mrs. Woolbrook</marc:subfield>
+		<marc:subfield code="b">Ink</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="x">On title page</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="599">
+		<marc:subfield code="a">Author (text)</marc:subfield>
+		<marc:subfield code="1">Proper name</marc:subfield>
+		<marc:subfield code="2">By Frances.</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
+		<marc:subfield code="5">Female</marc:subfield>
+		<marc:subfield code="6">Female</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="7" tag="655">
+		<marc:subfield code="a">Epistolary fiction</marc:subfield>
+		<marc:subfield code="z">England</marc:subfield>
+		<marc:subfield code="y">18th century</marc:subfield>
+		<marc:subfield code="2">rbgenr</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">CHR 1775</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">PRO Westbrook, Mrs. (Autograph)</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Griffith Mrs (Elizabeth)</marc:subfield>
+		<marc:subfield code="d">1720?-1793</marc:subfield>
+		<marc:subfield code="4">Author (text)</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Walker, T.</marc:subfield>
+		<marc:subfield code="4">Publisher</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Mrs. Woolbrook</marc:subfield>
+		<marc:subfield code="4">Author (epigraph)</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Bedford, John Russell Duke of</marc:subfield>
+		<marc:subfield code="4">Dedicatee</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Walker, T.</marc:subfield>
+		<marc:subfield code="4">Publisher</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Early Novels</marc:subfield>
+		<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="752">
+		<marc:subfield code="a">Ireland</marc:subfield>
+		<marc:subfield code="d">Dublin.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="1" tag="852">
+		<marc:subfield code="b">scsing</marc:subfield>
+		<marc:subfield code="t">1</marc:subfield>
+		<marc:subfield code="h">PR3505.G42</marc:subfield>
+		<marc:subfield code="i">D44 1775</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="3" ind2="0" tag="866">
+		<marc:subfield code="8">0</marc:subfield>
+		<marc:subfield code="a">2 v.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="950">
+		<marc:subfield code="l">RBC</marc:subfield>
+		<marc:subfield code="e">\\\\Singer-\\Menden-\\hall\\</marc:subfield>
+		<marc:subfield code="v">2 v.</marc:subfield>
+		<marc:subfield code="i">02/28/86 C</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="955">
+		<marc:subfield code="l">RBC</marc:subfield>
+		<marc:subfield code="c">1</marc:subfield>
+		<marc:subfield code="q">725169</marc:subfield>
+		<marc:subfield code="s">Ex libris: Westbrook, Mrs.</marc:subfield>
+		<marc:subfield code="s">Singer-Mendenhall</marc:subfield>
+		<marc:subfield code="s">in 1</marc:subfield>
+		<marc:subfield code="i">02/28/86 C</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="989">
+		<marc:subfield code="2">Distress</marc:subfield>
+		<marc:subfield code="2">Novel</marc:subfield>
+		<marc:subfield code="2">Letter</marc:subfield>
+		<marc:subfield code="2">Volume</marc:subfield>
+		<marc:subfield code="3">Delicate</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="999">
+		<marc:subfield code="a">AFD</marc:subfield>
+		<marc:subfield code="b">06/10/2011</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
+	</marc:datafield>
+</marc:record>

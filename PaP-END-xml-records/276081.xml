@@ -1,0 +1,180 @@
+<marc:record>
+        <marc:leader>02826cam a2200505 i 4500</marc:leader>
+        <marc:controlfield tag="001">276081</marc:controlfield>
+        <marc:controlfield tag="005">20130404162024.0</marc:controlfield>
+        <marc:controlfield tag="008">940413s1724    enk           000 1 eng d</marc:controlfield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CStRLIN)PAUGEAY7953-B</marc:subfield></marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="9">EAY7953</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">1812293</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(END)rbc_PR3291_A1_L683_1724</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(MediadbVoyBIBID)276081</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="040">
+            <marc:subfield code="a">PU</marc:subfield>
+            <marc:subfield code="c">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="090">
+            <marc:subfield code="f">h</marc:subfield>
+            <marc:subfield code="n">\\jl\\</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="245">
+            <marc:subfield code="a">Love upon tick, or, Implicit gallantry :</marc:subfield>
+            <marc:subfield code="b">exemplified, in some merry memoirs of the rise and progress of an extraordinary and occasional amour : In which the whole mechanism of that passion is expos\'d, and made obvious to the meanest capacity /</marc:subfield>
+            <marc:subfield code="c">by the author of -----.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="5" tag="246">
+            <marc:subfield code="a">Love upon tick: or, implicit gallantry. Exemplified, in some merry memoirs of the rise and progress of an extraordinary and occasional amour. In which the whole mechanism of that passion is expos\'d, and made obvious to the meanest capacity.</marc:subfield>
+            <marc:subfield code="b">By the author of ----</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Main</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="260">
+            <marc:subfield code="a">London :</marc:subfield>
+            <marc:subfield code="b">Printed and sold by J. Billingsley, and W. Meadows, in Cornhill : T. Worral, against St. Dunstan\'s Church in Fleet-Street : And J. Stagg, in Westminster Hall,</marc:subfield>
+            <marc:subfield code="c">1724.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">xxx, 143 p. ;</marc:subfield>
+            <marc:subfield code="c">20 cm.</marc:subfield>
+            <marc:subfield code="x">Octavo</marc:subfield>
+            <marc:subfield code="a">[1 v.]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Title within double line border.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Attributed to Mary Manley. Cf. Cambridge bibliography of English literature, v.2, col.990.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+            <marc:subfield code="c"/>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">McBurney, W.H.  Engl. prose fiction,</marc:subfield>
+            <marc:subfield code="c">150</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="520">
+            <marc:subfield code="a">Dedication</marc:subfield>
+            <marc:subfield code="b">To Philander</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="520">
+            <marc:subfield code="a">Preface</marc:subfield>
+            <marc:subfield code="b">The preface</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="591">
+            <marc:subfield code="a">Doubtless the pleasure is as great, -- Of being cheated, as to cheat.</marc:subfield>
+            <marc:subfield code="c">Hud.</marc:subfield>
+            <marc:subfield code="d">Title page</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="591">
+            <marc:subfield code="a">Semel insanivimus omnes.</marc:subfield>
+            <marc:subfield code="d">Title page</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="592">
+            <marc:subfield code="a">Epistolary</marc:subfield>
+            <marc:subfield code="b">Third-person</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="b">Reference to other works</marc:subfield>
+            <marc:subfield code="2">By the author of -----</marc:subfield>
+            <marc:subfield code="3">Title page</marc:subfield>
+            <marc:subfield code="5">Indeterminate</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Author (paratext)</marc:subfield>
+            <marc:subfield code="b">Generic/Descriptive</marc:subfield>
+            <marc:subfield code="2">Your profess\'d admirer and devoted humble servant, the author</marc:subfield>
+            <marc:subfield code="3">Dedication</marc:subfield>
+            <marc:subfield code="5">Indeterminate</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">CHR 1724</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="0" tag="700">
+            <marc:subfield code="a">Manley,</marc:subfield>
+            <marc:subfield code="c">Mrs.</marc:subfield>
+            <marc:subfield code="q">(Mary de la Rivière),</marc:subfield>
+            <marc:subfield code="d">1663-1724.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">J. Billingsley, and W. Meadows.</marc:subfield>
+            <marc:subfield code="4">Publisher</marc:subfield>
+            <marc:subfield code="4">Bookseller</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+            <marc:subfield code="9">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="1" tag="740">
+            <marc:subfield code="a">Love upon tick.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="1" tag="740">
+            <marc:subfield code="a">Implicit gallantry.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="856">
+            <marc:subfield code="a">Google Books</marc:subfield>
+            <marc:subfield code="z">http://books.google.com/books?id=rYAPAAAAYAAJ</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="920">
+            <marc:subfield code="5">Philander</marc:subfield>
+            <marc:subfield code="5"/>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="920">
+            <marc:subfield code="2">preface</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="948">
+            <marc:subfield code="a">jl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="950">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="a">PR3291.A1</marc:subfield>
+            <marc:subfield code="b">L683 1724</marc:subfield>
+            <marc:subfield code="i">01/01/01 N</marc:subfield>
+            <marc:subfield code="x">010</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="955">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="s">726658</marc:subfield>
+            <marc:subfield code="s">recl. fr. 823/L939</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="989">
+            <marc:subfield code="2">love</marc:subfield>
+            <marc:subfield code="2">tick</marc:subfield>
+            <marc:subfield code="3">implicit</marc:subfield>
+            <marc:subfield code="2">gallantry</marc:subfield>
+            <marc:subfield code="3">merry</marc:subfield>
+            <marc:subfield code="2">memoir</marc:subfield>
+            <marc:subfield code="2">rise</marc:subfield>
+            <marc:subfield code="2">progress</marc:subfield>
+            <marc:subfield code="3">extraordinary</marc:subfield>
+            <marc:subfield code="3">occasional</marc:subfield>
+            <marc:subfield code="2">amour</marc:subfield>
+            <marc:subfield code="3">whole</marc:subfield>
+            <marc:subfield code="2">mechanism</marc:subfield>
+            <marc:subfield code="2">passion</marc:subfield>
+            <marc:subfield code="3">obvious</marc:subfield>
+            <marc:subfield code="3">meanest</marc:subfield>
+            <marc:subfield code="2">capacity</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="998">
+            <marc:subfield code="n">PU</marc:subfield>
+            <marc:subfield code="z">BNA</marc:subfield>
+        </marc:datafield>
+    </marc:record>

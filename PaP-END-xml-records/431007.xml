@@ -1,0 +1,235 @@
+<marc:record>
+        <marc:leader>04561cam a2200625 a 4500</marc:leader>
+        <marc:controlfield tag="001">431007</marc:controlfield>
+        <marc:controlfield tag="005">20130621103500.0</marc:controlfield>
+        <marc:controlfield tag="008">851220s1769    ie            00010 eng d</marc:controlfield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CStRLIN)PAUG85-B45189</marc:subfield></marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CaOTULAS)121284616</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="9">ABC4488</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">199565</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(END)PQ1995_L75_N613_1769</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(MediadbVoyBIBID)431007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="040">
+            <marc:subfield code="a">PU</marc:subfield>
+            <marc:subfield code="c">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2=" " tag="041">
+            <marc:subfield code="a">eng</marc:subfield>
+            <marc:subfield code="h">fre</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="090">
+            <marc:subfield code="a">PQ1995.L75</marc:subfield>
+            <marc:subfield code="b">N613 1769</marc:subfield>
+            <marc:subfield code="i">01/03/86 CT</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2=" " tag="100">
+            <marc:subfield code="a">Leprince de Beaumont,</marc:subfield>
+            <marc:subfield code="c">Madame</marc:subfield>
+            <marc:subfield code="q">(Jeanne-Marie),</marc:subfield>
+            <marc:subfield code="d">1711-1780.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="0" tag="240">
+            <marc:subfield code="a">Nouvelle Clarice.</marc:subfield>
+            <marc:subfield code="l">English</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="4" tag="245">
+            <marc:subfield code="a">The new Clarissa :</marc:subfield>
+            <marc:subfield code="b">a true history /</marc:subfield>
+            <marc:subfield code="c">by Madame de Beaumont.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">The new Clarissa: a true history. By Madame de Beaumont. Volume the first.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">The new Clarissa: a true history. By Madame de Beaumont. Volume the second.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="7" tag="246">
+            <marc:subfield code="a">Letters.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="7" tag="246">
+            <marc:subfield code="a">Letters. (verso)</marc:subfield>
+            <marc:subfield code="a">Letters. (recto)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="260">
+            <marc:subfield code="a">Dublin :</marc:subfield>
+            <marc:subfield code="b">Printed for J. Exshaw and J. Potts, in Dame-street, and J. Williams in Skinner-row.</marc:subfield>
+            <marc:subfield code="c">MDCCLXIX. (1769)</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">2 v. ;</marc:subfield>
+            <marc:subfield code="c">17 cm.</marc:subfield>
+            <marc:subfield code="x">Duodecimo</marc:subfield>
+            <marc:subfield code="a">[2 v.]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">[1]-300</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">[1]-296</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Translation of: La nouvelle Clarisse, histoire véritable.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Cf. Raven, J.  British fiction, 1750-1770, 1325, Notes, for reference to this work.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Bookplate - &quot;Nec volenti nec volenti.&quot;  Front pastedown.  Edward Westby, Esq.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">An unlabeled author\'s note appears at the end of the last letter of Vol. II. It is written in italics. It reads: &quot;The two friends left off writing, because lady Balfour went to visit her friend, along with Mrs. Darby, and staid there a considerable time.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+            <marc:subfield code="c">N40900</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="520">
+            <marc:subfield code="a">Footnotes</marc:subfield>
+            <marc:subfield code="c">Middle</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="x">On p. 286 of Vol. I, a footnote is denoted with an asterisk; it clarifies information on the world external to the novel (&quot;A Carthusian monastery, which practices the greatest austerities.&quot;)</marc:subfield>
+            <marc:subfield code="x">On p. 13 in Vol. II, an &quot;(a)&quot; denotes a footnote, which extends the fiction of the novel by offering a plot explanation (&quot;He had only a thousand livres in his hands, because he had remitted Clarissa the four thousand he had told of her.&quot;)</marc:subfield>
+            <marc:subfield code="x">On p. 145 of Vol. II, a footnote appears with an asterisk which clarifies information on the world external to the novel (&quot;In places near the parliaments, the peasants imagine, that, next to a prince, nobody is so great as a president.&quot;)</marc:subfield>
+            <marc:subfield code="x">On p. 174 of Vol. II, a footnote is denoted by an asterisk; it clarifies information on the world external to the novel (&quot;Noviciates in monasteries, are places set apart for the receptions of young persons, who intent taking the religous habit.&quot;)</marc:subfield>
+            <marc:subfield code="x">On p. 182 of Vol. II, a footnote is denoted with an asterisk; it clarifies information on the world external to the novel (&quot;A part of the breviary.&quot;)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="592">
+            <marc:subfield code="a">Epistolary</marc:subfield>
+            <marc:subfield code="d">A list appears on p. 176 of Vol. II, projecting total membership in one of three classes: &quot;the children of the state&quot; or &quot;those who were taken by vagabonds&quot;; &quot;young persons who take religous orders through infancy, persuasion, force, laziness, and other such motives&quot;; and &quot;this last class.&quot; The list seems to be related to a larger conversation on monasteries and religion.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="594">
+            <marc:subfield code="a">Edward Westby</marc:subfield>
+            <marc:subfield code="b">Ink</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="b">Proper name</marc:subfield>
+            <marc:subfield code="2">By Madame de Beaumont</marc:subfield>
+            <marc:subfield code="3">Title page</marc:subfield>
+            <marc:subfield code="5">Female</marc:subfield>
+            <marc:subfield code="6">Female</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">CHR 1769</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">PRO Westby, Edward (signature)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">PRO Mendenhall, John C. (donor)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Edward Westby, Esq.</marc:subfield>
+            <marc:subfield code="4">Author (bookplate)</marc:subfield>
+            <marc:subfield code="4">Author (inscription)</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Leprince de Beaumont,</marc:subfield>
+            <marc:subfield code="c">Madame</marc:subfield>
+            <marc:subfield code="g">(Jeanne-Marie)</marc:subfield>
+            <marc:subfield code="d">1711-1780</marc:subfield>
+            <marc:subfield code="4">Author (text)</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Exshaw, J.</marc:subfield>
+            <marc:subfield code="g">John</marc:subfield>
+            <marc:subfield code="d">1750 or 1751-1827</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Potts, James</marc:subfield>
+            <marc:subfield code="d">-1796</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">J. Williams</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="710">
+            <marc:subfield code="a">J. Williams</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="710">
+            <marc:subfield code="a">J. Exshaw</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="710">
+            <marc:subfield code="a">J. Potts</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="752">
+            <marc:subfield code="a">Ireland</marc:subfield>
+            <marc:subfield code="d">Dublin.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="950">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="e">\\\\Singer-\\Menden-\\hall\\</marc:subfield>
+            <marc:subfield code="v">2 v.</marc:subfield>
+            <marc:subfield code="i">01/03/86 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="955">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">1:(v.1-2)</marc:subfield>
+            <marc:subfield code="q">50-588</marc:subfield>
+            <marc:subfield code="s">g. John C. Mendenhall</marc:subfield>
+            <marc:subfield code="i">01/03/86 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="989">
+            <marc:subfield code="3">New</marc:subfield>
+            <marc:subfield code="5">Clarissa</marc:subfield>
+            <marc:subfield code="3">True</marc:subfield>
+            <marc:subfield code="2">History</marc:subfield>
+            <marc:subfield code="5">Madame de Beaumont</marc:subfield>
+            <marc:subfield code="2">Volume</marc:subfield>
+            <marc:subfield code="3">Second.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="999">
+            <marc:subfield code="a">ANS</marc:subfield>
+            <marc:subfield code="b">6/19/2013</marc:subfield>
+            <marc:subfield code="c">Swarthmore College</marc:subfield>
+            <marc:subfield code="d">JRH</marc:subfield>
+        </marc:datafield>
+    </marc:record>

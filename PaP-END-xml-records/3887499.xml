@@ -1,0 +1,204 @@
+<marc:record>
+        <marc:leader>04706cam a2200529 i 4500</marc:leader>
+        <marc:controlfield tag="001">3887499</marc:controlfield>
+        <marc:controlfield tag="005">20141218193231.0</marc:controlfield>
+        <marc:controlfield tag="008">870505s1734    enk           000 1 eng d</marc:controlfield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(OCoLC)ocm15632529</marc:subfield></marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(OCoLC)15632529</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(PUVoyagerBIBID)3887499</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">3887499</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="040">
+            <marc:subfield code="a">CLU</marc:subfield>
+            <marc:subfield code="c">CLU</marc:subfield>
+            <marc:subfield code="d">YUS</marc:subfield>
+            <marc:subfield code="d">WaOLN</marc:subfield>
+            <marc:subfield code="d">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="050">
+            <marc:subfield code="a">PR3291.A1</marc:subfield>
+            <marc:subfield code="b">U55 1734</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="4" tag="245">
+            <marc:subfield code="a">The unnatural mother, or, Innocent love persecuted :</marc:subfield>
+            <marc:subfield code="b">Being the genuine and most affecting history of the tragical and fatal consequences that attended the sincere and disinterested passion of a gentleman of an eminent station in the law, and a young lady of a considerable family in one of the politest courts of Europe.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="0" tag="246">
+            <marc:subfield code="a">The unnatural mother: or, innocent love persecuted. Being the genuine and most affecting history of the tragical and fatal consequences that attended the sincere and disinterested passion of a gentleman of an eminent station in the law, and a young lady of a considerable family in one of the politest courts of Europe.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Work</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="260">
+            <marc:subfield code="a">London</marc:subfield>
+            <marc:subfield code="b">Printed for J. Roberts in Warwick-Lane, and sold by the booksellers in town and country.</marc:subfield>
+            <marc:subfield code="c">M.DCC.XXXIV.</marc:subfield>
+            <marc:subfield code="c">1734</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">[2], 107, [3] p. ;</marc:subfield>
+            <marc:subfield code="c">20 cm. (8vo)</marc:subfield>
+            <marc:subfield code="x">Quarto</marc:subfield>
+            <marc:subfield code="a">[1 v.]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Title page notes that book was priced at &quot;&quot;1s. 6d.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Originally catalogued as an octavo but appears to actually be a quarto.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Strip of paper pasted to the front paste-down endpaper reads: &quot;&quot;500 MANLEY (Mrs.) Unnatural Mother, or Innocent Love Persecuted, 8vo, half calf neat, SCARCE, 4s 6d 1784&quot;&quot;.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Library-related marginalia, located recto first leaf main text and back free endpaper.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Book includes an auction slip claiming that the author may be Robert Chasles.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">&quot;&quot;Price 1s. 6d.&quot;&quot; printed beneath publication information on title page.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">ESTC</marc:subfield>
+            <marc:subfield code="c">T65758</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="590">
+            <marc:subfield code="a">Acquired for the Penn Libraries with assistance from the Rosengarten Family Fund.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="590">
+            <marc:subfield code="a">Acquired for the Penn Libraries with assistance from the Albert C. Baugh Book Fund.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="591">
+            <marc:subfield code="a">In vain it is from fate to fly, --- Since first, or last, we all must dye: --- And \'tis, as sure decreed above, --- That first, or last, we all must love.</marc:subfield>
+            <marc:subfield code="2">Lansdowne</marc:subfield>
+            <marc:subfield code="c">George Granville, Baron Lansdowne</marc:subfield>
+            <marc:subfield code="x">Title page</marc:subfield>
+            <marc:subfield code="x">Seems to come from a poem titled in different editions &quot;&quot;To Myra,&quot;&quot;  &quot;&quot;Loving at First Sight,&quot;&quot; and &quot;&quot;To Myra. Loving at First Sight.&quot;&quot; Slight differences in wording and punctuation between the lines as they appear in different editions of Granville\'s work and as they are quoted here.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="592">
+            <marc:subfield code="a">First-person</marc:subfield>
+            <marc:subfield code="b">Letters</marc:subfield>
+            <marc:subfield code="x">Letters between characters appear on pp. 11-12, 25-6, 69-70, 81, 95, and 103.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Words</marc:subfield>
+            <marc:subfield code="b">Numbers</marc:subfield>
+            <marc:subfield code="x">&quot;&quot;500&quot;&quot;, &quot;&quot;4/6&quot;&quot;, &quot;&quot;7-&quot;&quot;, and &quot;&quot;Collated&quot;&quot; written on front paste-down endpaper.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Words</marc:subfield>
+            <marc:subfield code="b">Numbers</marc:subfield>
+            <marc:subfield code="x">Markings on front free endpaper, apparently from auctioneer or bookseller (some information repeated from auction slip kept inside front cover). Includes the seller\'s guess at the possible identity of the author (Chasles) and abbreviations for the locations of other editions of the book: &quot;&quot;7-D30-9 (Chasles) McBurney 221a 1st ed of this translation L, O, CtY, CLU, IU&quot;&quot;.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Words</marc:subfield>
+            <marc:subfield code="x">&quot;&quot;Half Bound&quot;&quot; written at the top of the title page.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Words</marc:subfield>
+            <marc:subfield code="b">Numbers</marc:subfield>
+            <marc:subfield code="x">Letters and numbers written on p. 1.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Ink</marc:subfield>
+            <marc:subfield code="b">Numbers</marc:subfield>
+            <marc:subfield code="x">&quot;&quot;6&quot;&quot; written on title page.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Ink</marc:subfield>
+            <marc:subfield code="b">Words</marc:subfield>
+            <marc:subfield code="x">&quot;&quot;s[]le&quot;&quot; written on front paste-down endpaper.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">CHR 1734</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="656">
+            <marc:subfield code="a">Mixed Genre</marc:subfield>
+            <marc:subfield code="b">Back</marc:subfield>
+            <marc:subfield code="c">No relation</marc:subfield>
+            <marc:subfield code="x">Heading: &quot;&quot;New pamphlets lately publish\'d.&quot;&quot; Books advertised with lengthy summaries of their content, followed by several lines of verse.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Roberts, James</marc:subfield>
+            <marc:subfield code="d">1668 or 1669-1754</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="700">
+            <marc:subfield code="a">Lansdowne, George Granville Baron</marc:subfield>
+            <marc:subfield code="d">1667-1735</marc:subfield>
+            <marc:subfield code="4">Author (epigraph)</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+            <marc:subfield code="5">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Albert C. Baugh Book Fund.</marc:subfield>
+            <marc:subfield code="5">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Rosengarten Family Fund.</marc:subfield>
+            <marc:subfield code="5">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2="2" tag="856">
+            <marc:subfield code="3">The Albert C. Baugh Book Fund Home Page</marc:subfield>
+            <marc:subfield code="u">http://hdl.library.upenn.edu/1017.12/366189</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2="2" tag="856">
+            <marc:subfield code="3">The Rosengarten Family Fund Home Page</marc:subfield>
+            <marc:subfield code="u">http://hdl.library.upenn.edu/1017.12/366323</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="989">
+            <marc:subfield code="3">Unnatural</marc:subfield>
+            <marc:subfield code="2">Mother</marc:subfield>
+            <marc:subfield code="3">Innocent</marc:subfield>
+            <marc:subfield code="2">Love</marc:subfield>
+            <marc:subfield code="3">Persecuted</marc:subfield>
+            <marc:subfield code="3">Genuine</marc:subfield>
+            <marc:subfield code="8">Most</marc:subfield>
+            <marc:subfield code="3">Affecting</marc:subfield>
+            <marc:subfield code="2">History</marc:subfield>
+            <marc:subfield code="3">Tragical</marc:subfield>
+            <marc:subfield code="3">Fatal</marc:subfield>
+            <marc:subfield code="2">Consequence</marc:subfield>
+            <marc:subfield code="6">Attend</marc:subfield>
+            <marc:subfield code="3">Sincere</marc:subfield>
+            <marc:subfield code="3">Disinterested</marc:subfield>
+            <marc:subfield code="2">Passion</marc:subfield>
+            <marc:subfield code="2">Gentleman</marc:subfield>
+            <marc:subfield code="3">Eminent</marc:subfield>
+            <marc:subfield code="2">Station</marc:subfield>
+            <marc:subfield code="2">Law</marc:subfield>
+            <marc:subfield code="3">Young</marc:subfield>
+            <marc:subfield code="2">Lady</marc:subfield>
+            <marc:subfield code="3">Considerable</marc:subfield>
+            <marc:subfield code="2">Family</marc:subfield>
+            <marc:subfield code="2">One</marc:subfield>
+            <marc:subfield code="3">Politest</marc:subfield>
+            <marc:subfield code="2">Court</marc:subfield>
+            <marc:subfield code="4">Europe</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="999">
+            <marc:subfield code="a">YDS</marc:subfield>
+            <marc:subfield code="b">7/21/15</marc:subfield>
+            <marc:subfield code="c">Swarthmore College</marc:subfield>
+            <marc:subfield code="d">KGP</marc:subfield>
+        </marc:datafield>
+    </marc:record>

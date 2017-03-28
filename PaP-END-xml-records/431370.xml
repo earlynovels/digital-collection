@@ -1,0 +1,204 @@
+ <marc:record>
+	<marc:leader>05217cam a2200553 a 4500</marc:leader>
+	<marc:controlfield tag="001">431370</marc:controlfield>
+	<marc:controlfield tag="005">20130729153201.0</marc:controlfield>
+	<marc:controlfield tag="008">860319s1787    mau           00000 eng d</marc:controlfield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(CStRLIN)PAUG86-B10520</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(CaOTULAS)146815899</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(END)pr_3291_a1_l56_1787</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(MediadbVoyBIBID)431370</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="9">AAW2165</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">145447</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="040">
+		<marc:subfield code="a">PU</marc:subfield>
+		<marc:subfield code="c">PU</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="090">
+		<marc:subfield code="a">PR3291.A1</marc:subfield>
+		<marc:subfield code="b">L56 1787</marc:subfield>
+		<marc:subfield code="i">09/26/86 CT</marc:subfield>
+		<marc:subfield code="h">03/19/86 CT</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="4" tag="245">
+		<marc:subfield code="a">The Life of Cassem, the son of Hamid, a noble Arabian :</marc:subfield>
+		<marc:subfield code="b">translated from an oriental manuscript.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">The life of Cassem, the son of Hamid, a noble Arabian.  Translated from an Oriental manuscript.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Work</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2=" " tag="260">
+		<marc:subfield code="a">Boston</marc:subfield>
+		<marc:subfield code="b">Printed by Samuel Hall, in State-Street.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="300">
+		<marc:subfield code="a">[2], ii, 36 p. ;</marc:subfield>
+		<marc:subfield code="c">13 cm. (12mo)</marc:subfield>
+		<marc:subfield code="a">[1 v.]</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="300">
+		<marc:subfield code="a">[i]-ii, [1]-36</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Signed: Cassem.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">The date of publication was not listed on the title page, but is known to be 1787.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Alleged author Bezaliel Bryant was born 27 July, 1765 in Bridgewater, MA.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">Evans</marc:subfield>
+		<marc:subfield code="c">20458</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+		<marc:subfield code="c">W26581</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Preface</marc:subfield>
+		<marc:subfield code="b">The preface.</marc:subfield>
+		<marc:subfield code="c">Front</marc:subfield>
+		<marc:subfield code="x">First lines read: &quot;The eastern way of writing hath been justly admired in all ages.  The bold metaphors and noble simplicity almost peculiar to the orientals add a lustre to their compositions, not to be rivalled by the greatest orators of Greece and Rome.&quot;</marc:subfield>
+		<marc:subfield code="x">Comments on translations from Arabic: &quot; [...] even the English reader may form some idea of their sublime writings, by the translation of the scriptures, which yet falls infinitely short of the divine original. The blooming flowers of the east lose a great deal of their fragrancy and liveliness of color, become more languid and sickly, by being transplanted to the colder climates of the North [...] I have, in the following pages, endeavoured to shadow out some of the beauties of the original Arabic; and if I have failed in the copy, I hope the candid reader will pardon me, since the picture is almost inimitable, at least a very difficult task for an unexperienced hand.&quot;</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Footnotes</marc:subfield>
+		<marc:subfield code="c">Front</marc:subfield>
+		<marc:subfield code="c">Middle</marc:subfield>
+		<marc:subfield code="x">Footnote in the preface, p. ii: &quot;Vide Longinus de sublimate.&quot; Reference to the world external to the novel.</marc:subfield>
+		<marc:subfield code="x">A footnote that appears on p. 3 of the text clarifies a reference to the world external to the novel.</marc:subfield>
+		<marc:subfield code="x">A footnote on p. 11 references a literary work external to the novel.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Appendix</marc:subfield>
+		<marc:subfield code="b">Appendix</marc:subfield>
+		<marc:subfield code="c">Back</marc:subfield>
+		<marc:subfield code="x">Includes a letter</marc:subfield>
+		<marc:subfield code="x">First lines read: &quot;I hope it will not be thought impertinent here to subjoin a translation of Cassem\'s letter to Helim, his late preceptor. It was written a few days before his death, and contains his most private sentiments, which he freely unbosoms to his friend: for it seems he always had a tender regard for Helim, and communicated his thoughts to him with less reserve than to any of his preceptors.&quot;</marc:subfield>
+		<marc:subfield code="x">Letter: &quot;[...] Thou gavest me first to know the supreme goodness that made me; and didst teach my lisping infant tongue to celebrate the praises of the all-gracious Allah. Thy wisdom conducted me through the regions of immensity; shewed me the various systems that fill the unmeasured space, and taught me how the jarring elements were harmonized by the creator\'s all-powerful word.&quot;</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="590">
+		<marc:subfield code="a">Imperfect: imprint date erased from t.p.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="592">
+		<marc:subfield code="a">Third-person</marc:subfield>
+		<marc:subfield code="x">Includes a transcription of a manuscript on p. 22. Manuscript titled &quot;The evening meditation of Cassem-ben-Hamid, being an emblematical description of the resurrection.&quot;</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="595">
+		<marc:subfield code="a">[Illegible]</marc:subfield>
+		<marc:subfield code="b">Ink</marc:subfield>
+		<marc:subfield code="x">Partially erased inscription on the page facing the title.  Seems to include the word &quot;Cassem.&quot;</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="594">
+		<marc:subfield code="a">B. Bryant\'s [illegible] Cassem the son of Hamid</marc:subfield>
+		<marc:subfield code="a">B. Bryant Bezaliel Bryant</marc:subfield>
+		<marc:subfield code="b">Ink</marc:subfield>
+		<marc:subfield code="x">The first inscription (&quot;B. Bryant\'s [illegible] Cassem the son of Hamid&quot;) is found on the verso side of the title page. The second (&quot;B. Bryant Bezaliel Bryant&quot;) is found on the recto side of the page facing p. 36.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="596">
+		<marc:subfield code="a">Translation</marc:subfield>
+		<marc:subfield code="b">Preface</marc:subfield>
+		<marc:subfield code="c">Arabic</marc:subfield>
+		<marc:subfield code="e">I have, in the following pages, endeavoured to shadow out some of the beauties of the original Arabic [...]</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="599">
+		<marc:subfield code="a">Translator (text)</marc:subfield>
+		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
+		<marc:subfield code="2">I have, in the following pages, endeavoured to shadow out some of the beauties of the original Arabic [...]</marc:subfield>
+		<marc:subfield code="3">Preface</marc:subfield>
+		<marc:subfield code="6">Unknown</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="599">
+		<marc:subfield code="a">Author (paratext)</marc:subfield>
+		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
+		<marc:subfield code="2">I hope the candid reader will pardon me [...]</marc:subfield>
+		<marc:subfield code="3">Preface</marc:subfield>
+		<marc:subfield code="6">Unknown</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="599">
+		<marc:subfield code="a">Author (text)</marc:subfield>
+		<marc:subfield code="b">Proper name</marc:subfield>
+		<marc:subfield code="2">B. Bryant\'s [...] Cassem the son of Hamid</marc:subfield>
+		<marc:subfield code="3"/>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">CHR 1787</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">PRO Mendenhall, John C. (donor)</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="2" tag="740">
+		<marc:subfield code="a">Cassem.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Hall, Samuel</marc:subfield>
+		<marc:subfield code="d">1740-1807</marc:subfield>
+		<marc:subfield code="4">Printed by</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Bezaliel Bryant</marc:subfield>
+		<marc:subfield code="4">Inscribed by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Samuel Hall</marc:subfield>
+		<marc:subfield code="4">Printed by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+		<marc:subfield code="5">PU</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Early Novels</marc:subfield>
+		<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="950">
+		<marc:subfield code="l">RBC</marc:subfield>
+		<marc:subfield code="e">\\\\Singer-\\Menden-\\hall\\</marc:subfield>
+		<marc:subfield code="i">09/26/86 RL</marc:subfield>
+		<marc:subfield code="h">03/19/86 C</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="955">
+		<marc:subfield code="l">RBC</marc:subfield>
+		<marc:subfield code="c">1</marc:subfield>
+		<marc:subfield code="q">50-981</marc:subfield>
+		<marc:subfield code="s">g. John C. Mendenhall</marc:subfield>
+		<marc:subfield code="h">03/19/86 C</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="989">
+		<marc:subfield code="a"/>
+		<marc:subfield code="2">Life</marc:subfield>
+		<marc:subfield code="5">Cassem</marc:subfield>
+		<marc:subfield code="2">Son</marc:subfield>
+		<marc:subfield code="5">Hamid</marc:subfield>
+		<marc:subfield code="3">Noble</marc:subfield>
+		<marc:subfield code="2">Arabian</marc:subfield>
+		<marc:subfield code="3">Translated</marc:subfield>
+		<marc:subfield code="3">Oriental</marc:subfield>
+		<marc:subfield code="2">Manuscript</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="999">
+		<marc:subfield code="a">JRH</marc:subfield>
+		<marc:subfield code="b">6/20/13</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
+		<marc:subfield code="d">ANS</marc:subfield>
+	</marc:datafield>
+</marc:record>

@@ -1,0 +1,197 @@
+<marc:record>
+        <marc:leader>03702cam a2200541 a 4500</marc:leader>
+        <marc:controlfield tag="001">431356</marc:controlfield>
+        <marc:controlfield tag="005">20130624114609.0</marc:controlfield>
+        <marc:controlfield tag="008">861028s1785    enk           00010 eng d</marc:controlfield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CStRLIN)PAUG86-B46160</marc:subfield></marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CaOTULAS)146819732</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="9">AAQ2491</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">107478</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(END)sm_pr5233_r27_c3_1777</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(MediadbVoyBIBID) 431356</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="040">
+            <marc:subfield code="a">PU</marc:subfield>
+            <marc:subfield code="c">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="090">
+            <marc:subfield code="a">PR5233.R27</marc:subfield>
+            <marc:subfield code="b">C3 1777</marc:subfield>
+            <marc:subfield code="i">10/28/86 CT</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="0" tag="100">
+            <marc:subfield code="a">Thomas, Rowley.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="4" tag="245">
+            <marc:subfield code="a">The frolics of fancy :</marc:subfield>
+            <marc:subfield code="b">a familiar epistle, characteristic of Tristram Shandy, to Charles Reynolds, Esq; /</marc:subfield>
+            <marc:subfield code="c">by Rowley Thomas.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">The frolics of fancy, a familiar epistle, characteristic of Tristram Shandy, to Charles Reynolds, Esq; by Rowley Thomas. Second edition, with large additions.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Work</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="250">
+            <marc:subfield code="a">Second edition, with large additions.</marc:subfield>
+            <marc:subfield code="b">Second edition</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="260">
+            <marc:subfield code="a">Shrewsbury :</marc:subfield>
+            <marc:subfield code="b">Printed for the author, by J. Eddowes,</marc:subfield>
+            <marc:subfield code="c">MDCCLXXXV.</marc:subfield>
+            <marc:subfield code="c">1785</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">[2], 30, [2] p. ;</marc:subfield>
+            <marc:subfield code="c">25 cm. (4to)</marc:subfield>
+            <marc:subfield code="x">Quarto</marc:subfield>
+            <marc:subfield code="a">[1 v.]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">&quot;Rowley Thomas is probably a pseudonym.&quot; -- BM.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">The novel is bound together with  &quot;Capitivity&quot; and &quot;Celadon and Lydia&quot;, by Mary Robinson; the works by Robinson and Thomas were printed separately, as the page numbers start at page 2 for &quot;The frolics of fancy&quot;.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Reprint of the first edition of 34 pages.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Writing in pencil on the recto of the first endpaper describes the two works that are bound together, and gives their publiation date.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Bookplate on front pastedown reads: &quot;Ex Libris --- Percival F. Hinton&quot;.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Author claim appears in text on page 5. Author claim type: Author (text); Author claim description: Generic/Descriptive; Author claim transcription: And now, Thalia, come again, --- And give me Tristram Shandy\'s pen; --- For Tristram Shandy we\'ll describe; Author claim location: Middle; Author gender claim: indeterminate; Actual gender: male.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="520">
+            <marc:subfield code="a">Note</marc:subfield>
+            <marc:subfield code="b">Caetera desunt</marc:subfield>
+            <marc:subfield code="c">Middle</marc:subfield>
+            <marc:subfield code="x">A note, &quot;Caetera desunt&quot; appears on page 14, followed by a line of asterisks, and indicates an omission in the text.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="520">
+            <marc:subfield code="a">Footnote</marc:subfield>
+            <marc:subfield code="c">Middle</marc:subfield>
+            <marc:subfield code="x">A footnote appearing on page 19 references the author\'s time as a clerk to John Ashby, Esq.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="590">
+            <marc:subfield code="a">With: Captivity / Mary Robinson.  London : Printed for T. Becket ..., 1777.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="590">
+            <marc:subfield code="a">Imperfect: half-title wanting.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="591">
+            <marc:subfield code="a">-----Nostri est farrago libelli.</marc:subfield>
+            <marc:subfield code="2">Juv.</marc:subfield>
+            <marc:subfield code="b">Satire 1</marc:subfield>
+            <marc:subfield code="c">Juvenal</marc:subfield>
+            <marc:subfield code="x">Appears on title page.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="591">
+            <marc:subfield code="a">Sic leve, sic parvum est, animum quod laudis avarum --- subruit aut reficit; valeat res ludicra! si me --- palma negata macrum, donata reducat opimum.</marc:subfield>
+            <marc:subfield code="2">Hor.</marc:subfield>
+            <marc:subfield code="x">Appears on title page.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="592">
+            <marc:subfield code="a">Epistolary</marc:subfield>
+            <marc:subfield code="c">Poems</marc:subfield>
+            <marc:subfield code="x">The entire text consists of a single letter, written in verse.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="1">Proper name</marc:subfield>
+            <marc:subfield code="2">By Rowley Thomas.</marc:subfield>
+            <marc:subfield code="3">Title page</marc:subfield>
+            <marc:subfield code="5">Male</marc:subfield>
+            <marc:subfield code="6">Male</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Publisher (text)</marc:subfield>
+            <marc:subfield code="1">Generic/descriptive</marc:subfield>
+            <marc:subfield code="2">Printed for the author</marc:subfield>
+            <marc:subfield code="3">Title page</marc:subfield>
+            <marc:subfield code="5">Unknown</marc:subfield>
+            <marc:subfield code="6">Male</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Publisher (text)</marc:subfield>
+            <marc:subfield code="1">Proper name</marc:subfield>
+            <marc:subfield code="2">Printed for the author, by J. Eddowes.</marc:subfield>
+            <marc:subfield code="3">Title page</marc:subfield>
+            <marc:subfield code="5">Indeterminate</marc:subfield>
+            <marc:subfield code="6">Unknown</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">CHR 1785</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Rowley Thomas</marc:subfield>
+            <marc:subfield code="4">Author (text)</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">J. Eddowes</marc:subfield>
+            <marc:subfield code="5">Printed by</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Percival F. Hinton</marc:subfield>
+            <marc:subfield code="4">Author (bookplate)</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="710">
+            <marc:subfield code="a">J. Eddowes</marc:subfield>
+            <marc:subfield code="4">Printed by</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="2" tag="710">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="950">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="e">\\\\Singer-\\Menden-\\hall\\</marc:subfield>
+            <marc:subfield code="i">10/28/86 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="955">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="q">50-1277</marc:subfield>
+            <marc:subfield code="i">10/28/86 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="989">
+            <marc:subfield code="2">Frolic</marc:subfield>
+            <marc:subfield code="2">Fancy</marc:subfield>
+            <marc:subfield code="3">Familiar</marc:subfield>
+            <marc:subfield code="2">Epistle</marc:subfield>
+            <marc:subfield code="3">Characteristic</marc:subfield>
+            <marc:subfield code="1">Tristram Shandy</marc:subfield>
+            <marc:subfield code="5">Charles Reynolds</marc:subfield>
+            <marc:subfield code="2">Esq</marc:subfield>
+            <marc:subfield code="5">Rowley Thomas</marc:subfield>
+            <marc:subfield code="3">Second</marc:subfield>
+            <marc:subfield code="2">Edition</marc:subfield>
+            <marc:subfield code="3">Large</marc:subfield>
+            <marc:subfield code="2">Addition</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="999">
+            <marc:subfield code="a">SCE</marc:subfield>
+            <marc:subfield code="b">6/24/13</marc:subfield>
+            <marc:subfield code="c">Swarthmore College</marc:subfield>
+            <marc:subfield code="d">JRH</marc:subfield>
+        </marc:datafield>
+    </marc:record>

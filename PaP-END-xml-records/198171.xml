@@ -1,0 +1,184 @@
+ <marc:record>
+        <marc:leader>03347cam a2200517 a 4500</marc:leader>
+        <marc:controlfield tag="001">198171</marc:controlfield>
+        <marc:controlfield tag="005">20141120170156.0</marc:controlfield>
+        <marc:controlfield tag="008">851203s1766    enk           00000 eng d</marc:controlfield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(OCoLC)ocm16111771</marc:subfield></marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(OCoLC)16111771</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CStRLIN)PAUG85-B42365</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CaOTULAS)121278793</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="9">ABC2965</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">198171</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="040">
+            <marc:subfield code="a">PU</marc:subfield>
+            <marc:subfield code="c">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="090">
+            <marc:subfield code="a">PR3291.A1</marc:subfield>
+            <marc:subfield code="b">F26 1766</marc:subfield>
+            <marc:subfield code="i">12/04/85 CT</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="4" tag="245">
+            <marc:subfield code="a">The Faithful fugitives, or Adventures of Miss Teresa M----- :</marc:subfield>
+            <marc:subfield code="b">in a series of letters to a friend.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="4" tag="246">
+            <marc:subfield code="a">The faithful fugitives: or, adventures of Miss Teresa M---. In a series of letters to a friend.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Work</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="7" tag="246">
+            <marc:subfield code="a">The faithful fugitives.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="7" tag="246">
+            <marc:subfield code="a">The faithful. (verso)</marc:subfield>
+            <marc:subfield code="a">Fugitives (recto).</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="260">
+            <marc:subfield code="a">London</marc:subfield>
+            <marc:subfield code="b">Printed for T. Vernor, and J. Chater, at their circulating library, on Ludgate-Hill.</marc:subfield>
+            <marc:subfield code="c">MDCCLXVI.</marc:subfield>
+            <marc:subfield code="c">1766.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">xii, 237, [3] p. (the last 3 pages blank) ;</marc:subfield>
+            <marc:subfield code="c">17 cm. (12mo)</marc:subfield>
+            <marc:subfield code="x">Duodecimo</marc:subfield>
+            <marc:subfield code="a">[1 v.]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="500">
+            <marc:subfield code="a">Library-related marginalia.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="500">
+            <marc:subfield code="a">Bookplate- &quot;&quot;Library of the University of Pennsylvania--The Godfrey F. Singer Memorial Presented by Mr. and Mrs. Jacob Singer&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="500">
+            <marc:subfield code="a">&quot;&quot;Eighteenth-Century British Circulating Libraries and Cultural Book History&quot;&quot; by Edward Jacobs mentions Vernor and Chater circulating library partnership.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">Black, F.G.  Epistolary novel</marc:subfield>
+            <marc:subfield code="c">p. 146</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+            <marc:subfield code="c">N8369</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">Raven, J.  British fiction, 1750-1770,</marc:subfield>
+            <marc:subfield code="c">977</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="520">
+            <marc:subfield code="a">Preface</marc:subfield>
+            <marc:subfield code="b">The preface.</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="x">&quot;&quot;As curiosity is natural to the mind of man, and as every thing which tends to excite, without satisfying it, must prove, in some degree irksome, I have thought to proper to give the reader some account how these memoirs fell into my hands.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="591">
+            <marc:subfield code="a">Whate\'er the gen\'rous mind itself denies,--The secret care of providence supplies.</marc:subfield>
+            <marc:subfield code="2">Steele.</marc:subfield>
+            <marc:subfield code="b">The conscious lovers. A comedy.</marc:subfield>
+            <marc:subfield code="c">Sir Richard Steele</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="592">
+            <marc:subfield code="a">Epistolary</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Ink</marc:subfield>
+            <marc:subfield code="b">Numbers</marc:subfield>
+            <marc:subfield code="x">Located on the pastedown front end paper</marc:subfield>
+            <marc:subfield code="x">Transcription: &quot;&quot;15 delta 9&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="599">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="b">Generic/Descriptive</marc:subfield>
+            <marc:subfield code="2">In effect, having expunged all real names, and articles of private concern, I digested the work into the form which now it bears.</marc:subfield>
+            <marc:subfield code="3">Preface</marc:subfield>
+            <marc:subfield code="5">Female</marc:subfield>
+            <marc:subfield code="6">Indeterminate</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="599">
+            <marc:subfield code="a">Editor (text)</marc:subfield>
+            <marc:subfield code="a">Author (paratext)</marc:subfield>
+            <marc:subfield code="b">Generic/Descriptive</marc:subfield>
+            <marc:subfield code="2">&quot;&quot;However, they may decide in this respect, if they should reap from it instruction and entertainment, it will answer the design of the benevolent author, and the editor will not think his labour ill bestowed.&quot;&quot;</marc:subfield>
+            <marc:subfield code="3">Preface</marc:subfield>
+            <marc:subfield code="5">Indeterminate&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">CHR 1766</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="700">
+            <marc:subfield code="a">Steele, Richard, Sir</marc:subfield>
+            <marc:subfield code="d">1672-1729</marc:subfield>
+            <marc:subfield code="4">Author (epigraph)</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="700">
+            <marc:subfield code="a">Vernor, Thomas</marc:subfield>
+            <marc:subfield code="d">d.1793</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="700">
+            <marc:subfield code="a">Chater, John</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">T. Vernor and J. Chater</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+            <marc:subfield code="5">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="740">
+            <marc:subfield code="a">Adventures of Miss Teresa M-----.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="950">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="e">\\\\Singer-\\Menden-\\hall\\</marc:subfield>
+            <marc:subfield code="i">12/04/85 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="955">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="q">725478</marc:subfield>
+            <marc:subfield code="s">Godfrey F. Singer Mem.</marc:subfield>
+            <marc:subfield code="i">12/04/85 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="989">
+            <marc:subfield code="3">Faithful</marc:subfield>
+            <marc:subfield code="2">Fugitive</marc:subfield>
+            <marc:subfield code="2">Adventure</marc:subfield>
+            <marc:subfield code="5">Miss Teresa M---</marc:subfield>
+            <marc:subfield code="2">Miss</marc:subfield>
+            <marc:subfield code="2">Series</marc:subfield>
+            <marc:subfield code="2">Letter</marc:subfield>
+            <marc:subfield code="7">Letter</marc:subfield>
+            <marc:subfield code="2">Friend</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="999">
+            <marc:subfield code="a">MH</marc:subfield>
+            <marc:subfield code="b">7/1/15</marc:subfield>
+            <marc:subfield code="c">University of Pennsylvania</marc:subfield>
+            <marc:subfield code="d">GE</marc:subfield>
+        </marc:datafield>
+    </marc:record>

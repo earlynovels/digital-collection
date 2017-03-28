@@ -1,0 +1,141 @@
+<marc:record>
+	<marc:leader>01621cam a2200385 i 4500</marc:leader>
+	<marc:controlfield tag="001">276135</marc:controlfield>
+	<marc:controlfield tag="005">20130222140916.0</marc:controlfield>
+	<marc:controlfield tag="008">850207s1778    enk           000 1 eng d</marc:controlfield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">3447530</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(END)rbc_EC75_A100_778e</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(MediadbVoyBIBID)276135</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="040">
+		<marc:subfield code="a">RCE</marc:subfield>
+		<marc:subfield code="c">RCE</marc:subfield>
+		<marc:subfield code="d">PU</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2=" " tag="100">
+		<marc:subfield code="a">Young lady.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="4" tag="245">
+		<marc:subfield code="a">The example, or The history of Lucy Cleveland /</marc:subfield>
+		<marc:subfield code="c">by a young lady.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="3" ind2=" " tag="246">
+		<marc:subfield code="a">The history of Lucy Cleveland.</marc:subfield>
+		<marc:subfield code="g">Half</marc:subfield>
+		<marc:subfield code="x">Work</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="3" ind2=" " tag="246">
+		<marc:subfield code="a">The example: or the history of Lucy Cleveland. By a young lady. Vol. I.</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="d">v.1</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="3" ind2=" " tag="246">
+		<marc:subfield code="a">The example: or the history of Lucy Cleveland. By a young lady. Vol. II.</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="d">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="260">
+		<marc:subfield code="a">London :</marc:subfield>
+		<marc:subfield code="b">Printed for Fielding and Walker, no. 20, Pater-noster Row</marc:subfield>
+		<marc:subfield code="c">1778.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="300">
+		<marc:subfield code="a">2 v. ;</marc:subfield>
+		<marc:subfield code="c">18 cm.</marc:subfield>
+		<marc:subfield code="x">Duodecimo</marc:subfield>
+		<marc:subfield code="a">[2 v.]</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">ESTC</marc:subfield>
+		<marc:subfield code="c">T57438</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">English novel, 1770-1829,</marc:subfield>
+		<marc:subfield code="c">1778:1</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Preface</marc:subfield>
+		<marc:subfield code="b">preface</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Preface</marc:subfield>
+		<marc:subfield code="b">Preface</marc:subfield>
+		<marc:subfield code="c">Front</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="592">
+		<marc:subfield code="a">Epistolary</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="599">
+		<marc:subfield code="a">Author (text)</marc:subfield>
+		<marc:subfield code="2">By a young lady</marc:subfield>
+		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="4">Female</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">CHR 1778</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="656">
+		<marc:subfield code="a">Fiction</marc:subfield>
+		<marc:subfield code="b">Back</marc:subfield>
+		<marc:subfield code="c">Same publisher</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Early Novels</marc:subfield>
+		<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Fielding and Walker</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
+		<marc:subfield code="9">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+		<marc:subfield code="9">University of Pennsylvania</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="920">
+		<marc:subfield code="2">preface</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="989">
+		<marc:subfield code="2">history</marc:subfield>
+		<marc:subfield code="5">Lucy Cleveland</marc:subfield>
+		<marc:subfield code="5"/>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="989">
+		<marc:subfield code="2">example</marc:subfield>
+		<marc:subfield code="2">history</marc:subfield>
+		<marc:subfield code="5">Lucy Cleveland</marc:subfield>
+		<marc:subfield code="5"/>
+		<marc:subfield code="3">young</marc:subfield>
+		<marc:subfield code="2">lady</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="989">
+		<marc:subfield code="2">example</marc:subfield>
+		<marc:subfield code="2">history</marc:subfield>
+		<marc:subfield code="5">Lucy Cleveland</marc:subfield>
+		<marc:subfield code="5"/>
+		<marc:subfield code="3">young</marc:subfield>
+		<marc:subfield code="2">lady</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="994">
+		<marc:subfield code="a">E0</marc:subfield>
+		<marc:subfield code="b">PAU</marc:subfield>
+	</marc:datafield>
+</marc:record>

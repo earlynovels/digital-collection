@@ -1,0 +1,163 @@
+<marc:record>
+        <marc:leader>02515cam a2200469   4500</marc:leader>
+        <marc:controlfield tag="001">261003</marc:controlfield>
+        <marc:controlfield tag="005">20130315140442.0</marc:controlfield>
+        <marc:controlfield tag="008">850807s1743    enk           00000 eng d</marc:controlfield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(PUVoyagerBIBID)3228503</marc:subfield></marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CaOTULAS)36207061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(C)ZZA00030531</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(RLG)CCSG09000766-B</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">CCSG09000766-B</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(MediadbVoyBIBID)261003</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(END)sm_ec7_a100_743m</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="040">
+            <marc:subfield code="a">C</marc:subfield>
+            <marc:subfield code="c">C</marc:subfield>
+            <marc:subfield code="d">CStRLIN</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="245">
+            <marc:subfield code="a">Memoirs of an unfortunate young nobleman, returned from a thirteen years slavery in America...</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="5" tag="246">
+            <marc:subfield code="a">Memoirs of an unfortunate young nobleman, &amp;c.</marc:subfield>
+            <marc:subfield code="g">Half</marc:subfield>
+            <marc:subfield code="x">Main</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="0" tag="246">
+            <marc:subfield code="a">Memoirs of an unfortunate young nobleman, return\'d from a thirteen years slavery in America, where he had been sent by the wicked contrivances of his cruel uncle. A story founded on truth and address\'d equally to the head and heart.</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Main</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">277p. ;</marc:subfield>
+            <marc:subfield code="c">17cm.</marc:subfield>
+            <marc:subfield code="x">Duodecimo</marc:subfield>
+            <marc:subfield code="a">[1 v.]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="260">
+            <marc:subfield code="a">London :</marc:subfield>
+            <marc:subfield code="b">Printed for J. Freeman in Fleetstreet; and sold by the booksellers in town and country.</marc:subfield>
+            <marc:subfield code="c">1743.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">The history of James Annesley, claimant to the title of earl of Anglesey--Cf. Brit. mus. Cat.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">Sabin,</marc:subfield>
+            <marc:subfield code="c">1599</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">Beasley, J.C.  Prose fiction pub. in England, 1740-1749,</marc:subfield>
+            <marc:subfield code="c">113</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">Block, A.  Engl. novel (1961 ed.),</marc:subfield>
+            <marc:subfield code="c">9</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">ESTC</marc:subfield>
+            <marc:subfield code="c">T81624</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="591">
+            <marc:subfield code="a">This is the heir; come let us kill him, that the inheritance may be ours.</marc:subfield>
+            <marc:subfield code="b">Luke xx. 14.</marc:subfield>
+            <marc:subfield code="d">Title page</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="591">
+            <marc:subfield code="a">-Fould deeds will rife, -- Tho\' all the earth o\'erwhelm \'em, to mens eyes. -- Spoken by Hamlet of his uncle.</marc:subfield>
+            <marc:subfield code="b">Hamlet</marc:subfield>
+            <marc:subfield code="c">Shakespeare</marc:subfield>
+            <marc:subfield code="d">Title page</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="592">
+            <marc:subfield code="a">Epistolary</marc:subfield>
+            <marc:subfield code="b">Third-person</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="0" tag="600">
+            <marc:subfield code="a">Annesley, James,</marc:subfield>
+            <marc:subfield code="d">1715-1760.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">PRO Dechert, Robert (donor)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">CHR 1743.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="656">
+            <marc:subfield code="a">Mixed genre</marc:subfield>
+            <marc:subfield code="b">Back</marc:subfield>
+            <marc:subfield code="c">Same publisher</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="0" tag="700">
+            <marc:subfield code="a">Freeman, J.</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="0" tag="700">
+            <marc:subfield code="a">Shakespeare, William,</marc:subfield>
+            <marc:subfield code="d">1564-1616</marc:subfield>
+            <marc:subfield code="4">Author (epigraph)</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="710">
+            <marc:subfield code="a">J. Freeman</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Dechert Collection (University of Pennsylvania)</marc:subfield>
+            <marc:subfield code="9">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+            <marc:subfield code="9">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="989">
+            <marc:subfield code="2">Memoir</marc:subfield>
+            <marc:subfield code="3">unfortunate</marc:subfield>
+            <marc:subfield code="3">young</marc:subfield>
+            <marc:subfield code="2">nobleman</marc:subfield>
+            <marc:subfield code="3">thirteen</marc:subfield>
+            <marc:subfield code="2">year</marc:subfield>
+            <marc:subfield code="2">slavery</marc:subfield>
+            <marc:subfield code="4">America</marc:subfield>
+            <marc:subfield code="4"/>
+            <marc:subfield code="3">wicked</marc:subfield>
+            <marc:subfield code="2">contrivance</marc:subfield>
+            <marc:subfield code="3">cruel</marc:subfield>
+            <marc:subfield code="2">uncle</marc:subfield>
+            <marc:subfield code="2">story</marc:subfield>
+            <marc:subfield code="2">truth</marc:subfield>
+            <marc:subfield code="2">head</marc:subfield>
+            <marc:subfield code="2">heart</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="8" ind2=" " tag="852">
+            <marc:subfield code="b">scdech</marc:subfield>
+            <marc:subfield code="h">EC7</marc:subfield>
+            <marc:subfield code="i">A100 743m</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="8" ind2=" " tag="949">
+            <marc:subfield code="l">scdech</marc:subfield>
+            <marc:subfield code="h">EC7</marc:subfield>
+            <marc:subfield code="i">A100 743m</marc:subfield>
+        </marc:datafield>
+    </marc:record>

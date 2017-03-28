@@ -1,0 +1,171 @@
+<marc:record>
+	<marc:leader>02274cam a2200469 a 4500</marc:leader>
+	<marc:controlfield tag="001">341350</marc:controlfield>
+	<marc:controlfield tag="005">20130215160612.0</marc:controlfield>
+	<marc:controlfield tag="008">860303s1773    ie            00010 eng d</marc:controlfield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(PUVoyagerBIBID)154369</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(CStRLIN)PAUG86-B8688</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(CaOTULAS)146813680</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(MediadbVoyBIBID)341350</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="9">AAX1371</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(END)sm_pr3991_a6_y67_1773</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="040">
+		<marc:subfield code="a">PU</marc:subfield>
+		<marc:subfield code="c">PU</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="090">
+		<marc:subfield code="a">PR3991.A6</marc:subfield>
+		<marc:subfield code="b">Y67 1773</marc:subfield>
+		<marc:subfield code="i">07/07/86 CT</marc:subfield>
+		<marc:subfield code="h">03/03/86 CT</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2=" " tag="100">
+		<marc:subfield code="a">Young Gentleman of Oxford.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="1" ind2="4" tag="245">
+		<marc:subfield code="a">The cautious lover, or The history of Lord Woburn /</marc:subfield>
+		<marc:subfield code="c">by a young gentleman of Oxford : in two volumes.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">The cautious lover: or, the history of Lord Woburn. By a young gentleman of Oxford. In two volumes. Vol. I.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">The cautious lover. Vol. I.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Half</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">The cautious lover: or, the history of Lord Woburn. By a young gentleman of Oxford. In two volumes. Vol. II.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="7" tag="246">
+		<marc:subfield code="a">History of Lord Woburn.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="260">
+		<marc:subfield code="a">Dublin</marc:subfield>
+		<marc:subfield code="b">Dublin: Printed for James Williams, at no. 5. in Skinner-Row.</marc:subfield>
+		<marc:subfield code="c">MDCCLXXIII.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="300">
+		<marc:subfield code="a">[2], 248 p. ;</marc:subfield>
+		<marc:subfield code="c">17 cm. (12mo)</marc:subfield>
+		<marc:subfield code="x">Duodecimo</marc:subfield>
+		<marc:subfield code="z">In two volumes.</marc:subfield>
+		<marc:subfield code="a">[2 v.]</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Vol. I and vol. II bound together</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">First published in London, 1772.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+		<marc:subfield code="c">N26925</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="592">
+		<marc:subfield code="a">Epistolary</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="595">
+		<marc:subfield code="a">Pencil</marc:subfield>
+		<marc:subfield code="b">Words</marc:subfield>
+		<marc:subfield code="x">On recto of front free endpaper</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="599">
+		<marc:subfield code="a">Author (text)</marc:subfield>
+		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
+		<marc:subfield code="2">By a young gentleman of Oxford.</marc:subfield>
+		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="5">Male</marc:subfield>
+		<marc:subfield code="6">Unknown</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">CHR 1773</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Williams, James</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">James Williams</marc:subfield>
+		<marc:subfield code="4">Publisher</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Early Novels</marc:subfield>
+		<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2=" " tag="740">
+		<marc:subfield code="a">Lord Woburn.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="752">
+		<marc:subfield code="a">Ireland</marc:subfield>
+		<marc:subfield code="d">Dublin.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="0" tag="852">
+		<marc:subfield code="b">scsing</marc:subfield>
+		<marc:subfield code="t">1</marc:subfield>
+		<marc:subfield code="h">PR3991.A6</marc:subfield>
+		<marc:subfield code="i">Y67 1773</marc:subfield>
+		<marc:subfield code="x">id=9999</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="950">
+		<marc:subfield code="l">RBC</marc:subfield>
+		<marc:subfield code="e">\\\\Singer-\\Menden-\\hall\\</marc:subfield>
+		<marc:subfield code="f">call no. rev</marc:subfield>
+		<marc:subfield code="i">07/07/86 RL ?100:rall</marc:subfield>
+		<marc:subfield code="h">03/03/86 C</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="955">
+		<marc:subfield code="l">RBC</marc:subfield>
+		<marc:subfield code="c">1</marc:subfield>
+		<marc:subfield code="q">725352</marc:subfield>
+		<marc:subfield code="s">Godfrey F. Singer Mem.</marc:subfield>
+		<marc:subfield code="h">03/03/86 C</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="989">
+		<marc:subfield code="2">Lover</marc:subfield>
+		<marc:subfield code="2">History</marc:subfield>
+		<marc:subfield code="2">Lord</marc:subfield>
+		<marc:subfield code="2">Gentleman</marc:subfield>
+		<marc:subfield code="2">Volume</marc:subfield>
+		<marc:subfield code="3">Cautious</marc:subfield>
+		<marc:subfield code="3">Young</marc:subfield>
+		<marc:subfield code="4">Oxford</marc:subfield>
+		<marc:subfield code="5">Lord Woburn</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="999">
+		<marc:subfield code="a">AFD</marc:subfield>
+		<marc:subfield code="b">06/07/2011</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
+	</marc:datafield>
+</marc:record>

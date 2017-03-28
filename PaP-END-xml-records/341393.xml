@@ -1,0 +1,177 @@
+ <marc:record>
+	<marc:leader>02749cam a2200493 a 4500</marc:leader>
+	<marc:controlfield tag="001">341393</marc:controlfield>
+	<marc:controlfield tag="005">20130221160745.0</marc:controlfield>
+	<marc:controlfield tag="008">860623s1781    ie            00010 eng d</marc:controlfield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(PUVoyagerBIBID)158827</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(CStRLIN)PAUG86-B25910</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(CaOTULAS)146807798</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(MediadbVoyBIBID)341393</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="9">AAX5971</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(END)sm_pr3991_a6_l316_1781</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="040">
+		<marc:subfield code="a">PU</marc:subfield>
+		<marc:subfield code="c">PU</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="090">
+		<marc:subfield code="a">PR3991.A6</marc:subfield>
+		<marc:subfield code="b">L316 1781</marc:subfield>
+		<marc:subfield code="i">06/26/86 CT</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="0" tag="100">
+		<marc:subfield code="a">Lady.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="1" ind2="4" tag="245">
+		<marc:subfield code="a">The dénouement, or, History of Lady Louisa Wingrove /</marc:subfield>
+		<marc:subfield code="c">by a Lady.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">The dénouement: or, history of Lady Louisa Wingrove. By a lady.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="x">Work</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">The dénouement.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="x">Work</marc:subfield>
+		<marc:subfield code="g">Half</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2=" " tag="260">
+		<marc:subfield code="a">Dublin :</marc:subfield>
+		<marc:subfield code="b">Printed by John Exshaw, no. 86, Dame-street.</marc:subfield>
+		<marc:subfield code="c">M DCC LXXXI.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="300">
+		<marc:subfield code="a">[6], 211, [1] p. (last page blank) ;</marc:subfield>
+		<marc:subfield code="c">17 cm. (12mo)</marc:subfield>
+		<marc:subfield code="x">Duodecimo</marc:subfield>
+		<marc:subfield code="a">[1 v.]</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">An epistolary novel.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+		<marc:subfield code="c">T57432</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">English novel, 1770-1829,</marc:subfield>
+		<marc:subfield code="c">1781:4</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Preface</marc:subfield>
+		<marc:subfield code="b">Preface.</marc:subfield>
+		<marc:subfield code="c">Front</marc:subfield>
+		<marc:subfield code="x">Begins, &quot;&quot;By a lady!--what again!--another pen in petticoats?&quot;&quot;</marc:subfield>
+		<marc:subfield code="x">Calls this work &quot;&quot;the mere production of leisure, planned for amusement&quot;&quot;</marc:subfield>
+		<marc:subfield code="x">Calls the novel genre an &quot;&quot;unimportant class&quot;&quot;</marc:subfield>
+		<marc:subfield code="x">Adds at the end, &quot;&quot;The patriotic spirit of the times is such as may make it not amiss to mention that this little performace is confided to the kingdom in which it was written.&quot;</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="592">
+		<marc:subfield code="a">Epistolary</marc:subfield>
+		<marc:subfield code="c">Poems</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="594">
+		<marc:subfield code="a">J. Richardson</marc:subfield>
+		<marc:subfield code="b">Ink</marc:subfield>
+		<marc:subfield code="x">On top of first page of main text (B1).</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="599">
+		<marc:subfield code="a">Author (text)</marc:subfield>
+		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
+		<marc:subfield code="2">By a lady.</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
+		<marc:subfield code="5">Female</marc:subfield>
+		<marc:subfield code="6">Unknown</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="599">
+		<marc:subfield code="a">Author (text)</marc:subfield>
+		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
+		<marc:subfield code="2">By a lady!--what again!--another pen in petticoats?</marc:subfield>
+		<marc:subfield code="3">Preface</marc:subfield>
+		<marc:subfield code="5">Female</marc:subfield>
+		<marc:subfield code="6">Unkown</marc:subfield>
+		<marc:subfield code="7">On her anonymity: &quot;&quot;Careless of criticism, since secure of concealment; of applause, which, if bestowed, will never be claimed; and of curiosity, which if raised, will never be gratified...&quot;</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">CHR 1781</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">PRO Richardson (Autograph)</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="7" tag="655">
+		<marc:subfield code="a">Epistolary fiction</marc:subfield>
+		<marc:subfield code="z">Ireland</marc:subfield>
+		<marc:subfield code="y">18th century.</marc:subfield>
+		<marc:subfield code="2">rbgenr</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Exshaw, J. (John)</marc:subfield>
+		<marc:subfield code="d">1750 or 1-1827</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">J. Richardson</marc:subfield>
+		<marc:subfield code="4">Author (inscription)</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Exshaw, J. (John)</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Early Novels</marc:subfield>
+		<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="2" tag="740">
+		<marc:subfield code="a">History of Lady Louisa Wingrove.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="0" tag="852">
+		<marc:subfield code="b">scsing</marc:subfield>
+		<marc:subfield code="t">1</marc:subfield>
+		<marc:subfield code="h">PR3991.A6</marc:subfield>
+		<marc:subfield code="i">L316 1781</marc:subfield>
+		<marc:subfield code="x">id=9999</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="950">
+		<marc:subfield code="l">RBC</marc:subfield>
+		<marc:subfield code="e">\\\\Singer-\\Menden-\\hall\\</marc:subfield>
+		<marc:subfield code="i">06/26/86 C</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="955">
+		<marc:subfield code="l">RBC</marc:subfield>
+		<marc:subfield code="c">1</marc:subfield>
+		<marc:subfield code="q">53-1869</marc:subfield>
+		<marc:subfield code="s">Ex libris: Richardson</marc:subfield>
+		<marc:subfield code="s">Singer-Mendenhall</marc:subfield>
+		<marc:subfield code="i">06/26/86 C</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="989">
+		<marc:subfield code="2">Dénouement</marc:subfield>
+		<marc:subfield code="2">History</marc:subfield>
+		<marc:subfield code="2">Lady</marc:subfield>
+		<marc:subfield code="5">Lady Louisa Wingrove</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="999">
+		<marc:subfield code="a">MJR</marc:subfield>
+		<marc:subfield code="b">6/22/11</marc:subfield>
+	</marc:datafield>
+</marc:record>

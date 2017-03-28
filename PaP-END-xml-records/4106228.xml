@@ -1,0 +1,269 @@
+<marc:record>
+        <marc:leader>07242cam a2200493 a 4500</marc:leader>
+        <marc:controlfield tag="001">4106228</marc:controlfield>
+        <marc:controlfield tag="005">20141219095643.0</marc:controlfield>
+        <marc:controlfield tag="008">950310s1703    enk           000 0 eng d</marc:controlfield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(OCoLC)ocm13066472</marc:subfield></marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(OCoLC)13066472</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(PUVoyagerBIBID)4106228</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">4106228</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="040">
+            <marc:subfield code="a">NjP</marc:subfield>
+            <marc:subfield code="c">NjP</marc:subfield>
+            <marc:subfield code="e">dcrb</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="050">
+            <marc:subfield code="a">PR3291.A1</marc:subfield>
+            <marc:subfield code="b">L465 1703</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="245">
+            <marc:subfield code="a">Letters from the living to the living :</marc:subfield>
+            <marc:subfield code="b">relating to the present transactions both publick and private with their several answers ... /</marc:subfield>
+            <marc:subfield code="c">written by several hands.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="246">
+            <marc:subfield code="a">Letters from the living to the living, relating to the present transactions both publick and private. With their several answers. Under the following heads, viz. Reformation. The P-- of P--pl--r, to a city knight, for some years since one of the elect, but now under a state of reprobation, &amp;c. Sing-song Tigellius the undone, the unfortunate Tigellius, to his brethren at Will\'s Coffee-House. Clement the Pope, to the Doge, and Republick of Venice. Mr. J--- F--- to Mr. J--- P--- Abridgment a bookseller, to original an author. The two hundred maidens at the bath, to the virgins in Oxford. The duke of Burgundy to the king of Spain. Tom Double to his brother Under-Spur-Leather in the country. John D--by, the pharisaical printer, to John T--d the scribe. From a voluntier at St. Muries, to his friend in London. A letter from a young officer at Vigo, to his friend at London. Gossip Murray the projector to inquisitive love-news. Written by several hands.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Work</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="7" tag="246">
+            <marc:subfield code="a">Letters from the living, to the living.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="7" tag="246">
+            <marc:subfield code="a">Letters from the living, (verso)</marc:subfield>
+            <marc:subfield code="a">To the living. (recto)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="260">
+            <marc:subfield code="a">London</marc:subfield>
+            <marc:subfield code="c">1703</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">[16], 215, [1], 24 p. ;</marc:subfield>
+            <marc:subfield code="c">20 cm. (8vo)</marc:subfield>
+            <marc:subfield code="x">Octavo</marc:subfield>
+            <marc:subfield code="a">[1 v.]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Library-related marginalia, verso back free endpaper, and recto first leaf of Dedication.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Author of Dedication implies he has experienced a decline in social status: &quot;&quot;But it may be a surprize to you, that a person who has been lost to your acquaintance for these seven years last past, shou\'d endeavor to put you in mind of it after this manner, and that I who have had the honour to have part of my education under the same roof with you, shou\'d be so far a stranger to the same abilities you brought from it...I blush indeed, at the occasions that have estrang\'d me from the conversation of those gentlemen, who like your self, have formerly been pleas\'d to fling away an hour or two in my company, and can never forgive my self the loss of those precious minutes that might have...rendr\'d me above the misfortunes, those that now know me, see me perpetually struggle with...My business is to ask your acceptance of the following sheets, and by remembering what I am, not to dwell upon what I have been, tho\' I must not forget from thence to crave a title to your patronage...&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Author of Dedication praises politics of dedicatee: &quot;&quot;...A name that is endear\'d to the country which takes pride in being represented by you; to the Senate, whose resolutions are invigourated by your cheerful concurrence with the rest of those worthy patriots, who stand by Her Sacred Majesty in defense of that faith she has been happily educated in...&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Preface acknowledges works relation to Dialogues of the dead: &quot;&quot;...If these letters in general have not the poignancy of wit, as some that have been in the press these twelve months past, they are less obvious on account of their title to the public remarks, since it\'s something more easy to make the living epistolize one another, than to have a correspondence with the dead.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">ESTC</marc:subfield>
+            <marc:subfield code="c">T054540</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="520">
+            <marc:subfield code="a">Dedication</marc:subfield>
+            <marc:subfield code="b">To James Buller Esq; Knight of the Shire for the County of Cornwal.</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="x">&quot;&quot;Sir, dedications are grown so frequent, that a book without a patron looks as if it did not deserve a friend to stand by it, or its author was master of that assurance to think it stood in need of none.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="520">
+            <marc:subfield code="a">Preface</marc:subfield>
+            <marc:subfield code="b">The Preface.</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="x">&quot;&quot;There had been no occasion for the gentlemen concern\'d in this collection to pay their respects to the reader by way of preface, had not every one been wanting to himself in a due supervisal of what he submits to his or her censure.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="590">
+            <marc:subfield code="a">Acquired for the Penn Libraries with assistance from the Martin and Margy Meyerson Endowment Fund for Special Collections.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="591">
+            <marc:subfield code="a">Quicquid agunt homines, votum, timor, ira, voluptas, guadia, discursus, nostri est farrago libelli</marc:subfield>
+            <marc:subfield code="2">Juvenal.</marc:subfield>
+            <marc:subfield code="b">Satires, i, 85-86.</marc:subfield>
+            <marc:subfield code="c">Juvenal</marc:subfield>
+            <marc:subfield code="d">&quot;&quot;Everything humanity does, its hope, fear, rage, pleasure, joys, business, are the medley of my little book&quot;&quot;</marc:subfield>
+            <marc:subfield code="x">Translation source: www.eudict.com&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="592">
+            <marc:subfield code="a">Epistolary</marc:subfield>
+            <marc:subfield code="c">Poems</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Numbers</marc:subfield>
+            <marc:subfield code="b">Letters</marc:subfield>
+            <marc:subfield code="x">Front pastedown endpapers: &quot;&quot;M968|&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Ink</marc:subfield>
+            <marc:subfield code="b">Numbers</marc:subfield>
+            <marc:subfield code="x">Front pastedown endpapers: &quot;&quot;128&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Numbers</marc:subfield>
+            <marc:subfield code="x">Front pastedown endpapers: &quot;&quot;[Pound marker]150. -&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="b">Generic/descriptive</marc:subfield>
+            <marc:subfield code="2">Written by several hands</marc:subfield>
+            <marc:subfield code="3">Title page</marc:subfield>
+            <marc:subfield code="5">Indeterminate</marc:subfield>
+            <marc:subfield code="6">Unknown</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="b">Generic/descriptive</marc:subfield>
+            <marc:subfield code="2">Sir, dedications are grown so frequent, that a book without a patron looks as if...its author was master of that assurance to think it stood in need of none. Wherefore, as I would not be thought to behave my self so ill in the world...</marc:subfield>
+            <marc:subfield code="3">Dedication</marc:subfield>
+            <marc:subfield code="5">Indeterminate</marc:subfield>
+            <marc:subfield code="6">Unknown</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Author (paratext)</marc:subfield>
+            <marc:subfield code="b">Generic/descriptive</marc:subfield>
+            <marc:subfield code="2">Sir, dedications are grown so frequent, that a book without a patron looks as if...its author was master of that assurance to think it stood in need of none. Wherefore, as I would not be thought to behave my self so ill in the world...</marc:subfield>
+            <marc:subfield code="3">Dedication</marc:subfield>
+            <marc:subfield code="5">Indeterminate</marc:subfield>
+            <marc:subfield code="6">Unknown</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">CHR 1703</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Buller, James</marc:subfield>
+            <marc:subfield code="4">Dedicatee</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+            <marc:subfield code="5">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Martin and Margy Meyerson Endowment Fund for Special Collections.</marc:subfield>
+            <marc:subfield code="5">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2="2" tag="856">
+            <marc:subfield code="3">The Martin and Margy Meyerson Endowment Fund for Special Collections Home Page</marc:subfield>
+            <marc:subfield code="u">http://hdl.library.upenn.edu/1017.12/366256</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="989">
+            <marc:subfield code="2">Letter</marc:subfield>
+            <marc:subfield code="7">Letter</marc:subfield>
+            <marc:subfield code="2">Living</marc:subfield>
+            <marc:subfield code="6">Relate</marc:subfield>
+            <marc:subfield code="3">Present</marc:subfield>
+            <marc:subfield code="2">Transaction</marc:subfield>
+            <marc:subfield code="3">Publick</marc:subfield>
+            <marc:subfield code="3">Public</marc:subfield>
+            <marc:subfield code="3">Private</marc:subfield>
+            <marc:subfield code="3">Several</marc:subfield>
+            <marc:subfield code="2">Answer</marc:subfield>
+            <marc:subfield code="3">Following</marc:subfield>
+            <marc:subfield code="2">Head</marc:subfield>
+            <marc:subfield code="8">Viz</marc:subfield>
+            <marc:subfield code="2">Reformation</marc:subfield>
+            <marc:subfield code="5">The P--- of P--pl--r</marc:subfield>
+            <marc:subfield code="3">City</marc:subfield>
+            <marc:subfield code="2">Knight</marc:subfield>
+            <marc:subfield code="3">Some</marc:subfield>
+            <marc:subfield code="2">Year</marc:subfield>
+            <marc:subfield code="2">One</marc:subfield>
+            <marc:subfield code="2">Elect</marc:subfield>
+            <marc:subfield code="8">Now</marc:subfield>
+            <marc:subfield code="2">State</marc:subfield>
+            <marc:subfield code="2">Reprobation</marc:subfield>
+            <marc:subfield code="5">Sing-song Tigellius the Undone</marc:subfield>
+            <marc:subfield code="2">Sing-song</marc:subfield>
+            <marc:subfield code="5">Tigellius</marc:subfield>
+            <marc:subfield code="3">Undone</marc:subfield>
+            <marc:subfield code="3">Unfortunate</marc:subfield>
+            <marc:subfield code="2">Brethren</marc:subfield>
+            <marc:subfield code="5">Will</marc:subfield>
+            <marc:subfield code="2">Coffee</marc:subfield>
+            <marc:subfield code="7">Coffee</marc:subfield>
+            <marc:subfield code="2">House</marc:subfield>
+            <marc:subfield code="2">Coffee-house</marc:subfield>
+            <marc:subfield code="4">Will\'s Coffee-house</marc:subfield>
+            <marc:subfield code="5">Clement the Pope</marc:subfield>
+            <marc:subfield code="5">Clement</marc:subfield>
+            <marc:subfield code="2">Pope</marc:subfield>
+            <marc:subfield code="2">Doge</marc:subfield>
+            <marc:subfield code="2">Republick</marc:subfield>
+            <marc:subfield code="4">Republick of Venice</marc:subfield>
+            <marc:subfield code="4">Venice</marc:subfield>
+            <marc:subfield code="5">Mr. J--- F---</marc:subfield>
+            <marc:subfield code="5">Mr. J--- P---</marc:subfield>
+            <marc:subfield code="2">Abridgment</marc:subfield>
+            <marc:subfield code="2">Bookseller</marc:subfield>
+            <marc:subfield code="2">Original</marc:subfield>
+            <marc:subfield code="2">Author</marc:subfield>
+            <marc:subfield code="3">Two</marc:subfield>
+            <marc:subfield code="3">Hundred</marc:subfield>
+            <marc:subfield code="3">Two hundred</marc:subfield>
+            <marc:subfield code="2">Maiden</marc:subfield>
+            <marc:subfield code="2">Bath</marc:subfield>
+            <marc:subfield code="7">Bath</marc:subfield>
+            <marc:subfield code="2">Virgin</marc:subfield>
+            <marc:subfield code="4">Oxford</marc:subfield>
+            <marc:subfield code="2">Duke</marc:subfield>
+            <marc:subfield code="4">Burgundy</marc:subfield>
+            <marc:subfield code="2">King</marc:subfield>
+            <marc:subfield code="4">Spain</marc:subfield>
+            <marc:subfield code="5">Duke of Burgundy</marc:subfield>
+            <marc:subfield code="5">King of Spain</marc:subfield>
+            <marc:subfield code="3">Double</marc:subfield>
+            <marc:subfield code="5">Tom Double</marc:subfield>
+            <marc:subfield code="2">Brother</marc:subfield>
+            <marc:subfield code="5">Under-Spur-Leather</marc:subfield>
+            <marc:subfield code="2">Spur</marc:subfield>
+            <marc:subfield code="7">Leather</marc:subfield>
+            <marc:subfield code="7">Spur</marc:subfield>
+            <marc:subfield code="2">Leather</marc:subfield>
+            <marc:subfield code="2">Country</marc:subfield>
+            <marc:subfield code="5">John D---by</marc:subfield>
+            <marc:subfield code="3">Pharisaical</marc:subfield>
+            <marc:subfield code="2">Printer</marc:subfield>
+            <marc:subfield code="5">John T--d</marc:subfield>
+            <marc:subfield code="2">Scribe</marc:subfield>
+            <marc:subfield code="2">Voluntier</marc:subfield>
+            <marc:subfield code="4">St. Maries</marc:subfield>
+            <marc:subfield code="2">Friend</marc:subfield>
+            <marc:subfield code="4">London</marc:subfield>
+            <marc:subfield code="2">Letter</marc:subfield>
+            <marc:subfield code="7">Letter</marc:subfield>
+            <marc:subfield code="3">Young</marc:subfield>
+            <marc:subfield code="2">Officer</marc:subfield>
+            <marc:subfield code="4">Vigo</marc:subfield>
+            <marc:subfield code="2">Gossip</marc:subfield>
+            <marc:subfield code="5">Murray</marc:subfield>
+            <marc:subfield code="5">Gossip Murray</marc:subfield>
+            <marc:subfield code="2">Projector</marc:subfield>
+            <marc:subfield code="5">Gossip Murray the Projector</marc:subfield>
+            <marc:subfield code="3">Inquisitive</marc:subfield>
+            <marc:subfield code="2">Love-News</marc:subfield>
+            <marc:subfield code="2">Love</marc:subfield>
+            <marc:subfield code="2">News</marc:subfield>
+            <marc:subfield code="5">Inquisitive Love-News</marc:subfield>
+            <marc:subfield code="6">Write</marc:subfield>
+            <marc:subfield code="2">Hand</marc:subfield>
+            <marc:subfield code="7">Hand</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="999">
+            <marc:subfield code="a">IH</marc:subfield>
+            <marc:subfield code="b">7/29/2015</marc:subfield>
+            <marc:subfield code="c">Swarthmore College</marc:subfield>
+            <marc:subfield code="d">KGP</marc:subfield>
+        </marc:datafield>
+    </marc:record>

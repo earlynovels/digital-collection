@@ -1,0 +1,283 @@
+<marc:record>
+        <marc:leader>04097cam a2200709 a 4500</marc:leader>
+        <marc:controlfield tag="001">341490</marc:controlfield>
+        <marc:controlfield tag="005">20130402172823.0</marc:controlfield>
+        <marc:controlfield tag="008">860701s1784    ie            00010 eng d</marc:controlfield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(PUVoyagerBIBID)159824</marc:subfield></marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CStRLIN)PAUG86-B27325</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CaOTULAS)146811490</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="9">AAX6991</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(MediadbVoyBIBID)341490</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(END)sm_pr3991_a6_y68_1784</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="040">
+            <marc:subfield code="a">PU</marc:subfield>
+            <marc:subfield code="c">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="090">
+            <marc:subfield code="a">PR3991.A6</marc:subfield>
+            <marc:subfield code="b">Y68 1784</marc:subfield>
+            <marc:subfield code="i">07/09/86 CT</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="100">
+            <marc:subfield code="a">Young lady.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="0" tag="245">
+            <marc:subfield code="a">Laura and Augustus :</marc:subfield>
+            <marc:subfield code="b">an authentic story, in a series of letters /</marc:subfield>
+            <marc:subfield code="c">by a Young Lady : in three volumes.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">Laura and Augustus, an authentic story; in a series of letters, by a young lady. In three volumes. Vol. I.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">Laura and Augustus, an authentic story; in a series of letters, by a young lady. In three volumes. Vol. II.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">Laura and Augustus, an authentic story; in a series of letters, by a young lady. In three volumes. Vol. III.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="7" tag="246">
+            <marc:subfield code="a">Laura and Augustus.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="7" tag="246">
+            <marc:subfield code="a">Laura and Augustus. (verso)</marc:subfield>
+            <marc:subfield code="a">Laura and Augustus. (recto)</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="260">
+            <marc:subfield code="a">Dublin :</marc:subfield>
+            <marc:subfield code="b">Printed for R. Moncrieffe, G. Burnet, T. Walker, R. Marchbank, R. Burton, P. Byrne, S. Colbert, B. Smith, N. Cross, &amp; J. Cash.</marc:subfield>
+            <marc:subfield code="c">M,DCC,LXXXIV.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">3 v. ;</marc:subfield>
+            <marc:subfield code="c">17 cm. (12mo)</marc:subfield>
+            <marc:subfield code="x">Duodecimo</marc:subfield>
+            <marc:subfield code="a">[3 v.]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">An epistolary novel.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Sometimes attributed to Eliza Nugent Bromley.  Cf. NCBEL, II, col. 1007; NUC pre-56, 77, p. 503.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Issued in 1 volume.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+            <marc:subfield code="c">N20617</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="520">
+            <marc:subfield code="a">Dedication</marc:subfield>
+            <marc:subfield code="b">To the right honourable the Dowager Countess Spenser.</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="x">Begins, &quot;&quot;The author of the following sheets, unhackneyed in the arts of dedication...&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="591">
+            <marc:subfield code="a">--A whole host, a war of foes,---May sooner be subdued, than love.</marc:subfield>
+            <marc:subfield code="2">Phillips.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="592">
+            <marc:subfield code="a">Epistolary</marc:subfield>
+            <marc:subfield code="c">Poems</marc:subfield>
+            <marc:subfield code="x">Many of the poems are attributed quotations, some are unattributed.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="b">Generic/Descriptive</marc:subfield>
+            <marc:subfield code="2">By a young lady.</marc:subfield>
+            <marc:subfield code="3">Title Page</marc:subfield>
+            <marc:subfield code="5">Female</marc:subfield>
+            <marc:subfield code="6">Unknown</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="b">Generic/Descriptive</marc:subfield>
+            <marc:subfield code="2">The author of the following sheets...feels herself at a loss...</marc:subfield>
+            <marc:subfield code="3">Dedication</marc:subfield>
+            <marc:subfield code="3">Female</marc:subfield>
+            <marc:subfield code="6">Unknown</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Author (paratext)</marc:subfield>
+            <marc:subfield code="b">Generic/Descriptive</marc:subfield>
+            <marc:subfield code="2">Lady Spenser\'s most devoted, grateful, humble servant, the author.</marc:subfield>
+            <marc:subfield code="3">Dedication</marc:subfield>
+            <marc:subfield code="5">Indeterminate</marc:subfield>
+            <marc:subfield code="6">Unknown</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">CHR 1784</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">PRO Daunt, Mrs. (Autograph)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">PRO Singer, Jacob (donor)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">PRO Singer, Leah (donor)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">PRO Singer, Godfrey F. (honoree)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="655">
+            <marc:subfield code="a">Epistolary fiction</marc:subfield>
+            <marc:subfield code="z">Ireland</marc:subfield>
+            <marc:subfield code="y">18th century.</marc:subfield>
+            <marc:subfield code="2">rbgenr</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2=" " tag="700">
+            <marc:subfield code="a">Bromley, Eliza Nugent</marc:subfield>
+            <marc:subfield code="4">Author</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Moncrieffe, Richard</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Burnet, George</marc:subfield>
+            <marc:subfield code="d">fl. 1758-1802</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Walker, T.</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Marchbank, Robert</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Burton, Robert</marc:subfield>
+            <marc:subfield code="d">fl. 1778-1793</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Byrne, Patrick</marc:subfield>
+            <marc:subfield code="d">1741?-1814</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">S. Colbert</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Smith, Brett</marc:subfield>
+            <marc:subfield code="d">18th/19th cent</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">N. Cross</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Cash, John</marc:subfield>
+            <marc:subfield code="d">fl. 1775-d. 1833</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="710">
+            <marc:subfield code="a">R. Moncrieffe, G. Burnet, T. Walker, R. Marchbank, R. Burton, P. Byrne, S. Colbert, B. Smith, N. Cross, &amp; J. Cash</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="752">
+            <marc:subfield code="a">Ireland</marc:subfield>
+            <marc:subfield code="d">Dublin.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="1" tag="852">
+            <marc:subfield code="b">scsing</marc:subfield>
+            <marc:subfield code="t">1</marc:subfield>
+            <marc:subfield code="h">PR3991.A6</marc:subfield>
+            <marc:subfield code="i">Y68 1784</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="3" ind2="0" tag="866">
+            <marc:subfield code="8">0</marc:subfield>
+            <marc:subfield code="a">3 v.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="950">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="e">\\\\Singer-\\Menden-\\hall\\</marc:subfield>
+            <marc:subfield code="v">3 v.</marc:subfield>
+            <marc:subfield code="i">07/09/86 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="955">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="q">726374</marc:subfield>
+            <marc:subfield code="s">Ex libris: Daunt, Mrs.</marc:subfield>
+            <marc:subfield code="s">g. Mr. and Mrs. Jacob Singer</marc:subfield>
+            <marc:subfield code="s">in 1</marc:subfield>
+            <marc:subfield code="i">07/09/86 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="989">
+            <marc:subfield code="2">Story</marc:subfield>
+            <marc:subfield code="2">Series</marc:subfield>
+            <marc:subfield code="2">Letter</marc:subfield>
+            <marc:subfield code="2">Lady</marc:subfield>
+            <marc:subfield code="2">Volume</marc:subfield>
+            <marc:subfield code="3">Authentic</marc:subfield>
+            <marc:subfield code="3">Young</marc:subfield>
+            <marc:subfield code="3">Three</marc:subfield>
+            <marc:subfield code="5">Laura</marc:subfield>
+            <marc:subfield code="5">Augustus</marc:subfield>
+            <marc:subfield code="7">Letter</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="999">
+            <marc:subfield code="a">MJR</marc:subfield>
+            <marc:subfield code="b">6/29/11</marc:subfield>
+        </marc:datafield>
+    </marc:record>

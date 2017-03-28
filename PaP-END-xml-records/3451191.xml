@@ -1,0 +1,192 @@
+<marc:record>
+        <marc:leader>03765cam a2200517 i 4500</marc:leader>
+        <marc:controlfield tag="001">3451191</marc:controlfield>
+        <marc:controlfield tag="005">20141218115822.0</marc:controlfield>
+        <marc:controlfield tag="008">870217s1702    xx            000 1 eng d</marc:controlfield>
+        <marc:datafield ind1=" " ind2=" " tag="026">
+            <marc:subfield code="e">na\'d doto asnk paMe (3) 1702 (A)</marc:subfield>
+            <marc:subfield code="2">fei</marc:subfield></marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(OCoLC)ocm15595458</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(OCoLC)15595458</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">3451191</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="040">
+            <marc:subfield code="a">MUU</marc:subfield>
+            <marc:subfield code="c">MUU</marc:subfield>
+            <marc:subfield code="d">OCL</marc:subfield>
+            <marc:subfield code="d">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="4" tag="245">
+            <marc:subfield code="a">The perfidious P--- :</marc:subfield>
+            <marc:subfield code="b">being letters from a nobleman to two ladies, under the borrow\'d names of Corydon, Clarinda &amp; Lucina : with the ladies answers.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="3" ind2=" " tag="246">
+            <marc:subfield code="a">The perfidious P--- being letters from a nobleman to two ladies, under the borrow\'d names of Corydon, Clarinda &amp; Lucina. With the ladies answers.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Work</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="260">
+            <marc:subfield code="b">Printed in the year,</marc:subfield>
+            <marc:subfield code="c">1702.</marc:subfield>
+            <marc:subfield code="x">&quot;&quot;Price I s. 6 d.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">[12], 143, [1] p. ;</marc:subfield>
+            <marc:subfield code="c">17 cm. (12mo)</marc:subfield>
+            <marc:subfield code="x">Duodecimo</marc:subfield>
+            <marc:subfield code="a">[1 v.]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Signatures: A⁶ B-G¹².</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Leaf C4 signed B4.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Culture Class Collection copy has the bookplate of &quot;&quot;Lowther&quot;&quot; on front pastedown - a round navy and gold seal.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Library markings: A2, recto; final page of text, verso; and back free endpaper, recto.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">ESTC,</marc:subfield>
+            <marc:subfield code="c">T57453</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">McBurney, W.H. Engl. prose fiction,</marc:subfield>
+            <marc:subfield code="c">9</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="520">
+            <marc:subfield code="a">Dedication</marc:subfield>
+            <marc:subfield code="b">To the honourable Richard Fitz Williams, Esq;</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="x">&quot;&quot;Sir, I must confess I am something at a loss when I consider the usual method of dedicators, who when they had finish\'d their works, pitch upon a patron to whom they may ascribe all the vertues of their hero; or make him an instance of all the perfection and excellencies of that piece; by this common judgement of dedications, a hasty reader may be apt to think, I affront my patron, by engaging him in the defence of a book wherein I have endeavoured to set off the baseness and ingratitude of some men in their proper colours...&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="592">
+            <marc:subfield code="a">Epistolary</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Words</marc:subfield>
+            <marc:subfield code="b">Numbers</marc:subfield>
+            <marc:subfield code="x">Partially obscured by &quot;&quot;Library University Pennsylvania&quot;&quot; sticker. The remainder of the text is illegible except for the numbers &quot;&quot;7.8&quot;&quot;. Front pastedown endpaper.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Words</marc:subfield>
+            <marc:subfield code="x">Partially obscured by &quot;&quot;Library University Pennsylvania&quot;&quot; bookplate. &quot;&quot;dox&quot;&quot; and the rest is obscured. Front pastedown endpaper.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Letters</marc:subfield>
+            <marc:subfield code="b">Numbers</marc:subfield>
+            <marc:subfield code="x">&quot;&quot;N22.&quot;&quot; with a line under it, below which is written &quot;&quot;B. b&quot;&quot;. Front pastedown endpaper.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Letters</marc:subfield>
+            <marc:subfield code="x">&quot;&quot;s&quot;&quot;. Front pastedown endpaper.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Ink</marc:subfield>
+            <marc:subfield code="b">Letters</marc:subfield>
+            <marc:subfield code="c">Numbers</marc:subfield>
+            <marc:subfield code="x">&quot;&quot;29L1&quot;&quot;. Front free endpaper.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Ink</marc:subfield>
+            <marc:subfield code="b">Letters</marc:subfield>
+            <marc:subfield code="x">Letters in cursive and illegible. Front free endpaper.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Letters</marc:subfield>
+            <marc:subfield code="x">The letter &quot;&quot;B&quot;&quot; written many times in fancy cursive script. Page 8.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Numbers</marc:subfield>
+            <marc:subfield code="x">&quot;&quot;46-1651&quot;&quot;. Back free endpapers, recto.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Author (paratext)</marc:subfield>
+            <marc:subfield code="b">Generic/descriptive</marc:subfield>
+            <marc:subfield code="2">Your most obedient humble servant.</marc:subfield>
+            <marc:subfield code="3">Dedication</marc:subfield>
+            <marc:subfield code="5">Indeterminate</marc:subfield>
+            <marc:subfield code="6">Unknown</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="b">Generic/descriptive</marc:subfield>
+            <marc:subfield code="2">A book wherein I have endeavoured to set off the baseness and ingratitude of some men in their proper colours.</marc:subfield>
+            <marc:subfield code="3">Dedication</marc:subfield>
+            <marc:subfield code="5">Indeterminate</marc:subfield>
+            <marc:subfield code="6">Unknown</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">CHR 1702</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">PRO Lowther (bookplate)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Williams, Richard Fitz</marc:subfield>
+            <marc:subfield code="4">Dedicatee</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Lowther</marc:subfield>
+            <marc:subfield code="4">Author (bookplate)</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+            <marc:subfield code="5">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Culture Class Collection (University of Pennsylvania)</marc:subfield>
+            <marc:subfield code="5">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">English Culture Class Collection (University of Pennsylvania)</marc:subfield>
+            <marc:subfield code="5">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="989">
+            <marc:subfield code="3">Perfidious</marc:subfield>
+            <marc:subfield code="5">P---</marc:subfield>
+            <marc:subfield code="6">Be</marc:subfield>
+            <marc:subfield code="2">Letter</marc:subfield>
+            <marc:subfield code="7">Letter</marc:subfield>
+            <marc:subfield code="2">Nobleman</marc:subfield>
+            <marc:subfield code="3">Two</marc:subfield>
+            <marc:subfield code="2">Lady</marc:subfield>
+            <marc:subfield code="3">Borrow\'d</marc:subfield>
+            <marc:subfield code="6">Borrow</marc:subfield>
+            <marc:subfield code="2">Name</marc:subfield>
+            <marc:subfield code="5">Corydon</marc:subfield>
+            <marc:subfield code="5">Clarinda</marc:subfield>
+            <marc:subfield code="5">Lucinda</marc:subfield>
+            <marc:subfield code="2">Answer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="994">
+            <marc:subfield code="a">E0</marc:subfield>
+            <marc:subfield code="b">PAU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="989">
+            <marc:subfield code="a">IH</marc:subfield>
+            <marc:subfield code="b">8/5/2015</marc:subfield>
+            <marc:subfield code="c">Swarthmore College</marc:subfield>
+            <marc:subfield code="d">NB</marc:subfield>
+        </marc:datafield>
+    </marc:record>

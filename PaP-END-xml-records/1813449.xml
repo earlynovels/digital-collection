@@ -1,0 +1,190 @@
+<marc:record>
+        <marc:leader>03209cam a2200469 i 4500</marc:leader>
+        <marc:controlfield tag="001">1813449</marc:controlfield>
+        <marc:controlfield tag="005">20141210134433.0</marc:controlfield>
+        <marc:controlfield tag="008">940420s1701    enk           000 1 eng d</marc:controlfield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(OCoLC)ocn187452065</marc:subfield></marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(OCoLC)187452065</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CStRLIN)PAUGEAY9136-B</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="9">EAY9136</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">1813449</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="040">
+            <marc:subfield code="a">PU</marc:subfield>
+            <marc:subfield code="c">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="2" tag="245">
+            <marc:subfield code="a">A pacquet from Will\'s, or, A new collection of original letters on several subjects :</marc:subfield>
+            <marc:subfield code="b">containing pleasant memoirs, intrigues and adventures that lately hapned at London, Hampton Court, Tunbridge, Epsom, North Hall and the Bath : with several satyrical characters, both of ladies and gentlemen, in prose and verse : with original letters by King Charles II and the late Q. of Sweden /</marc:subfield>
+            <marc:subfield code="c">written and collected by several hands.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="0" tag="246">
+            <marc:subfield code="a">A pacquet from Will\'s: or, a new collection of original letters on several subjects; containing pleasant memoirs, intrigues and adventures that lately hapned at London, Hampton Court, Tunbridge, Epsom, North Hall and the Bath. With several satyrical characters, both of ladies and gentlemen, in prose and verse; with original letters by King Charles II. and the late Q. of Sweden. Written and collected by several hands.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Work</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="7" tag="246">
+            <marc:subfield code="a">A pacquet from Will\'s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="7" tag="246">
+            <marc:subfield code="a">A pacquet from Will\'s. (verso)</marc:subfield>
+            <marc:subfield code="a">A pacquet from Will\'s. (recto)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="260">
+            <marc:subfield code="a">London</marc:subfield>
+            <marc:subfield code="b">Printed for Sam. Briscoe, and sold by John Nutt near Stationer\'s-Hall,</marc:subfield>
+            <marc:subfield code="c">1701.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">[2], 128 p. ;</marc:subfield>
+            <marc:subfield code="c">17 cm.</marc:subfield>
+            <marc:subfield code="x">Octavo</marc:subfield>
+            <marc:subfield code="a">[1 v.]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Library marginalia inside front and back boards.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Ink spots on page 128.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Rebound in marble cover and leather spine.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="592">
+            <marc:subfield code="a">Epistolary</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="594">
+            <marc:subfield code="a">Indecipherable</marc:subfield>
+            <marc:subfield code="b">Ink</marc:subfield>
+            <marc:subfield code="x">On recto of first leaf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Numbers</marc:subfield>
+            <marc:subfield code="x">On inside of front board.</marc:subfield>
+            <marc:subfield code="x">Transcription: &quot;&quot;2/3&quot;&quot;, &quot;&quot;1004&quot;&quot;. &quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Words</marc:subfield>
+            <marc:subfield code="x">Indecipherable</marc:subfield>
+            <marc:subfield code="x">Recto of first leaf.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Numbers</marc:subfield>
+            <marc:subfield code="x">Transcription: &quot;&quot;240&quot;&quot;</marc:subfield>
+            <marc:subfield code="x">On full title page.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Editorial Markings</marc:subfield>
+            <marc:subfield code="x">Underlinings and &quot;&quot;[ ]?&quot;&quot;</marc:subfield>
+            <marc:subfield code="x">Page 111.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="595">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Words</marc:subfield>
+            <marc:subfield code="x">Located on verso of back free endpaper.</marc:subfield>
+            <marc:subfield code="x">&quot;&quot;Moll Flander\'s&quot;&quot;, &quot;&quot;[ ]&quot;&quot;...&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="b">Generic/Descriptive</marc:subfield>
+            <marc:subfield code="2">Written and collected by several hands.</marc:subfield>
+            <marc:subfield code="3">Title page</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">CHR 1701</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="700">
+            <marc:subfield code="a">Briscoe, Sam</marc:subfield>
+            <marc:subfield code="d">Active 1691-1727</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="700">
+            <marc:subfield code="a">Nutt, John</marc:subfield>
+            <marc:subfield code="d">fl. 16..-1716?</marc:subfield>
+            <marc:subfield code="4">Sold by</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="710">
+            <marc:subfield code="a">Sam Briscoe and John Nutt</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="4">Sold by</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+            <marc:subfield code="5">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="1" tag="740">
+            <marc:subfield code="a">Pacquet from Will\'s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="1" tag="740">
+            <marc:subfield code="a">New collection of original letters on several subjects.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="948">
+            <marc:subfield code="a">jl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="989">
+            <marc:subfield code="2">Pacquet</marc:subfield>
+            <marc:subfield code="5">Will</marc:subfield>
+            <marc:subfield code="3">New</marc:subfield>
+            <marc:subfield code="2">Collection</marc:subfield>
+            <marc:subfield code="3">Original</marc:subfield>
+            <marc:subfield code="2">Letter</marc:subfield>
+            <marc:subfield code="7">Letter</marc:subfield>
+            <marc:subfield code="3">Several</marc:subfield>
+            <marc:subfield code="2">Subject</marc:subfield>
+            <marc:subfield code="6">Contain</marc:subfield>
+            <marc:subfield code="3">Pleasant</marc:subfield>
+            <marc:subfield code="2">Memoir</marc:subfield>
+            <marc:subfield code="2">Intrigue</marc:subfield>
+            <marc:subfield code="2">Adventure</marc:subfield>
+            <marc:subfield code="8">Lately</marc:subfield>
+            <marc:subfield code="6">Happen</marc:subfield>
+            <marc:subfield code="4">London</marc:subfield>
+            <marc:subfield code="4">Hampton Court</marc:subfield>
+            <marc:subfield code="4">Tumbridge</marc:subfield>
+            <marc:subfield code="4">Epsom</marc:subfield>
+            <marc:subfield code="4">North Hall</marc:subfield>
+            <marc:subfield code="4">Bath</marc:subfield>
+            <marc:subfield code="3">Satirical</marc:subfield>
+            <marc:subfield code="3">Satyrical</marc:subfield>
+            <marc:subfield code="2">Character</marc:subfield>
+            <marc:subfield code="2">Lady</marc:subfield>
+            <marc:subfield code="2">Gentleman</marc:subfield>
+            <marc:subfield code="2">Prose</marc:subfield>
+            <marc:subfield code="2">Verse</marc:subfield>
+            <marc:subfield code="5">King Charles II</marc:subfield>
+            <marc:subfield code="5">Queen of Sweden</marc:subfield>
+            <marc:subfield code="4">Sweden</marc:subfield>
+            <marc:subfield code="3">Late</marc:subfield>
+            <marc:subfield code="2">King</marc:subfield>
+            <marc:subfield code="2">Queen</marc:subfield>
+            <marc:subfield code="6">Write</marc:subfield>
+            <marc:subfield code="6">Collect</marc:subfield>
+            <marc:subfield code="2">Hand</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="999">
+            <marc:subfield code="a">KS</marc:subfield>
+            <marc:subfield code="b">07/23/15</marc:subfield>
+            <marc:subfield code="c">University of Pennsylvania</marc:subfield>
+            <marc:subfield code="d">MH</marc:subfield>
+        </marc:datafield>
+    </marc:record>

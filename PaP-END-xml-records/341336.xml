@@ -1,0 +1,222 @@
+<marc:record>
+	<marc:leader>03676cam a2200577 a 4500</marc:leader>
+	<marc:controlfield tag="001">341336</marc:controlfield>
+	<marc:controlfield tag="005">20130214152546.0</marc:controlfield>
+	<marc:controlfield tag="008">860121s1771    enk           00000 eng d</marc:controlfield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(END)sm_PR3291_A7_A53_1771</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(MediadbVoyBIBID)341336</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(PUVoyagerBIBID)200276</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(CStRLIN)PAUG86-B2228</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(CaOTULAS)121278628</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="9">ABC5283</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="040">
+		<marc:subfield code="a">PU</marc:subfield>
+		<marc:subfield code="c">PU</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="090">
+		<marc:subfield code="a">PR3291.A7</marc:subfield>
+		<marc:subfield code="b">A53 1771</marc:subfield>
+		<marc:subfield code="i">01/22/86 CT</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="0" tag="245">
+		<marc:subfield code="a">Anecdotes of a convent /</marc:subfield>
+		<marc:subfield code="c">by the author of Memoirs of Mrs. Williams : in three volumes.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">Anecdotes of a convent. By the author of Memoirs of Mrs. Williams. In three volumes. Vol. I.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">Anecdotes of a convent. By the author of Memoirs of Mrs. Williams. In three volumes. Vol. II.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">Anecdotes of a convent. By the author of Memoirs of Mrs. Williams. In three volumes. Vol. III.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="v">v.3</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="260">
+		<marc:subfield code="a">London</marc:subfield>
+		<marc:subfield code="b">London, printed for T. Becket and P. A. de Hondt, in the Strand.</marc:subfield>
+		<marc:subfield code="c">M.DCC.LXXI.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+		<marc:subfield code="v">v.3</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="300">
+		<marc:subfield code="a">3 v. ;</marc:subfield>
+		<marc:subfield code="c">16 cm. (8vo)</marc:subfield>
+		<marc:subfield code="x">Octavo</marc:subfield>
+		<marc:subfield code="z">In three volumes.</marc:subfield>
+		<marc:subfield code="a">[3 v.]</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+		<marc:subfield code="c">T71897</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">English novel, 1770-1829,</marc:subfield>
+		<marc:subfield code="c">1771:3</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">Block, A.  Engl. novel (1961 ed.),</marc:subfield>
+		<marc:subfield code="c">p. 8</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Preface</marc:subfield>
+		<marc:subfield code="b">Preface.</marc:subfield>
+		<marc:subfield code="c">Front</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="x">Authentic authorial</marc:subfield>
+		<marc:subfield code="x">Explicitly discusses how and why she uses anonymity: &quot;&quot;My name, as an Author, being totally unknown to the Public, I have had the pleasure to lst\'ning in silence to the opinion of all my acquaintance...&quot;&quot;</marc:subfield>
+		<marc:subfield code="x">Status of fictionality and the novel degraded vis-a-vis reception of Mrs. Williams: &quot;&quot;The Ladies, in general, treated the book as a Novel, which bore no resemblance to truth, \'since Mrs. Williams\'s character never could have existed in real life.\' They, therefore rank\'d her Memoirs among the herd of that species of writing, which pours upon us every year from the pens of worn-out Chambermaids, and indigent Valet de Chambres, &amp;c. &amp;c. &amp;c.&quot;</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Footnote</marc:subfield>
+		<marc:subfield code="c">Middle</marc:subfield>
+		<marc:subfield code="x">Explanatory footnotes</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+		<marc:subfield code="v">v.3</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="592">
+		<marc:subfield code="a">Epistolary</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="599">
+		<marc:subfield code="a">Author (text)</marc:subfield>
+		<marc:subfield code="b">Reference to other works</marc:subfield>
+		<marc:subfield code="2">By the author of Memoirs of Mrs. Williams.</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
+		<marc:subfield code="5">Indeterminate</marc:subfield>
+		<marc:subfield code="6">Female</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="599">
+		<marc:subfield code="a">Author (paratext)</marc:subfield>
+		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
+		<marc:subfield code="2">My name, as an Author, being totally unknown to the Public, I have had the pleasure of list\'ning in silence to the opinion of all my acquaintance...</marc:subfield>
+		<marc:subfield code="3">Preface</marc:subfield>
+		<marc:subfield code="5">Indeterminate</marc:subfield>
+		<marc:subfield code="6">Female</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="7" tag="655">
+		<marc:subfield code="a">Epistolary fiction</marc:subfield>
+		<marc:subfield code="z">England</marc:subfield>
+		<marc:subfield code="y">18th century</marc:subfield>
+		<marc:subfield code="2">rbgenr</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">CHR 1771</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">PRO Singer, Jacob (donor) (Singer-Mendenhall copy)</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">PRO Singer, Leah (donor) (Singer-Mendenhall copy)</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">PRO Singer, Godfrey F. (honoree) (Singer-Mendenhall copy)</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Becket, Thomas</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">De Hondt, P. A. (Peter Abraham)</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">T. Becket and P.A. de Hondt</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Early Novels</marc:subfield>
+		<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="752">
+		<marc:subfield code="a">England</marc:subfield>
+		<marc:subfield code="d">London.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="1" tag="852">
+		<marc:subfield code="b">scrare</marc:subfield>
+		<marc:subfield code="t">1</marc:subfield>
+		<marc:subfield code="h">PR3291.A7</marc:subfield>
+		<marc:subfield code="i">A53 1771</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="3" ind2="0" tag="866">
+		<marc:subfield code="8">0</marc:subfield>
+		<marc:subfield code="a">3 v.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="3" ind2="0" tag="866">
+		<marc:subfield code="8">0</marc:subfield>
+		<marc:subfield code="a">(v.1-3); id=9999</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="1" tag="852">
+		<marc:subfield code="b">scsing</marc:subfield>
+		<marc:subfield code="t">1</marc:subfield>
+		<marc:subfield code="h">PR3291.A7</marc:subfield>
+		<marc:subfield code="i">A53 1771</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="3" ind2="0" tag="866">
+		<marc:subfield code="8">0</marc:subfield>
+		<marc:subfield code="a">(v.1-3); id=9999</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="950">
+		<marc:subfield code="l">RBC</marc:subfield>
+		<marc:subfield code="e">\\\\Another\\copy\\Singer-\\Menden-\\hall\\</marc:subfield>
+		<marc:subfield code="v">3 v.</marc:subfield>
+		<marc:subfield code="i">01/22/86 C</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="955">
+		<marc:subfield code="l">RBC</marc:subfield>
+		<marc:subfield code="c">1:(v.1-3)</marc:subfield>
+		<marc:subfield code="q">819144-6</marc:subfield>
+		<marc:subfield code="i">01/22/86 C</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="955">
+		<marc:subfield code="l">RBC</marc:subfield>
+		<marc:subfield code="c">2:(v.1-3)</marc:subfield>
+		<marc:subfield code="q">725221-3</marc:subfield>
+		<marc:subfield code="s">g. Mr. and Mrs. Jacob Singer</marc:subfield>
+		<marc:subfield code="i">01/22/86 C</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="989">
+		<marc:subfield code="2">Anecdote</marc:subfield>
+		<marc:subfield code="2">Convent</marc:subfield>
+		<marc:subfield code="2">Author</marc:subfield>
+		<marc:subfield code="2">Memoir</marc:subfield>
+		<marc:subfield code="2">Volume</marc:subfield>
+		<marc:subfield code="2">Mrs.</marc:subfield>
+		<marc:subfield code="5">Mrs. Williams</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="999">
+		<marc:subfield code="a">MR</marc:subfield>
+		<marc:subfield code="b">5/27/11</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
+	</marc:datafield>
+</marc:record>

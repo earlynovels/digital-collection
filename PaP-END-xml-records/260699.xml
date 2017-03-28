@@ -1,0 +1,206 @@
+<marc:record>
+        <marc:leader>03071cam a2200541 a 4500</marc:leader>
+        <marc:controlfield tag="001">260699</marc:controlfield>
+        <marc:controlfield tag="005">20130404160445.0</marc:controlfield>
+        <marc:controlfield tag="008">850327s1747    enk           00000 eng d</marc:controlfield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(PUVoyagerBIBID)206969</marc:subfield></marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CStRLIN)PAUG85-B11586</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CaOTULAS)121253852</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(END)sm_pr3459_f3_f3_1747_v1_tp0004163</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="9">ABD2736</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(MediadbVoyBIBID)260699</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="040">
+            <marc:subfield code="a">IaU</marc:subfield>
+            <marc:subfield code="c">IaU</marc:subfield>
+            <marc:subfield code="d">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="090">
+            <marc:subfield code="a">PR3459.F3</marc:subfield>
+            <marc:subfield code="b">F3 1747</marc:subfield>
+            <marc:subfield code="i">04/03/85 CT</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2=" " tag="100">
+            <marc:subfield code="a">Fielding, Sarah,</marc:subfield>
+            <marc:subfield code="d">1710-1768.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="0" tag="245">
+            <marc:subfield code="a">Familiar letters between the characters in David Simple, and some others :</marc:subfield>
+            <marc:subfield code="b">to which is added, A vision /</marc:subfield>
+            <marc:subfield code="c">by the author of David Simple ; in two volumes.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="5" tag="246">
+            <marc:subfield code="a">Familiar letters between the principal characters in David Simple, and some others. To which is added, a vision. By the author of David Simple. In two volumes. Vol. I.</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Main</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="5" tag="246">
+            <marc:subfield code="a">Familiar letters between the principal characters in David Simple, and some others. To which is added, a vision. By the author of David Simple. In two volumes. Vol. II.</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Main</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="260">
+            <marc:subfield code="a">London :</marc:subfield>
+            <marc:subfield code="b">Printed for the author and sold by A. Millar, opposite Katharine-Street in the Strand</marc:subfield>
+            <marc:subfield code="c">1747.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">2 v. ;</marc:subfield>
+            <marc:subfield code="c">23 cm.</marc:subfield>
+            <marc:subfield code="x">Octavo</marc:subfield>
+            <marc:subfield code="z">In two volumes</marc:subfield>
+            <marc:subfield code="a">[2 v.]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Published anonymously. By Sarah Fielding. Cf. Halkett &amp; Laing (2nd ed.)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Sequel to: The adventures of David Simple.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Letters XL-XLIV are by Henry Fielding.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">List of subscribers: v. 1, p. xxiii-xlviii.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+            <marc:subfield code="c">T115807</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">Beasley, J.C.  Prose fiction pub. in England, 1740-1749,</marc:subfield>
+            <marc:subfield code="c">223</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">Block, A.  Engl. novel (1961 ed.),</marc:subfield>
+            <marc:subfield code="c">p.74</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="520">
+            <marc:subfield code="a">Preface</marc:subfield>
+            <marc:subfield code="b">Preface: Written by a friend of the author.</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="592">
+            <marc:subfield code="a">Epistolary</marc:subfield>
+            <marc:subfield code="a">First-person</marc:subfield>
+            <marc:subfield code="x">First-person occurs in the story after the Familiar letters, entitled &quot;&quot;A Vision&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="593">
+            <marc:subfield code="a">Subscriber\'s list</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="594">
+            <marc:subfield code="a">H Wegg 1748 The gift of my sister Molly 2 Vol:</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="b">Reference to other works</marc:subfield>
+            <marc:subfield code="2">By the author of David Simple</marc:subfield>
+            <marc:subfield code="3">Title page</marc:subfield>
+            <marc:subfield code="5">Indeterminate</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">CHR 1747</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">PRO Mendenhall, John C. (donor)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">PRO Wegg, Samuel (bookplate)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2=" " tag="700">
+            <marc:subfield code="a">Fielding, Henry,</marc:subfield>
+            <marc:subfield code="d">1707-1754.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">A. Millar</marc:subfield>
+            <marc:subfield code="4">Sold by</marc:subfield>
+            <marc:subfield code="9">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+            <marc:subfield code="9">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="852">
+            <marc:subfield code="b">scsing</marc:subfield>
+            <marc:subfield code="h">PR3459.F3</marc:subfield>
+            <marc:subfield code="i">F3 1747</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2="1" tag="866">
+            <marc:subfield code="8">0</marc:subfield>
+            <marc:subfield code="a">v.1-2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="920">
+            <marc:subfield code="2">Preface:</marc:subfield>
+            <marc:subfield code="8">Written by a</marc:subfield>
+            <marc:subfield code="2">friend</marc:subfield>
+            <marc:subfield code="8">of the</marc:subfield>
+            <marc:subfield code="2">author.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="950">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="e">\\\\Singer-\\Menden-\\hall\\</marc:subfield>
+            <marc:subfield code="v">2 v.</marc:subfield>
+            <marc:subfield code="i">04/03/85 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="955">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">1:(v. 1-2)</marc:subfield>
+            <marc:subfield code="q">50-763</marc:subfield>
+            <marc:subfield code="s">g.J. C. Mendenhall</marc:subfield>
+            <marc:subfield code="s">bookplate of Saml. Wegg, Esq;</marc:subfield>
+            <marc:subfield code="i">04/03/85 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="989">
+            <marc:subfield code="3">familiar</marc:subfield>
+            <marc:subfield code="2">letter</marc:subfield>
+            <marc:subfield code="3">principal</marc:subfield>
+            <marc:subfield code="2">character</marc:subfield>
+            <marc:subfield code="5">David Simple</marc:subfield>
+            <marc:subfield code="5">and</marc:subfield>
+            <marc:subfield code="3">some</marc:subfield>
+            <marc:subfield code="2">other</marc:subfield>
+            <marc:subfield code="2">vision</marc:subfield>
+            <marc:subfield code="2">author</marc:subfield>
+            <marc:subfield code="5">David Simple</marc:subfield>
+            <marc:subfield code="5"/>
+            <marc:subfield code="2">Vol. I.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="989">
+            <marc:subfield code="3">familiar</marc:subfield>
+            <marc:subfield code="2">letter</marc:subfield>
+            <marc:subfield code="3">principal</marc:subfield>
+            <marc:subfield code="2">character</marc:subfield>
+            <marc:subfield code="5">David Simple</marc:subfield>
+            <marc:subfield code="5"/>
+            <marc:subfield code="3">some</marc:subfield>
+            <marc:subfield code="2">other</marc:subfield>
+            <marc:subfield code="2">vision</marc:subfield>
+            <marc:subfield code="2">author</marc:subfield>
+            <marc:subfield code="5">David Simple</marc:subfield>
+            <marc:subfield code="5"/>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+    </marc:record>
