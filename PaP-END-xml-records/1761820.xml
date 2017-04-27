@@ -1,0 +1,179 @@
+<marc:record>
+        <marc:leader>02632cam a2200481 a 4500</marc:leader>
+        <marc:controlfield tag="001">1761820</marc:controlfield>
+        <marc:controlfield tag="005">20050830123717.0</marc:controlfield>
+        <marc:controlfield tag="008">910529s1786    enk           000 1 eng d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(PUVoyagerBIBID)1761820</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(CStRLIN)PAUGEAT6750-B</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="9">EAT6750</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">PU</marc:subfield>
+            <marc:subfield code="c">PU</marc:subfield>
+            <marc:subfield code="e">dcrb</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="a">eng</marc:subfield>
+            <marc:subfield code="h">fre</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Prévost,</marc:subfield>
+            <marc:subfield code="c">abbé,</marc:subfield>
+            <marc:subfield code="d">1697-1763.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="1" ind2="0">
+            <marc:subfield code="a">Manon Lescaut.</marc:subfield>
+            <marc:subfield code="l">English</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Manon L'Escaut, or The fatal attachment :</marc:subfield>
+            <marc:subfield code="b">a French story.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1=" " ind2=" ">
+            <marc:subfield code="a">Manon l'Escaut: or, the fatal attachment. A french story. Volume I.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1=" " ind2=" ">
+            <marc:subfield code="a">Manon l'Escaut: or, the fatal attachment. A french story. Volume II.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">London</marc:subfield>
+            <marc:subfield code="b">Printed for T. Cadell in the Strand.</marc:subfield>
+            <marc:subfield code="c">MDCCLXXXVI.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">2 v. ;</marc:subfield>
+            <marc:subfield code="c">18 cm. (12mo)</marc:subfield>
+            <marc:subfield code="x">Duodecimo</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Translation by Charlotte Turner Smith of Manon Lescaut.  Cf. Garside and Raven.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="510" ind1="4" ind2=" ">
+            <marc:subfield code="a">ESTC</marc:subfield>
+            <marc:subfield code="c">N034770</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="510" ind1="4" ind2=" ">
+            <marc:subfield code="a">English novel, 1770-1829,</marc:subfield>
+            <marc:subfield code="c">(note between 1786:36 and 37)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Preface</marc:subfield>
+            <marc:subfield code="b">Translator's preface.</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="x">Explains reasons for and methods of translation (e.g. &quot;I do not pretend to have adhered very closely to a maxim I have somewhere seen, that 'fidelity is the first duty of a translator.' I found the short sentences of the original, if closely copied, would be so very unpleasant to an English ear, that I have throughout lengthened the periods...&quot;)</marc:subfield>
+            <marc:subfield code="x">Includes partial translation of original French preface</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Errata</marc:subfield>
+            <marc:subfield code="b">Errata.</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="592" ind1=" " ind2=" ">
+            <marc:subfield code="a">First-person</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="594" ind1=" " ind2=" ">
+            <marc:subfield code="a">By the Abbé Prévost.</marc:subfield>
+            <marc:subfield code="b">Ink</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="x">On the title page</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="596" ind1=" " ind2=" ">
+            <marc:subfield code="a">Translation</marc:subfield>
+            <marc:subfield code="b">Title Page</marc:subfield>
+            <marc:subfield code="c">French</marc:subfield>
+            <marc:subfield code="e">A french story.</marc:subfield>
+            <marc:subfield code="x">Explains translation process more thoroughly in &quot;Translator's preface.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">CHR 1786</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">PRO Forrest, Edwin, Estate of (Donor)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Smith, Charlotte Turner,</marc:subfield>
+            <marc:subfield code="d">1749-1806.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2="1">
+            <marc:subfield code="a">Manon L'Escaut.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2="1">
+            <marc:subfield code="a">Fatal attachment.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Prévost, Abbé</marc:subfield>
+            <marc:subfield code="d">1697-1763</marc:subfield>
+            <marc:subfield code="4">Author (original)</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Smith, Charlotte Turner</marc:subfield>
+            <marc:subfield code="d">1749-1806</marc:subfield>
+            <marc:subfield code="4">Translator (text)</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Cadell, T. (Thomas)</marc:subfield>
+            <marc:subfield code="d">1742-1802</marc:subfield>
+            <marc:subfield code="4">Publisher</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1=" " ind2=" ">
+            <marc:subfield code="a">T. Cadell (Bookseller)</marc:subfield>
+            <marc:subfield code="4">Publisher</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+            <marc:subfield code="5">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1="0" ind2="1">
+            <marc:subfield code="b">scforr</marc:subfield>
+            <marc:subfield code="t">1</marc:subfield>
+            <marc:subfield code="h">PQ2021.M3</marc:subfield>
+            <marc:subfield code="i">E5 1786</marc:subfield>
+            <marc:subfield code="x">g. Forrest estate</marc:subfield>
+            <marc:subfield code="x">recl. fr. P9298.Eg786m</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="866" ind1="4" ind2="1">
+            <marc:subfield code="8">0</marc:subfield>
+            <marc:subfield code="a">v.1-2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="948" ind1=" " ind2=" ">
+            <marc:subfield code="a">ajs#</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="989" ind1=" " ind2=" ">
+            <marc:subfield code="2">Attachment</marc:subfield>
+            <marc:subfield code="2">Story</marc:subfield>
+            <marc:subfield code="2">Volume</marc:subfield>
+            <marc:subfield code="3">Fatal</marc:subfield>
+            <marc:subfield code="3">French</marc:subfield>
+            <marc:subfield code="5">Manon l'Escaut</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">AFD</marc:subfield>
+            <marc:subfield code="b">07/19/2011</marc:subfield>
+        </marc:datafield>
+    </marc:record>

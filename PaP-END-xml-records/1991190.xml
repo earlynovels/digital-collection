@@ -1,0 +1,206 @@
+<marc:record>
+        <marc:leader>04796cam a2200493 i 4500</marc:leader>
+        <marc:controlfield tag="001">1991190</marc:controlfield>
+        <marc:controlfield tag="005">20031023121048.0</marc:controlfield>
+        <marc:controlfield tag="008">961011s1787    enk           000 1 eng d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(PUVoyagerBIBID)1991190</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(CStRLIN)PAUGEBS9126-B</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(CStRLIN)PAUGEBS9126-B</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="9">EBS9126</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">PU</marc:subfield>
+            <marc:subfield code="c">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="050" ind1=" " ind2="4">
+            <marc:subfield code="a">PR3991.A1</marc:subfield>
+            <marc:subfield code="b">L63 1787</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="090" ind1=" " ind2=" ">
+            <marc:subfield code="f">h</marc:subfield>
+            <marc:subfield code="n">\jl\</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Lord Winworth, or, The memoirs of an heir :</marc:subfield>
+            <marc:subfield code="b">a novel.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="3" ind2="0">
+            <marc:subfield code="a">Memoirs of an heir.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1=" " ind2=" ">
+            <marc:subfield code="a">Lord Winworth; or, the memoirs of an heir; a novel. In three volumes. Dedicated, by permission, to her grace the Duchess of Devonshire. The second edition. Vol. I.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1=" " ind2=" ">
+            <marc:subfield code="a">Lord Winworth; or, the memoirs of an heir; a novel. In three volumes. Dedicated, by permission, to her grace the Duchess of Devonshire. The second edition. Vol. II.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1=" " ind2=" ">
+            <marc:subfield code="a">Lord Winworth; or, the memoirs of an heir; a novel. In three volumes. Dedicated, by permission, to her grace the Duchess of Devonshire. The second edition. Vol. III.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="0" ind2="7">
+            <marc:subfield code="a">Dedication.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="0" ind2="7">
+            <marc:subfield code="a">Dedication. (verso)</marc:subfield>
+            <marc:subfield code="a">Dedication. (recto)</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="0" ind2="7">
+            <marc:subfield code="a">Lord Winworth, or the memoirs of an heir.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="0" ind2="7">
+            <marc:subfield code="a">Lord Winworth, or the (verso)</marc:subfield>
+            <marc:subfield code="a">Memoirs of an heir. (recto)</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="250" ind1=" " ind2=" ">
+            <marc:subfield code="a">The second edition.</marc:subfield>
+            <marc:subfield code="b">Second edition</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">London</marc:subfield>
+            <marc:subfield code="b">Printed for G. Allen, Long Acre, and sold by all the booksellers in town and country.</marc:subfield>
+            <marc:subfield code="c">MDCCLXXXVII.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">3 v. ;</marc:subfield>
+            <marc:subfield code="c">18 cm. (12mo)</marc:subfield>
+            <marc:subfield code="x">Duodecimo</marc:subfield>
+            <marc:subfield code="z">In three volumes.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="510" ind1="4" ind2=" ">
+            <marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+            <marc:subfield code="c">N33874</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Dedication</marc:subfield>
+            <marc:subfield code="b">To her grace the Duchess of Devonshire.</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="x">&quot;As I wish to be original in my volumes, I shall endeavour to be so in this dedication...&quot;</marc:subfield>
+            <marc:subfield code="x">Authorial voice reflects on challenges of being a novel novelist (e.g. &quot;Since this kind of writing [novel-writing] is common and general, the undertaking, I think, is more bold and hazardous. In this bright age of enlightened refinement, it is most arduous to equalize and almost impossible to excel: indeed, novels are so numerous, that there is scarcely a subject remaining. I am of the opinion that they must lose their name; for instead of being novel, they will shortly be old, and tho' ever so many, there must be a paucity of original...&quot;</marc:subfield>
+            <marc:subfield code="x">Reflects upon the implication gender holds in both the writing and reading of a novel (e.g. &quot;...for I should suppose, that female critics are somewhat more easy and good-natured than the rigid censors of the other sex...As these productions are chiefly for the amusement of female readers, they should therefore be the productions of female writers.&quot;)</marc:subfield>
+            <marc:subfield code="x">Signed &quot;The author. January 1, 1787.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Errata</marc:subfield>
+            <marc:subfield code="b">Errata.</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Advertisement</marc:subfield>
+            <marc:subfield code="b">Advertisement.</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="x">&quot;The publisher thinks it a duty incumbent upon him to return his most warm and unfeigned thanks to her Grace the Duchess of Devonshire for so kindly giving her name to adorn this little work...He [the publisher] did not intend to offer this second edition till next season; but, on account of the great demand for the work, thought it not prudent to leave it so long out of print--therefore for the accomodation of the public had it dispatched with greatest diligence and speed. N.B. Speedily will be published a cotinuation of this work, containing the principal characters, &amp;c. at the request of many admirers of Lord Winworth.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Criticism</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="x">&quot;There is indeed novelty in the conduct of the story and in the delineation of the characters. The author's address in concealing the event deserves great commendation. Curiosity is kept in anxious expectation and we are not satisfied but in the very moment when the expectation cannot longer be advantageously concealed. The plot is also unfolded with great dexterity, and the denouement is an interesting part of the work. Vide Critical Review for March.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="591" ind1=" " ind2=" ">
+            <marc:subfield code="a">Simplex munditiis.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="592" ind1=" " ind2=" ">
+            <marc:subfield code="a">Epistolary</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">CHR 1787</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">G. Allen</marc:subfield>
+            <marc:subfield code="4">Publisher</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1=" " ind2=" ">
+            <marc:subfield code="a">G. Allen</marc:subfield>
+            <marc:subfield code="4">Publisher</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">Univeristy of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+            <marc:subfield code="5">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1="0" ind2="1">
+            <marc:subfield code="b">scsing</marc:subfield>
+            <marc:subfield code="t">1</marc:subfield>
+            <marc:subfield code="h">PR3991.A1</marc:subfield>
+            <marc:subfield code="i">L63 1787</marc:subfield>
+            <marc:subfield code="x">47-1031</marc:subfield>
+            <marc:subfield code="x">Singer Mem. Fd.</marc:subfield>
+            <marc:subfield code="x">recl. fr. EC75/A100/787l2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="866" ind1="4" ind2="1">
+            <marc:subfield code="8">0</marc:subfield>
+            <marc:subfield code="a">v.1-3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="950" ind1=" " ind2=" ">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="a">PR3991.A1</marc:subfield>
+            <marc:subfield code="b">L63 1787</marc:subfield>
+            <marc:subfield code="i">01/01/01 N</marc:subfield>
+            <marc:subfield code="x">010</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="955" ind1=" " ind2=" ">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">1:v.1-3</marc:subfield>
+            <marc:subfield code="s">47-1031</marc:subfield>
+            <marc:subfield code="s">Singer Mem. Fd.</marc:subfield>
+            <marc:subfield code="s">recl. fr. EC75/A100/787l2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="998" ind1=" " ind2=" ">
+            <marc:subfield code="n">PU</marc:subfield>
+            <marc:subfield code="z">BNA</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="948" ind1=" " ind2=" ">
+            <marc:subfield code="a">jl989  \\</marc:subfield>
+            <marc:subfield code="2">Lord</marc:subfield>
+            <marc:subfield code="2">Memoir</marc:subfield>
+            <marc:subfield code="2">Heir</marc:subfield>
+            <marc:subfield code="2">Novel</marc:subfield>
+            <marc:subfield code="2">Volume</marc:subfield>
+            <marc:subfield code="2">Permission</marc:subfield>
+            <marc:subfield code="2">Duchess</marc:subfield>
+            <marc:subfield code="2">Edition</marc:subfield>
+            <marc:subfield code="5">Lord Winworth</marc:subfield>
+            <marc:subfield code="5">Her Grace the Duchess of Devonshire</marc:subfield>
+            <marc:subfield code="6">Dedicate</marc:subfield>
+            <marc:subfield code="7">Novel999  \\</marc:subfield>
+            <marc:subfield code="a">AFD</marc:subfield>
+            <marc:subfield code="b">07/21/2011</marc:subfield>
+        </marc:datafield>
+    </marc:record>

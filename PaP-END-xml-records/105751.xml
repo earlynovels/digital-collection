@@ -1,0 +1,264 @@
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+        <marc:leader>01472cam a2200385 a 4500</marc:leader>
+        <marc:controlfield tag="001">105751</marc:controlfield>
+        <marc:controlfield tag="005">20160922142507.0</marc:controlfield>
+        <marc:controlfield tag="008">861001s1790 enk 00000 eng d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)ocm17378919</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)17378919</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(CStRLIN)PAUG86-B42544</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(CaOTULAS)146812686</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="9">AAQ0674</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">105751</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">PU</marc:subfield>
+            <marc:subfield code="c">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="090" ind1=" " ind2=" ">
+            <marc:subfield code="a">PR3991.A1</marc:subfield>
+            <marc:subfield code="b">W74 1790</marc:subfield>
+            <marc:subfield code="i">10/02/86 CT</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="4">
+            <marc:subfield code="a">The Wreath of friendship, or A return from India :</marc:subfield>
+            <marc:subfield code="b">a novel, in a series of letters : in three volumes.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1=" " ind2=" ">
+            <marc:subfield code="a">The wreath of friendship; or A return from India. A novel, in a series of letters. In three volumes. Vol. I.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1=" " ind2=" ">
+            <marc:subfield code="a">The wreath of friendship; or A return from India. A novel, in a series of letters. In three volumes. Vol. II.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1=" " ind2=" ">
+            <marc:subfield code="a">The wreath of friendship; or A return from India. A novel, in a series of letters. In three volumes. Vol. III.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="0" ind2="7">
+            <marc:subfield code="a">The wreath of friendship.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="0" ind2="7">
+            <marc:subfield code="a">The wreath of friendship. (verso)</marc:subfield>
+            <marc:subfield code="a">The wreath of friendship. (recto)</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1="0" ind2=" ">
+            <marc:subfield code="a">London</marc:subfield>
+            <marc:subfield code="b">Printed for William Lane, Leadenhall-Street.</marc:subfield>
+            <marc:subfield code="c">1790</marc:subfield>
+            <marc:subfield code="c">M DCC XC.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">3 v. ;</marc:subfield>
+            <marc:subfield code="c">17 cm. (12mo)</marc:subfield>
+            <marc:subfield code="x">Duodecimo</marc:subfield>
+            <marc:subfield code="z">In three volumes</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">An epistolary novel.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Not in Blakey, D. Minerva Press.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Advertisements: v. 1, p. [xi]-[xii].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Library marginalia on front fly paper and back fly paper, v.1-2, and first page of text, v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">University of Pennsylvania bookplate on front paste-down endpaper, v.1-3.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Bookplate reading "Levina Foster" on front paste-down endpaper, v.1-2.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="510" ind1="4" ind2=" ">
+            <marc:subfield code="a">BM</marc:subfield>
+            <marc:subfield code="c">v. 261, col. 277</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="510" ind1="4" ind2=" ">
+            <marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+            <marc:subfield code="c">N25503</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="510" ind1="4" ind2=" ">
+            <marc:subfield code="a">English novel, 1770-1829,</marc:subfield>
+            <marc:subfield code="c">1790:35</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Dedication</marc:subfield>
+            <marc:subfield code="b">To Mrs. Montague</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="x">Transcription: "To Mrs. Montague, whose elegant pen and polite accomplishments render her the patroness of the ladies, the following letters are respectfully inscribed."</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Preface</marc:subfield>
+            <marc:subfield code="b">Preface.</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="x">Transcription: "It may perhaps be thought remarkable, that the editor of a novel should be the very person to decry such performances."</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Footnote</marc:subfield>
+            <marc:subfield code="c">Middle</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="x">On p. 119. Transcription: "A late writer compares it ['old-maidism'] to a blighted tree upon an open common."</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="591" ind1=" " ind2=" ">
+            <marc:subfield code="a">Prodesse et delectare.</marc:subfield>
+            <marc:subfield code="d">To instruct and to delight.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+            <marc:subfield code="x">Original in Latin. Source: http://tinyurl.com/hcg4nvw</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="592" ind1=" " ind2=" ">
+            <marc:subfield code="a">Epistolary</marc:subfield>
+            <marc:subfield code="b">First-person</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="594" ind1=" " ind2=" ">
+            <marc:subfield code="a">[illegible]</marc:subfield>
+            <marc:subfield code="b">Ink</marc:subfield>
+            <marc:subfield code="x">What appears to be a signature written three times and crossed out, pp. 146-7.</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="595" ind1=" " ind2=" ">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Numbers</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="x">Price listed 3-3-0 pounds</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="595" ind1=" " ind2=" ">
+            <marc:subfield code="a">Ink</marc:subfield>
+            <marc:subfield code="b">Words</marc:subfield>
+            <marc:subfield code="b">Editorial marking</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+            <marc:subfield code="x">Word circled near the top of the page and written comment along the margin</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="595" ind1=" " ind2=" ">
+            <marc:subfield code="a">Ink</marc:subfield>
+            <marc:subfield code="b">Words</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+            <marc:subfield code="x">Much of final page of text has been cut away. Two layers of writing in ink, most of it crossed out, visible on verso. Partial transcription: "Ply her with [?] art [...] Purple [...] the Spear".</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Epistolary fiction</marc:subfield>
+            <marc:subfield code="z">England</marc:subfield>
+            <marc:subfield code="y">18th century.</marc:subfield>
+            <marc:subfield code="2">rbgenr</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Booksellers' advertisements</marc:subfield>
+            <marc:subfield code="z">England</marc:subfield>
+            <marc:subfield code="y">18th century.</marc:subfield>
+            <marc:subfield code="2">rbgenr</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">CHR 1790</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">PRO Foster, Levina (bookplate)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="656" ind1=" " ind2=" ">
+            <marc:subfield code="a">Fiction</marc:subfield>
+            <marc:subfield code="b">Middle</marc:subfield>
+            <marc:subfield code="c">Same publisher</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2="2">
+            <marc:subfield code="a">Return from India.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Lane, William</marc:subfield>
+            <marc:subfield code="d">-1814</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Montagu, Mrs. (Elizabeth)</marc:subfield>
+            <marc:subfield code="d">1718-1800</marc:subfield>
+            <marc:subfield code="4">Dedicatee</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Levina Foster</marc:subfield>
+            <marc:subfield code="4">Author (bookplate)</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+            <marc:subfield code="5">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">Facsimile</marc:subfield>
+            <marc:subfield code="u">http://hdl.library.upenn.edu/1017/d/print/105751</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="950" ind1=" " ind2=" ">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="e">\\Singer-\Menden-\hall\</marc:subfield>
+            <marc:subfield code="v">3 v.</marc:subfield>
+            <marc:subfield code="i">10/02/86 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="955" ind1=" " ind2=" ">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">1:(v.1-3)</marc:subfield>
+            <marc:subfield code="q">725292-94</marc:subfield>
+            <marc:subfield code="s">Godfrey F. Singer Mem.</marc:subfield>
+            <marc:subfield code="i">10/02/86 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="989" ind1=" " ind2=" ">
+            <marc:subfield code="2">Wreath</marc:subfield>
+            <marc:subfield code="2">Friendship</marc:subfield>
+            <marc:subfield code="2">Return</marc:subfield>
+            <marc:subfield code="4">India</marc:subfield>
+            <marc:subfield code="2">Novel</marc:subfield>
+            <marc:subfield code="2">Series</marc:subfield>
+            <marc:subfield code="2">Letter</marc:subfield>
+            <marc:subfield code="7">Letter</marc:subfield>
+            <marc:subfield code="3">Three</marc:subfield>
+            <marc:subfield code="2">Volume</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">DLA</marc:subfield>
+            <marc:subfield code="b">20160912</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">BTA</marc:subfield>
+            <marc:subfield code="b">1/6/17</marc:subfield>
+            <marc:subfield code="c">University of Pennsylvania</marc:subfield>
+            <marc:subfield code="d">YDS</marc:subfield>
+        </marc:datafield>
+    </marc:record>

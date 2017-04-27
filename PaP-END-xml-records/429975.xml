@@ -1,0 +1,239 @@
+<marc:record>
+        <marc:leader>04247cam a2200601 a 4500</marc:leader>
+        <marc:controlfield tag="001">429975</marc:controlfield>
+        <marc:controlfield tag="005">20130621103023.0</marc:controlfield>
+        <marc:controlfield tag="008">861001s1793    enk           00000 eng d</marc:controlfield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CStRLIN)PAUG86-B42609</marc:subfield></marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CaOTULAS)146812836</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="9">AAQ0708</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">105783</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(END)sm_pr3991_a1_s74_1793</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(MediadbVoyBIBID)429975</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="040">
+            <marc:subfield code="a">PU</marc:subfield>
+            <marc:subfield code="c">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="090">
+            <marc:subfield code="a">PR3991.A1</marc:subfield>
+            <marc:subfield code="b">S74 1793</marc:subfield>
+            <marc:subfield code="i">10/02/86 CT</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="245">
+            <marc:subfield code="a">Stellins, or The new Werther :</marc:subfield>
+            <marc:subfield code="b">in two volumes.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">Stellins; or, the  new Werter. Vol. I</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Half</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">Stellins; or, the new Werter. Vol. II</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Half</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">Stellins; or, the new Werter. In two volumes. Vol. I</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">Stellins; or, the new Werter. In two volumes. Vol. II</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="7" tag="246">
+            <marc:subfield code="a">Stellins.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="7" tag="246">
+            <marc:subfield code="a">Stellins. (verso).</marc:subfield>
+            <marc:subfield code="a">Stellins. (recto).</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="260">
+            <marc:subfield code="a">London :</marc:subfield>
+            <marc:subfield code="b">Printed at the Minerva-Press for William Lane, Leadenhall-Street.</marc:subfield>
+            <marc:subfield code="c">M,DCC,XCIII (1793).</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">2 v. ;</marc:subfield>
+            <marc:subfield code="c">19 cm. (8vo)</marc:subfield>
+            <marc:subfield code="z">In two volumes</marc:subfield>
+            <marc:subfield code="a">[2 v.]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">An epistolary novel, in imitation of Goethe\'s Werther.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Advertisements: v. 2, last page.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+            <marc:subfield code="c">N26583</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">English novel, 1770-1829,</marc:subfield>
+            <marc:subfield code="c">1793:14</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">Blakey, D. Minerva Press</marc:subfield>
+            <marc:subfield code="c">p. 163</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">Black, F.G. Epistolary novel</marc:subfield>
+            <marc:subfield code="c">no. 306</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="520">
+            <marc:subfield code="a">To the Reader</marc:subfield>
+            <marc:subfield code="b">The editor\'s advertisment.</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="x">Transcription of the first sentences: &quot;We do not pretend, by giving the title of &quot;The New Werter&quot; to the following sheets, to put the work upon a footing with its excellent model.--The Compiler of the letters left the choice of a name to us...&quot; The editor insists the story is &quot;founded on real facts&quot;: &quot;Our history, too, is no romance&quot; (v.1, ii).</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="520">
+            <marc:subfield code="a">Letter</marc:subfield>
+            <marc:subfield code="b">Letter from Mr. de St. P. to the editor</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="x">The letter describes Mr. G.G.\'s aquaintance with the young letter writer in Palermo.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="520">
+            <marc:subfield code="a">Note</marc:subfield>
+            <marc:subfield code="c">Middle</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="x">Footnotes are included in Vol. I on pages 13, 26, 36, 99, 132, 149, and 157, and Vol. II on 2, 43, 46 53, 78, 105, 151, and 163.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="591">
+            <marc:subfield code="a">&quot; Human nature has its boundary, --it can support --- &quot;joy and grief to a certain degree; but if carried --- &quot;farther, it sinks under the pressure.&quot;</marc:subfield>
+            <marc:subfield code="1">Sorrows of Werter.</marc:subfield>
+            <marc:subfield code="b">The Sorrows of Young Werter</marc:subfield>
+            <marc:subfield code="c">Johann Wolfgang Goethe</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="x">The epigraph appears on the title page.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Editor (text)</marc:subfield>
+            <marc:subfield code="1">Generic/Descriptive</marc:subfield>
+            <marc:subfield code="2">The editor\'s advertisment.</marc:subfield>
+            <marc:subfield code="3">To the Reader</marc:subfield>
+            <marc:subfield code="5">Indeterminate</marc:subfield>
+            <marc:subfield code="6">Unknown</marc:subfield>
+            <marc:subfield code="7">The editor claims to have received the advertisment from the compiler.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Editor (text)</marc:subfield>
+            <marc:subfield code="1">Initials</marc:subfield>
+            <marc:subfield code="2">Mr. G.G. compiled the letters...</marc:subfield>
+            <marc:subfield code="3">Letter</marc:subfield>
+            <marc:subfield code="5">Male</marc:subfield>
+            <marc:subfield code="U">nknown</marc:subfield>
+            <marc:subfield code="7">In the editor\'s advertisment and in the letter to the editor, the editor and the compiler are identified as two distinct individuals.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="1">Generic/Descriptive</marc:subfield>
+            <marc:subfield code="2">&quot;..he [the compiler] took it upon himself ... thus collecting all his letters and forming them into an exact series of events. Such has been the motive of this publication (v.1, vi)</marc:subfield>
+            <marc:subfield code="3">Letter</marc:subfield>
+            <marc:subfield code="5">Male</marc:subfield>
+            <marc:subfield code="6">Unknown</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">CHR 1793</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="655">
+            <marc:subfield code="a">Epistolary fiction</marc:subfield>
+            <marc:subfield code="z">England</marc:subfield>
+            <marc:subfield code="y">18th century.</marc:subfield>
+            <marc:subfield code="2">rbgenr</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="655">
+            <marc:subfield code="a">Booksellers\' advertisements</marc:subfield>
+            <marc:subfield code="z">England</marc:subfield>
+            <marc:subfield code="y">18th century.</marc:subfield>
+            <marc:subfield code="2">rbgenr</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="656">
+            <marc:subfield code="a">Fiction</marc:subfield>
+            <marc:subfield code="b">Back</marc:subfield>
+            <marc:subfield code="c">Same publisher</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="x">The five novels advertised are &quot;Theodore, a domestic tale,&quot; &quot;The fille de chambre, a novel,&quot; &quot;The noble enthusiast, a modern romance,&quot; &quot;Rosina, a novel,&quot; and &quot;Somerset, or, the dangers of greatness, a tale, founded upon historic truths.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="1" tag="700">
+            <marc:subfield code="a">Goethe, Johann Wolfgang von,</marc:subfield>
+            <marc:subfield code="d">d. 1749-1832.</marc:subfield>
+            <marc:subfield code="4">Author (epigraph)</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+            <marc:subfield code="t">Werther</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Lane, William</marc:subfield>
+            <marc:subfield code="d">d. 1745-1814</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="2" tag="740">
+            <marc:subfield code="a">New Werther.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="710">
+            <marc:subfield code="a">Lane, William</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="2" tag="710">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="2" tag="710">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="950">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="e">\\\\Singer-\\Menden-\\hall\\</marc:subfield>
+            <marc:subfield code="v">2 v.</marc:subfield>
+            <marc:subfield code="i">10/02/86 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="955">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">1:v.1</marc:subfield>
+            <marc:subfield code="q">725233</marc:subfield>
+            <marc:subfield code="i">10/02/86 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="955">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">1:v.2</marc:subfield>
+            <marc:subfield code="q">725231</marc:subfield>
+            <marc:subfield code="i">10/02/86 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="989">
+            <marc:subfield code="5">Stellins</marc:subfield>
+            <marc:subfield code="1">The new Werter</marc:subfield>
+            <marc:subfield code="3">Volume</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="999">
+            <marc:subfield code="a">SCE</marc:subfield>
+            <marc:subfield code="d">6/17/13</marc:subfield>
+            <marc:subfield code="c">Swarthmore College</marc:subfield>
+            <marc:subfield code="d">ALV</marc:subfield>
+        </marc:datafield>
+    </marc:record>

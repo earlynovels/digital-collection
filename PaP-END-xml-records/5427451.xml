@@ -1,0 +1,180 @@
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+        <marc:leader>01463cam a2200349La 4500</marc:leader>
+        <marc:controlfield tag="001">5427451</marc:controlfield>
+        <marc:controlfield tag="005">20160922142455.0</marc:controlfield>
+        <marc:controlfield tag="008">890425s1723 enk 000 0 eng d</marc:controlfield>
+        <marc:datafield tag="026" ind1=" " ind2=" ">
+            <marc:subfield code="e">o-he stdy c.m, Loob (3) 1723 (Q)</marc:subfield>
+            <marc:subfield code="2">fei</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)ocm82953238</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">5427451</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">HUV</marc:subfield>
+            <marc:subfield code="c">HUV</marc:subfield>
+            <marc:subfield code="d">YUS</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)82953238</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="049" ind1=" " ind2=" ">
+            <marc:subfield code="a">PAUU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="0">
+            <marc:subfield code="a">Love-letters between a certain late nobleman and the famous Mr. Wilson :</marc:subfield>
+            <marc:subfield code="b">discovering the true history of the rise and surprising grandeur of that celebrated beau.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1=" " ind2=" ">
+            <marc:subfield code="a">Love-letters between a certain late nobleman and the famous Beau Wilson.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Half</marc:subfield>
+            <marc:subfield code="x">Work</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1=" " ind2=" ">
+            <marc:subfield code="a">Love-letters between a certain late nobleman and the famous Mr. Wilson: discovering the true history of the rise and surprising grandeur of that celebrated Beau.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Work</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">London</marc:subfield>
+            <marc:subfield code="b">Printed for A. Moore, near St. Paul's.</marc:subfield>
+            <marc:subfield code="c">[1723]</marc:subfield>
+            <marc:subfield code="x">Date of publication not printed.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">[8], 49, [1] p. ;</marc:subfield>
+            <marc:subfield code="c">20 cm. (8vo)</marc:subfield>
+            <marc:subfield code="x">Octavo</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Date supplied by ESTC.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">With a half-title on first leaf: Love-letters between a certain late nobleman and the famous Beau Wilson.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Signatures: [A]⁴ B-F⁴ G⁶(-G6).</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">"Observations on the foregoing letters" on p. 29-49.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Printed on half-title page: "Price one shilling."</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Library marginalia on back free endpaper</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="510" ind1="4" ind2=" ">
+            <marc:subfield code="a">ESTC,</marc:subfield>
+            <marc:subfield code="c">T117106.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Preface</marc:subfield>
+            <marc:subfield code="b">The preface.</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="x">Transcription: "It is to be expected that upon the reading the title of these letters, the curious will not be a little alarm'd at a piece of history which has lain so long in the dark, and is now, more by chance than any other means, coming to a fair and open light."</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="591" ind1=" " ind2=" ">
+            <marc:subfield code="a">Pro venere saepe, pro Adonide semper.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="592" ind1=" " ind2=" ">
+            <marc:subfield code="a">Epistolary</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="594" ind1=" " ind2=" ">
+            <marc:subfield code="a">1956 (89194) Ritchie Fd</marc:subfield>
+            <marc:subfield code="b">Pencil</marc:subfield>
+            <marc:subfield code="x">On back free end paper</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="595" ind1=" " ind2=" ">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Numbers</marc:subfield>
+            <marc:subfield code="x">On half title page. Illegible.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="595" ind1=" " ind2=" ">
+            <marc:subfield code="a">Ink</marc:subfield>
+            <marc:subfield code="b">Numbers</marc:subfield>
+            <marc:subfield code="x">On first page of preface and p. 2. Numbers have been partially cut off but appear to be mathematical calculations.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Gay men</marc:subfield>
+            <marc:subfield code="v">Fiction.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">English letters</marc:subfield>
+            <marc:subfield code="v">Early works to 1800.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">CHR 1723</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">A. Moore</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Culture Class Collection (University of Pennsylvania)</marc:subfield>
+            <marc:subfield code="5">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">English Culture Class Collection (University of Pennsylvania)</marc:subfield>
+            <marc:subfield code="5">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+            <marc:subfield code="5">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="752" ind1=" " ind2=" ">
+            <marc:subfield code="a">England</marc:subfield>
+            <marc:subfield code="d">London.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">Facsimile</marc:subfield>
+            <marc:subfield code="u">http://hdl.library.upenn.edu/1017/d/print/5427451</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="994" ind1=" " ind2=" ">
+            <marc:subfield code="a">C0</marc:subfield>
+            <marc:subfield code="b">PAU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="989" ind1=" " ind2=" ">
+            <marc:subfield code="2">Love-letter</marc:subfield>
+            <marc:subfield code="3">Love</marc:subfield>
+            <marc:subfield code="2">Letter</marc:subfield>
+            <marc:subfield code="7">Letter</marc:subfield>
+            <marc:subfield code="3">Certain</marc:subfield>
+            <marc:subfield code="3">Late</marc:subfield>
+            <marc:subfield code="2">Nobleman</marc:subfield>
+            <marc:subfield code="3">Famous</marc:subfield>
+            <marc:subfield code="5">Beau Wilson</marc:subfield>
+            <marc:subfield code="5">Mr. Wilson</marc:subfield>
+            <marc:subfield code="2">Mr.</marc:subfield>
+            <marc:subfield code="6">Discover</marc:subfield>
+            <marc:subfield code="3">True</marc:subfield>
+            <marc:subfield code="2">History</marc:subfield>
+            <marc:subfield code="2">Rise</marc:subfield>
+            <marc:subfield code="3">Surprising</marc:subfield>
+            <marc:subfield code="6">Surprise</marc:subfield>
+            <marc:subfield code="2">Grandeur</marc:subfield>
+            <marc:subfield code="3">Celebrated</marc:subfield>
+            <marc:subfield code="6">Celebrate</marc:subfield>
+            <marc:subfield code="5">Beau</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">DLA</marc:subfield>
+            <marc:subfield code="b">20160912</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">BTA</marc:subfield>
+            <marc:subfield code="b">1/4/17</marc:subfield>
+            <marc:subfield code="c">University of Pennsylvania</marc:subfield>
+            <marc:subfield code="d">YDS</marc:subfield>
+        </marc:datafield>
+    </marc:record>

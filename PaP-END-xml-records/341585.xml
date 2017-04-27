@@ -1,0 +1,297 @@
+<marc:record>
+        <marc:leader>05070cam a2200733 a 4500</marc:leader>
+        <marc:controlfield tag="001">341585</marc:controlfield>
+        <marc:controlfield tag="005">20130319172814.0</marc:controlfield>
+        <marc:controlfield tag="008">851220s1771    enk           00010 eng d</marc:controlfield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(PUVoyagerBIBID)199589</marc:subfield></marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CStRLIN)PAUG85-B45214</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CaOTULAS)121284641</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="9">ABC4513</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(MediadbVoyBIBID)341585</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(END)sm_pr5452_s73_o42_1771</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="040">
+            <marc:subfield code="a">PU</marc:subfield>
+            <marc:subfield code="c">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="090">
+            <marc:subfield code="a">PR5452.S73</marc:subfield>
+            <marc:subfield code="b">O42 1771</marc:subfield>
+            <marc:subfield code="i">12/20/85 CT</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2=" " tag="100">
+            <marc:subfield code="a">Skinn,</marc:subfield>
+            <marc:subfield code="c">Mrs.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="4" tag="245">
+            <marc:subfield code="a">The old maid; or, History of Miss Ravensworth :</marc:subfield>
+            <marc:subfield code="b">in a series of letters /</marc:subfield>
+            <marc:subfield code="c">by Mrs. Skinn ... : in three volumes.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">The old maid; or, history of Miss Ravensworth. In a series of letters. By Mrs. Skinn, late Miss Masterman, of York. In three volumes. Volume the first.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">The old maid; or, history of Miss Ravensworth. In a series of letters. By Mrs. Skinn, late Miss Masterman, of York. Volume the second.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">The old maid; or, history of Miss Ravensworth. In a series of letters. By Mrs. Skinn, late Miss Masterman, of York. Volume the third.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="7" tag="246">
+            <marc:subfield code="a">The history of Miss Ravensworth.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="7" tag="246">
+            <marc:subfield code="a">The history of Miss Ravensworth.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="260">
+            <marc:subfield code="a">London :</marc:subfield>
+            <marc:subfield code="b">Printed for J. Bell, at his circulating-library, near Exeter-Exchange, in the Strand; and C. Etherington, at York</marc:subfield>
+            <marc:subfield code="c">MDCCLXXI.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">3 v. ;</marc:subfield>
+            <marc:subfield code="c">16 cm. (8vo)</marc:subfield>
+            <marc:subfield code="x">Octavo</marc:subfield>
+            <marc:subfield code="z">In three volumes.</marc:subfield>
+            <marc:subfield code="a">[3 v.]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Vol. 1: [4], 200 p.; v. 2: [4], 195, [1] p. (last page blank); v. 3: [4], 154, [14] p.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Advertisements on p. [1]-[14] (2nd count) of v. 3.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+            <marc:subfield code="c">T57368</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">English novel, 1770-1829,</marc:subfield>
+            <marc:subfield code="c">1771: 52</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">Block, A.  Engl. novel (1961 ed.),</marc:subfield>
+            <marc:subfield code="c">p. 219</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="520">
+            <marc:subfield code="a">To the reader</marc:subfield>
+            <marc:subfield code="b">Address to the reader.</marc:subfield>
+            <marc:subfield code="c">Back</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+            <marc:subfield code="x">Uses two quotations attributed to Gay, and one unattributed.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="591">
+            <marc:subfield code="a">If any here chance to behold himself,---Let him not dare to challenge me of wrong;---For if he shame to have his follies known,---First he shou\'d shame to act \'em.</marc:subfield>
+            <marc:subfield code="b">Every Man Out of His Humor</marc:subfield>
+            <marc:subfield code="c">Ben Jonson</marc:subfield>
+            <marc:subfield code="x">Epigraph in between authorship claim and work qualifier on title page.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="592">
+            <marc:subfield code="a">Epistolary</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="594">
+            <marc:subfield code="a">[illegible]...she wishes...[illegible]...one word in the name...[illegible]</marc:subfield>
+            <marc:subfield code="b">Pencil</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="x">Mostly illegible</marc:subfield>
+            <marc:subfield code="x">On front paste-down</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="594">
+            <marc:subfield code="a">Anna Maria How</marc:subfield>
+            <marc:subfield code="b">Ink</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="x">On the top of the title page</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="b">Proper name</marc:subfield>
+            <marc:subfield code="2">By Mrs. Skinn, late Miss Masterman, of York</marc:subfield>
+            <marc:subfield code="3">Title Page</marc:subfield>
+            <marc:subfield code="5">Female</marc:subfield>
+            <marc:subfield code="6">Female</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="599">
+            <marc:subfield code="a">Author (paratext)</marc:subfield>
+            <marc:subfield code="b">Proper name</marc:subfield>
+            <marc:subfield code="2">A. Skinn</marc:subfield>
+            <marc:subfield code="3">To the reader</marc:subfield>
+            <marc:subfield code="5">Female</marc:subfield>
+            <marc:subfield code="6">Female</marc:subfield>
+            <marc:subfield code="7">&quot;&quot;Perhaps some critic...will...say the authoress is some ugly old woman, who has been deserted by the men...and now has no other employment, than to rail against them: but this happens to be a mistake every way...&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">CHR 1771</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">PRO Drummond, George (Bookplate) (RBC copy)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">PRO McClelland, George W. (Donor) (RBC copy)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">PRO How, Anna Maria (Autograph) (Singer-Mendenhall copy)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">PRO Mendenhall, John C. (Donor) (Singer-Mendenhall copy)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="655">
+            <marc:subfield code="a">Epistolary fiction</marc:subfield>
+            <marc:subfield code="z">England</marc:subfield>
+            <marc:subfield code="y">18th century</marc:subfield>
+            <marc:subfield code="2">rbgenr</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="655">
+            <marc:subfield code="a">Booksellers\' advertisements</marc:subfield>
+            <marc:subfield code="z">England</marc:subfield>
+            <marc:subfield code="y">18th century.</marc:subfield>
+            <marc:subfield code="2">rbgenr</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="656">
+            <marc:subfield code="a">Fiction</marc:subfield>
+            <marc:subfield code="b">Back</marc:subfield>
+            <marc:subfield code="c">Same publisher</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+            <marc:subfield code="x">&quot;&quot;Part of the editor\'s preface. I think it necessary to the satisfaction of every critical reader, to assure them, the reputable assertion in the title-page, viz. that Mr. Richardson revised these letters, is truth on my own knowledge...&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="656">
+            <marc:subfield code="a">Non-fiction</marc:subfield>
+            <marc:subfield code="b">Back</marc:subfield>
+            <marc:subfield code="c">Same publisher</marc:subfield>
+            <marc:subfield code="v">v.3</marc:subfield>
+            <marc:subfield code="x">Also includes editorial note: &quot;&quot;Whoever casts an eye on the contents of this work...&quot;&quot;</marc:subfield>
+            <marc:subfield code="x">&quot;&quot;Foreign nations have expressed their approbation of it, by translating it into their languages...&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="1" tag="740">
+            <marc:subfield code="a">History of Miss Ravensworth.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Skinn, Ann Melinda</marc:subfield>
+            <marc:subfield code="d">1746 or 7-1789</marc:subfield>
+            <marc:subfield code="4">Author (text)</marc:subfield>
+            <marc:subfield code="4">Author (paratext)</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Bell, John</marc:subfield>
+            <marc:subfield code="d">1745-1831</marc:subfield>
+            <marc:subfield code="4">Publisher</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Etherington, C.</marc:subfield>
+            <marc:subfield code="4">Publisher</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Anna Maria How</marc:subfield>
+            <marc:subfield code="4">Author (inscription)</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="710">
+            <marc:subfield code="a">J. Bell and C. Etherington</marc:subfield>
+            <marc:subfield code="4">Publisher</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="752">
+            <marc:subfield code="a">England</marc:subfield>
+            <marc:subfield code="d">London.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="752">
+            <marc:subfield code="a">England</marc:subfield>
+            <marc:subfield code="d">York.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="852">
+            <marc:subfield code="b">scrare</marc:subfield>
+            <marc:subfield code="h">PR5452.S73</marc:subfield>
+            <marc:subfield code="i">O42 1771</marc:subfield>
+            <marc:subfield code="x">g. McClelland</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="852">
+            <marc:subfield code="b">scsing</marc:subfield>
+            <marc:subfield code="h">PR5452.S73</marc:subfield>
+            <marc:subfield code="i">O42 1771</marc:subfield>
+            <marc:subfield code="x">g. Mendenhall</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2="1" tag="866">
+            <marc:subfield code="8">0</marc:subfield>
+            <marc:subfield code="a">v.1-3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="950">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="e">\\\\Another\\Copy\\Singer-\\Menden-\\hall\\</marc:subfield>
+            <marc:subfield code="v">3v.</marc:subfield>
+            <marc:subfield code="i">12/20/85 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="955">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">1:(v.1-3)</marc:subfield>
+            <marc:subfield code="q">51-762</marc:subfield>
+            <marc:subfield code="s">Ex libris: Drummond, Geo.</marc:subfield>
+            <marc:subfield code="s">g. Dr. George W. McClelland</marc:subfield>
+            <marc:subfield code="i">12/20/85 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="955">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">2:(v.1-3)</marc:subfield>
+            <marc:subfield code="q">50-1348</marc:subfield>
+            <marc:subfield code="s">Ex libris: How, Anna Maria</marc:subfield>
+            <marc:subfield code="s">Singer-Mendenhall</marc:subfield>
+            <marc:subfield code="i">12/20/85 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="989">
+            <marc:subfield code="2">Maid</marc:subfield>
+            <marc:subfield code="2">History</marc:subfield>
+            <marc:subfield code="2">Miss</marc:subfield>
+            <marc:subfield code="2">Series</marc:subfield>
+            <marc:subfield code="2">Letter</marc:subfield>
+            <marc:subfield code="2">Mrs.</marc:subfield>
+            <marc:subfield code="2">Volume</marc:subfield>
+            <marc:subfield code="3">Old</marc:subfield>
+            <marc:subfield code="3">Late</marc:subfield>
+            <marc:subfield code="3">Three</marc:subfield>
+            <marc:subfield code="4">York</marc:subfield>
+            <marc:subfield code="5">Miss Ravensworth</marc:subfield>
+            <marc:subfield code="5">Mrs. Skinn</marc:subfield>
+            <marc:subfield code="5">Miss Masterman</marc:subfield>
+            <marc:subfield code="7">Letter</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="999">
+            <marc:subfield code="a">MJR</marc:subfield>
+            <marc:subfield code="b">6/1/11</marc:subfield>
+        </marc:datafield>
+    </marc:record>

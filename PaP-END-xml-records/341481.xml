@@ -1,0 +1,203 @@
+<marc:record>
+        <marc:leader>03626cam a2200553 a 4500</marc:leader>
+        <marc:controlfield tag="001">341481</marc:controlfield>
+        <marc:controlfield tag="005">20130301161902.0</marc:controlfield>
+        <marc:controlfield tag="008">860224s1774    enk           00000 eng d</marc:controlfield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(PUVoyagerBIBID)186842</marc:subfield></marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(CStRLIN)PAUG86-B7279</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="9">ABB0097</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(MediadbVoyBIBID)341481</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(END)sm_pr3291_a1_j68_1774_v1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(END)sm_pr3291_a1_j68_1774_v2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="040">
+            <marc:subfield code="a">PU</marc:subfield>
+            <marc:subfield code="c">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="090">
+            <marc:subfield code="a">PR3291.A1</marc:subfield>
+            <marc:subfield code="b">J68 1774</marc:subfield>
+            <marc:subfield code="i">02/25/86 CTZ</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="4" tag="245">
+            <marc:subfield code="a">The Journey to London, or, The history of the Selby-family.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">The journey to London: or, the history of the Selby-family. Vol. I.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">The journey to London. Vol. I.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="g">Half</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="246">
+            <marc:subfield code="a">The journey to London: or, the history of the Selby-family. Vol. II.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="7" tag="246">
+            <marc:subfield code="a">The journey to London.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="7" tag="246">
+            <marc:subfield code="a">The journey to London (verso)</marc:subfield>
+            <marc:subfield code="a">The journey to London (recto)</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="260">
+            <marc:subfield code="a">London</marc:subfield>
+            <marc:subfield code="b">Printed for F. and J. Noble, at their respective circulating libraries, near Middle Row, Holborn, and Saint Martin\'s Court, near Leicester Square.</marc:subfield>
+            <marc:subfield code="c">MDCCLXXIV.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">2 v. ;</marc:subfield>
+            <marc:subfield code="c">17 cm. (12mo)</marc:subfield>
+            <marc:subfield code="x">Duodecimo</marc:subfield>
+            <marc:subfield code="a">[2 v.]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Vol. 1: [4], 236 p.; v. 2: [2], 210, [4] p.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">Volumes bound together, with publishers\' advertisement as back matter insert.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+            <marc:subfield code="c">N52505</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2=" " tag="510">
+            <marc:subfield code="a">English novel, 1770-1829,</marc:subfield>
+            <marc:subfield code="c">1774: 12</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="520">
+            <marc:subfield code="a">Advertisement</marc:subfield>
+            <marc:subfield code="b">Advertisement, to the country booksellers.</marc:subfield>
+            <marc:subfield code="c">Back</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+            <marc:subfield code="x">Signed F. Noble, J. Noble.</marc:subfield>
+            <marc:subfield code="x">Publishers\' note to booksellers concerning publishing and sales: &quot;&quot;Whereas, from our having refused to let Mr. Baldwin...have any more of our books, till a reasonable satisfation is made to us, by retracting an impudent falsehood asserted in his magazine...we have sufficient reason to believe, that orders coming from the country to him...will not be complied with...we hereby acquaint all country dealers...that...they will be immediately be supplied at the London prices with any books of our own printing...&quot;&quot;</marc:subfield>
+            <marc:subfield code="x">Following signatures, a postscript &quot;&quot;Note&quot;&quot; with additional information.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="520">
+            <marc:subfield code="a">Note</marc:subfield>
+            <marc:subfield code="b">Note</marc:subfield>
+            <marc:subfield code="c">Back</marc:subfield>
+            <marc:subfield code="x">At end of advertisement (following signatures). Additional information concerning publishing and sales.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="592">
+            <marc:subfield code="a">Third-person</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">CHR 1774</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="4" tag="650">
+            <marc:subfield code="a">PRO Mendenhall, John C. (Donor)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2="7" tag="655">
+            <marc:subfield code="a">Booksellers\' advertisements</marc:subfield>
+            <marc:subfield code="z">England</marc:subfield>
+            <marc:subfield code="y">18th century</marc:subfield>
+            <marc:subfield code="2">rbgenr</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="656">
+            <marc:subfield code="a">Fiction</marc:subfield>
+            <marc:subfield code="b">Back</marc:subfield>
+            <marc:subfield code="c">Same publisher</marc:subfield>
+            <marc:subfield code="x">Contains a list of works and prices, followed by the following extended (half-page) ad: &quot;&quot;Speedily will be published, in two volumes, (Price 6s. bound) Fatal affection; or, the history of Henry and Caroline.&quot;&quot;</marc:subfield>
+            <marc:subfield code="x">Back matter insert. Running title &quot;&quot;Books printed for F. and J. Noble.&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Noble, Francis</marc:subfield>
+            <marc:subfield code="d">d. 1792</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Noble, John Applebe</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="700">
+            <marc:subfield code="a">Baldwin, R.</marc:subfield>
+            <marc:subfield code="4">Referent</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+            <marc:subfield code="x">Publisher of the London Magazine</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="710">
+            <marc:subfield code="a">F. and J. Noble (London, England)</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="2" ind2=" " tag="710">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="740">
+            <marc:subfield code="a">History of the Selby-family.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="752">
+            <marc:subfield code="a">England</marc:subfield>
+            <marc:subfield code="d">London.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2="1" tag="852">
+            <marc:subfield code="b">scsing</marc:subfield>
+            <marc:subfield code="t">1</marc:subfield>
+            <marc:subfield code="h">PR3291.A1</marc:subfield>
+            <marc:subfield code="i">J68 1774</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="3" ind2="0" tag="866">
+            <marc:subfield code="8">0</marc:subfield>
+            <marc:subfield code="a">2 v.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="950">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="e">\\\\Singer-\\Menden-\\hall\\</marc:subfield>
+            <marc:subfield code="v">2 v.</marc:subfield>
+            <marc:subfield code="i">02/25/86 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="955">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="q">50-937</marc:subfield>
+            <marc:subfield code="s">g. Dr. John C. Mendenhall</marc:subfield>
+            <marc:subfield code="s">in 1</marc:subfield>
+            <marc:subfield code="i">02/25/86 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="989">
+            <marc:subfield code="2">Journey</marc:subfield>
+            <marc:subfield code="2">History</marc:subfield>
+            <marc:subfield code="2">Family</marc:subfield>
+            <marc:subfield code="4">London</marc:subfield>
+            <marc:subfield code="5">Selby</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="999">
+            <marc:subfield code="a">MJR</marc:subfield>
+            <marc:subfield code="6">/8/11</marc:subfield>
+            <marc:subfield code="c">Swarthmore College</marc:subfield>
+        </marc:datafield>
+    </marc:record>

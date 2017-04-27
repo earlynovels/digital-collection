@@ -1,0 +1,258 @@
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+        <marc:leader>01663cam a22003851  4500</marc:leader>
+        <marc:controlfield tag="001">1812432</marc:controlfield>
+        <marc:controlfield tag="005">20161129132414.0</marc:controlfield>
+        <marc:controlfield tag="008">880322s1714 enk 00000 eng d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)ocm04828206</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)4828206</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(CStRLIN)PAUGEAY8093-B</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(CStRLIN)PAUGEAY8093-B</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="9">EAY8093</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">1812432</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">TxU</marc:subfield>
+            <marc:subfield code="c">TxU</marc:subfield>
+            <marc:subfield code="d">m.c.</marc:subfield>
+            <marc:subfield code="d">*m/c*</marc:subfield>
+            <marc:subfield code="d">CU-BANC</marc:subfield>
+            <marc:subfield code="d">CStRLIN</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="090" ind1=" " ind2=" ">
+            <marc:subfield code="f">h</marc:subfield>
+            <marc:subfield code="n">\jl\</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="0" ind2="0">
+            <marc:subfield code="a">Henry</marc:subfield>
+            <marc:subfield code="b">VIII,</marc:subfield>
+            <marc:subfield code="c">King of England,</marc:subfield>
+            <marc:subfield code="d">1491-1547.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Love-letters from King Henry VIII. to Anne Boleyn:</marc:subfield>
+            <marc:subfield code="b">some in French, and some in English. To which are added, translations of those written in French. With an appendix, containing two letters from Anne Boleyn, to Cardinal Wolsey; with her last to Henry the VIIIth ...</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1=" " ind2=" ">
+            <marc:subfield code="a">Love-letters from King Henry VIII. to Anne Boleyn, &amp;c.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Half</marc:subfield>
+            <marc:subfield code="x">Work</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1=" " ind2=" ">
+            <marc:subfield code="a">Love-letters from King Henry VIII. to Anne Boleyn: some in French, and some in English. To which are added, translations of those written in French. With an appendix, containing two letters from Anne Boleyn, to Cardinal Wolsey; with her last to Henry the VIIIth.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Work</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">London</marc:subfield>
+            <marc:subfield code="b">Printed for J. Churchill, at the Black-Swan in Pater-Noster-Row.</marc:subfield>
+            <marc:subfield code="c">1714</marc:subfield>
+            <marc:subfield code="c">MDCCXIV.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">2 p. l., xxiii, 39 p.</marc:subfield>
+            <marc:subfield code="c">19 cm.</marc:subfield>
+            <marc:subfield code="x">Octavo</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Head pieces.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">"Appendix ... ": p. 32-39.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">University of Pennsylvania bookplate on front paste-down endpaper.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Price on half-title page: "(Price One Shilling.)"</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Library marginalia located first page of preface, back free end paper.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="510" ind1="4" ind2=" ">
+            <marc:subfield code="a">ESTC</marc:subfield>
+            <marc:subfield code="c">T139785</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Preface</marc:subfield>
+            <marc:subfield code="b">The preface.</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="x">Transcription: "The original letters from King Henry VIIIth to Anne Boleyn are in the Vatican Library, where they are shewn to all strangers."</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Footnote</marc:subfield>
+            <marc:subfield code="c">Middle</marc:subfield>
+            <marc:subfield code="x">Located p. 3. Transcription: "This is a literal translation of this sentence, but the meaning does not appear."</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Appendix</marc:subfield>
+            <marc:subfield code="b">Appendix. Two letters from Anne Boleyn, to Cardinal Wolsey.</marc:subfield>
+            <marc:subfield code="c">Back</marc:subfield>
+            <marc:subfield code="x">Begins p. 32.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Other</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="c">Back</marc:subfield>
+            <marc:subfield code="x">Textual citations and dates inserted into outside margin in preface and appendix.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="591" ind1=" " ind2=" ">
+            <marc:subfield code="a">Conjugium pactamque fidem non crimina posco.</marc:subfield>
+            <marc:subfield code="2">Ovid</marc:subfield>
+            <marc:subfield code="b">Heroides XX</marc:subfield>
+            <marc:subfield code="c">Ovid</marc:subfield>
+            <marc:subfield code="d">I ask not sin of you, but marriage and a true contract.</marc:subfield>
+            <marc:subfield code="x">Original in Latin. Translation source: http://tinyurl.com/zl2p3ek</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="592" ind1=" " ind2=" ">
+            <marc:subfield code="a">Epistolary</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="596" ind1=" " ind2=" ">
+            <marc:subfield code="a">Translation</marc:subfield>
+            <marc:subfield code="b">Title page</marc:subfield>
+            <marc:subfield code="c">French</marc:subfield>
+            <marc:subfield code="e">some in French, and some in English. To which are added, translations of those written in French.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="599" ind1=" " ind2=" ">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="b">Proper name</marc:subfield>
+            <marc:subfield code="2">Love-letters from King Henry VIII.</marc:subfield>
+            <marc:subfield code="3">Title page</marc:subfield>
+            <marc:subfield code="5">Male</marc:subfield>
+            <marc:subfield code="7">Fictional authorship claim.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="599" ind1=" " ind2=" ">
+            <marc:subfield code="a">Author (paratext)</marc:subfield>
+            <marc:subfield code="b">Proper name</marc:subfield>
+            <marc:subfield code="2">Two letters from Anne Boleyn</marc:subfield>
+            <marc:subfield code="3">Title page</marc:subfield>
+            <marc:subfield code="5">Female</marc:subfield>
+            <marc:subfield code="7">Fictional authorship claim.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="599" ind1=" " ind2=" ">
+            <marc:subfield code="a">Author (epigraph)</marc:subfield>
+            <marc:subfield code="b">Ovid</marc:subfield>
+            <marc:subfield code="2">Ovid.</marc:subfield>
+            <marc:subfield code="3">Title page</marc:subfield>
+            <marc:subfield code="5">Male</marc:subfield>
+            <marc:subfield code="6">Male</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="0" ind2="0">
+            <marc:subfield code="a">Anne Boleyn,</marc:subfield>
+            <marc:subfield code="c">Queen, consort of Henry VIII, King of England,</marc:subfield>
+            <marc:subfield code="d">1507-1536.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="0">
+            <marc:subfield code="a">Wolsey, Thomas,</marc:subfield>
+            <marc:subfield code="d">1475?-1530.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="0" ind2="0">
+            <marc:subfield code="a">Henry</marc:subfield>
+            <marc:subfield code="b">VIII,</marc:subfield>
+            <marc:subfield code="c">King of England,</marc:subfield>
+            <marc:subfield code="d">1491-1547.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">CHR 1714</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Henry VIII, King of England</marc:subfield>
+            <marc:subfield code="d">1491-1547</marc:subfield>
+            <marc:subfield code="4">Subject (text)</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Anne Boleyn, Queen, consort of Henry VIII, King of England</marc:subfield>
+            <marc:subfield code="d">1507-1536</marc:subfield>
+            <marc:subfield code="4">Subject (text)</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Ovid</marc:subfield>
+            <marc:subfield code="d">43 B.C.-17 A.D.</marc:subfield>
+            <marc:subfield code="4">Author (epigraph)</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Churchill, John</marc:subfield>
+            <marc:subfield code="d">1690-1714</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+            <marc:subfield code="5">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">Facsimile</marc:subfield>
+            <marc:subfield code="u">http://hdl.library.upenn.edu/1017/d/print/1812432</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="950" ind1=" " ind2=" ">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="a">DA331.H35</marc:subfield>
+            <marc:subfield code="b">L6 1714</marc:subfield>
+            <marc:subfield code="i">01/01/01 N</marc:subfield>
+            <marc:subfield code="x">010</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="955" ind1=" " ind2=" ">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="s">726319</marc:subfield>
+            <marc:subfield code="s">recl. fr. 823/L942</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="989" ind1=" " ind2=" ">
+            <marc:subfield code="2">Love-letter</marc:subfield>
+            <marc:subfield code="3">Love</marc:subfield>
+            <marc:subfield code="2">Love</marc:subfield>
+            <marc:subfield code="2">Letter</marc:subfield>
+            <marc:subfield code="7">Letter</marc:subfield>
+            <marc:subfield code="5">King Henry VIII</marc:subfield>
+            <marc:subfield code="2">King</marc:subfield>
+            <marc:subfield code="5">Anne Boleyn</marc:subfield>
+            <marc:subfield code="2">French</marc:subfield>
+            <marc:subfield code="2">English</marc:subfield>
+            <marc:subfield code="6">Add</marc:subfield>
+            <marc:subfield code="2">Translation</marc:subfield>
+            <marc:subfield code="6">Write</marc:subfield>
+            <marc:subfield code="2">Appendix</marc:subfield>
+            <marc:subfield code="6">Contain</marc:subfield>
+            <marc:subfield code="3">Two</marc:subfield>
+            <marc:subfield code="5">Cardinal Wolsey</marc:subfield>
+            <marc:subfield code="2">Cardinal</marc:subfield>
+            <marc:subfield code="3">Last</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="998" ind1=" " ind2=" ">
+            <marc:subfield code="s">9665</marc:subfield>
+            <marc:subfield code="n">PU</marc:subfield>
+            <marc:subfield code="z">BNA</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="948" ind1=" " ind2=" ">
+            <marc:subfield code="a">jl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">DLA</marc:subfield>
+            <marc:subfield code="b">20160912</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">BTA</marc:subfield>
+            <marc:subfield code="b">1/4/17</marc:subfield>
+            <marc:subfield code="c">University of Pennsylvania</marc:subfield>
+            <marc:subfield code="d">YDS</marc:subfield>
+        </marc:datafield>
+    </marc:record>

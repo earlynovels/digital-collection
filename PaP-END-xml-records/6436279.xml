@@ -1,0 +1,245 @@
+ <marc:record>
+        <marc:leader>02122cam a2200361 a 4500</marc:leader>
+        <marc:controlfield tag="001">6436279</marc:controlfield>
+        <marc:controlfield tag="005">20150707141837.0</marc:controlfield>
+        <marc:controlfield tag="008">150706s1791    enk           000 0 eng  </marc:controlfield>
+        <marc:datafield tag="026" ind1=" " ind2=" ">
+            <marc:subfield code="e">t-th o-m- ryg- gasp (3) 1791 (A) v.1</marc:subfield>
+            <marc:subfield code="2">fei</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="026" ind1=" " ind2=" ">
+            <marc:subfield code="e">++++ ++++ ndg, liSo (3) 1791 (Q) v.2</marc:subfield>
+            <marc:subfield code="2">fei</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">PAU</marc:subfield>
+            <marc:subfield code="c">PAU</marc:subfield>
+            <marc:subfield code="e">dcrmb</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="050" ind1=" " ind2="4">
+            <marc:subfield code="a">PR3991.A7</marc:subfield>
+            <marc:subfield code="b">L67 1791</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="0" ind2=" ">
+            <marc:subfield code="a">Author of Lord Winworth.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Frederick and Alicia, or, The sorrows of love :</marc:subfield>
+            <marc:subfield code="b">a novel, in two volumes : containing the character of an honourable gentleman, too well known by the nobility, and others /</marc:subfield>
+            <marc:subfield code="c">by the author of Lord Winworth, and several approved of publications.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="3" ind2="0">
+            <marc:subfield code="a">Frederick and Alicia</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="3" ind2="0">
+            <marc:subfield code="a">Sorrows of love</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1=" " ind2=" ">
+            <marc:subfield code="a">Frederick and Alicia; or, the sorrows of love.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Half</marc:subfield>
+            <marc:subfield code="x">Work</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1=" " ind2=" ">
+            <marc:subfield code="a">Frederick and Alicia; or, the sorrows of love. A novel, in two volumes. Containing the character of an honourable gentleman, too well known by the nobility, and others. By the author of Lord Winworth, and several approved of publications. "The greatest grief's perplexity in love." Vol. I.</marc:subfield>
+            <marc:subfield code="d">Letter-press</marc:subfield>
+            <marc:subfield code="g">Full</marc:subfield>
+            <marc:subfield code="x">Volume</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="0" ind2="7">
+            <marc:subfield code="a">Frederick and Alicia; or the sorrows of love.</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="0" ind2="7">
+            <marc:subfield code="a">Frederick and Alicia; or (verso)</marc:subfield>
+            <marc:subfield code="a">the sorrows of love. (recto)</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="v">v.2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">London</marc:subfield>
+            <marc:subfield code="b">Printed for Couch and Laking, Curzon-Street, May-Fair; and W. and J. Stratford, Holborn-Hill.</marc:subfield>
+            <marc:subfield code="c">1791</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">2 v. ;</marc:subfield>
+            <marc:subfield code="c">19 cm. (12mo)</marc:subfield>
+            <marc:subfield code="x">Duodecimo</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Cataloged from imperfect copy: v. 2: left board, all before leaf B2 (p. 3) and all after leaf K12 (p. 216) wanting.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Signatures: v. 1: [A]² B-K¹² L⁴ ; v. 2: B2-12 C-K¹²[+]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Pagination: v. 1: [4], 222, ii p. ; v. 2: p. 3-216[+]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Library markings in pencil on p. 1 of v.1 and p. 3 of v.2.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Pages separated in a way that created raw edges.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="510" ind1="4" ind2=" ">
+            <marc:subfield code="a">Raven, J.  British fiction, 1750-1770,</marc:subfield>
+            <marc:subfield code="c">1791:12</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Dedication</marc:subfield>
+            <marc:subfield code="b">Dedication. To Mrs. Nepean. St. James's-Place.</marc:subfield>
+            <marc:subfield code="c">Back</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="x">First line: "Madam, though novels are become in general (perhaps through their multitude) insipid, and scarcely fit for perusal, yet, as there is some truth in the following pages, I hope they may not be deemed unworthy your patronage and attention."</marc:subfield>
+            <marc:subfield code="x">Seems to imply that the novel is based on real events in which Mrs. Nepean was involved: "The following reasons for inscribing this to you, madam, will, I hope, be sufficient apology for any seeming liberty I have taken. -- The well-known character in this trifle (which, no doubt, if you would  vouchsafe to read it, you will soon discover) has not only disturbed the peace of many individuals, but, by malicious calumny, dared even to depreciate the merits of distinguished characters, and, to my utter astonishment, escaped with impunity -- I have, therefore, endeavoured to draw such a delineation of the man, that the credulous may be put upon their guard, and [...] defend also the virtues of those which envy has so often strove to sully. [...] [I]t has been the only opportunity I have had to show my respect for a character so unblemished as your's -- and the merit of your family, as universally acknowledged" (i-ii).</marc:subfield>
+            <marc:subfield code="x">Evan Nepean, at this time the under-secretary of state for home affairs, is known to have lived at St. James Place during the year of publication. Mrs. Nepean may be his wife, Margaret Nepean, née Skinner.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="590" ind1=" " ind2=" ">
+            <marc:subfield code="a">Singer-Mendenhall copy: v. 1: early ms. pencil tests on front pastedown and front free endpaper.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="590" ind1=" " ind2=" ">
+            <marc:subfield code="a">Singer-Mendenhall copy: v. 1: early autograph of Ann Davies on half-title.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="590" ind1=" " ind2=" ">
+            <marc:subfield code="a">Singer-Mendenhall copy: each vol. bound in one quarter sheep over marbled paper boards; leaves untrimmed at fore- and tail edges.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="590" ind1=" " ind2=" ">
+            <marc:subfield code="a">Singer-Mendenhall copy: v. 1: boards worn and spine damaged.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="590" ind1=" " ind2=" ">
+            <marc:subfield code="a">Singer-Mendenhall copy: v. 2: lower portion of leaf D4 torn off with loss of catchword and some text in last line on recto; right board worn and  detached; spine damaged.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="591" ind1=" " ind2=" ">
+            <marc:subfield code="a">The greatest grief's perplexity in love.</marc:subfield>
+            <marc:subfield code="b">The Conscious Lovers</marc:subfield>
+            <marc:subfield code="c">Richard Steele</marc:subfield>
+            <marc:subfield code="x">Title page</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="592" ind1=" " ind2=" ">
+            <marc:subfield code="a">Epistolary</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="594" ind1=" " ind2=" ">
+            <marc:subfield code="a">Ann Davies</marc:subfield>
+            <marc:subfield code="b">Ink</marc:subfield>
+            <marc:subfield code="x">Half title page, between lines reading "Frederick and Alicia;" and "or".</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="595" ind1=" " ind2=" ">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Words</marc:subfield>
+            <marc:subfield code="b">Numbers</marc:subfield>
+            <marc:subfield code="v">v.1</marc:subfield>
+            <marc:subfield code="x">Scribbles, columns of numbers, and what appear to be words in cursive on front paste-down and front free endpaper.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="599" ind1=" " ind2=" ">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="b">Reference to other works</marc:subfield>
+            <marc:subfield code="2">By the author of Lord Winworth, and several approved of publications.</marc:subfield>
+            <marc:subfield code="3">Title Page</marc:subfield>
+            <marc:subfield code="5">Indeterminate</marc:subfield>
+            <marc:subfield code="6">Unknown</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="599" ind1=" " ind2=" ">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="b">Generic/Descriptive</marc:subfield>
+            <marc:subfield code="2">Your most obedient, and respectful servant, the author.</marc:subfield>
+            <marc:subfield code="3">Dedication</marc:subfield>
+            <marc:subfield code="5">Indeterminate</marc:subfield>
+            <marc:subfield code="6">Unknown</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">CHR 1791</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">PRO Davies, Ann (autograph) (Singer-Mendenhall copy)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Ann Davies</marc:subfield>
+            <marc:subfield code="4">Inscribed by</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Laking, Francis</marc:subfield>
+            <marc:subfield code="d">Active 1789-1833</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Couch</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Stratford, William</marc:subfield>
+            <marc:subfield code="d">17..-18..</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Stratford, James</marc:subfield>
+            <marc:subfield code="d">17..-18..</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Mrs. Nepean</marc:subfield>
+            <marc:subfield code="4">Dedicatee</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1=" " ind2=" ">
+            <marc:subfield code="a">William and James Stratford (Firm)</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1=" " ind2=" ">
+            <marc:subfield code="a">Couch and Laking</marc:subfield>
+            <marc:subfield code="4">Printed for</marc:subfield>
+            <marc:subfield code="5">Unauthorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="989" ind1=" " ind2=" ">
+            <marc:subfield code="5">Frederick</marc:subfield>
+            <marc:subfield code="5">Alicia</marc:subfield>
+            <marc:subfield code="2">Sorrow</marc:subfield>
+            <marc:subfield code="2">Love</marc:subfield>
+            <marc:subfield code="2">Novel</marc:subfield>
+            <marc:subfield code="3">Two</marc:subfield>
+            <marc:subfield code="2">Volume</marc:subfield>
+            <marc:subfield code="6">Contain</marc:subfield>
+            <marc:subfield code="2">Character</marc:subfield>
+            <marc:subfield code="3">Honourable</marc:subfield>
+            <marc:subfield code="2">Gentleman</marc:subfield>
+            <marc:subfield code="8">Too</marc:subfield>
+            <marc:subfield code="8">Well</marc:subfield>
+            <marc:subfield code="3">Known</marc:subfield>
+            <marc:subfield code="2">Nobility</marc:subfield>
+            <marc:subfield code="2">Other</marc:subfield>
+            <marc:subfield code="2">Author</marc:subfield>
+            <marc:subfield code="1">Lord Winworth</marc:subfield>
+            <marc:subfield code="3">Several</marc:subfield>
+            <marc:subfield code="3">Other</marc:subfield>
+            <marc:subfield code="2">Publication</marc:subfield>
+            <marc:subfield code="3">Greatest</marc:subfield>
+            <marc:subfield code="2">Grief</marc:subfield>
+            <marc:subfield code="2">Perplexity</marc:subfield>
+            <marc:subfield code="2">Love</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="752" ind1=" " ind2=" ">
+            <marc:subfield code="a">England</marc:subfield>
+            <marc:subfield code="d">London.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">YDS</marc:subfield>
+            <marc:subfield code="b">7/10/15</marc:subfield>
+            <marc:subfield code="c">Swarthmore College</marc:subfield>
+            <marc:subfield code="d">KGP</marc:subfield>
+        </marc:datafield>
+    </marc:record>

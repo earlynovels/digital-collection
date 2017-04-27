@@ -1,0 +1,165 @@
+<marc:record>
+        <marc:leader>01390cam a2200325 a 4500</marc:leader>
+        <marc:controlfield tag="001">553887</marc:controlfield>
+        <marc:controlfield tag="005">20141201130415.0</marc:controlfield>
+        <marc:controlfield tag="008">871117q17001799enk           00010 eng d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)ocm19938320</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)19938320</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(CStRLIN)PAUG87-B46632</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(CaOTULAS)185045711</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="9">ACT4722</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">553887</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">PU</marc:subfield>
+            <marc:subfield code="c">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="090" ind1=" " ind2=" ">
+            <marc:subfield code="a">PR3671.R4</marc:subfield>
+            <marc:subfield code="b">F75 1700z</marc:subfield>
+            <marc:subfield code="i">11/17/87 CTZ</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Rowe, Elizabeth Singer,</marc:subfield>
+            <marc:subfield code="d">1674-1737.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="4">
+            <marc:subfield code="a">The history of Laura, and the handsome hermit :</marc:subfield>
+            <marc:subfield code="b">in six letters /</marc:subfield>
+            <marc:subfield code="c">written by the celehrated [sic] Mrs. Rowe ...</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1=" " ind2=" ">
+            <marc:subfield code="a">The history of Laura, and the handsome hermit, in six letters. Written by the celehrated [sic] Mrs. Rowe, author of the Letters from the dead to the living. [...] Amoret to Corsica.</marc:subfield>
+            <marc:subfield code="g">Half</marc:subfield>
+            <marc:subfield code="x">Work</marc:subfield>
+            <marc:subfield code="x">Title page includes table of contents for The history of Laura and summary of Amoret and Corsica.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[London :</marc:subfield>
+            <marc:subfield code="b">s.n.,</marc:subfield>
+            <marc:subfield code="c">17--]</marc:subfield>
+            <marc:subfield code="x">Legacy metadata</marc:subfield>
+            <marc:subfield code="x">No publication statement appears in the text.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">32 p. ;</marc:subfield>
+            <marc:subfield code="c">19 cm. (4to)</marc:subfield>
+            <marc:subfield code="x">Quarto</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">These letters form part of the Letters moral and entertaining, which were usually published with editions of Friendship in death.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Apparently printed in this form as a piece of advertising. On verso of t.p.: full-page advertisement for &quot;letter press printing&quot; at no. 28, Great Tower Street, London.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Caption title: Six letters, from Laura to Aurelia.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">&quot;Amoret to Corisca&quot; (a poem): p. 31-32.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Library marginalia on  p. 32</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Table of Contents</marc:subfield>
+            <marc:subfield code="c">Front</marc:subfield>
+            <marc:subfield code="x">On title page. Transcription: "Letter I. From Laura to Aurelia; first inveighing against the pleasures of a rural life, then representing her brother as an infidel"</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="592" ind1=" " ind2=" ">
+            <marc:subfield code="a">Epistolary</marc:subfield>
+            <marc:subfield code="c">Poems</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="595" ind1=" " ind2=" ">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Words</marc:subfield>
+            <marc:subfield code="x">On title page. Transcription: "Q/B"</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="595" ind1=" " ind2=" ">
+            <marc:subfield code="a">Pencil</marc:subfield>
+            <marc:subfield code="b">Numbers</marc:subfield>
+            <marc:subfield code="x">On title page. Possibly mathematical calculations.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="599" ind1=" " ind2=" ">
+            <marc:subfield code="a">Author (text)</marc:subfield>
+            <marc:subfield code="b">Proper name</marc:subfield>
+            <marc:subfield code="b">Reference to other works</marc:subfield>
+            <marc:subfield code="2">Written by the celebrated Mrs. Rowe, author of the Letters from the dead to the living</marc:subfield>
+            <marc:subfield code="3">Title page</marc:subfield>
+            <marc:subfield code="5">Female</marc:subfield>
+            <marc:subfield code="6">Female</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="4">
+            <marc:subfield code="a">CHR 17--</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="656" ind1=" " ind2=" ">
+            <marc:subfield code="a">Miscellaneous</marc:subfield>
+            <marc:subfield code="b">Front</marc:subfield>
+            <marc:subfield code="c">Same publisher</marc:subfield>
+            <marc:subfield code="x">"At no. 28, Great Tower Street, London. Letter press printing is neatly performed with accuracy and expedition on moderate terms, viz. shops - bills, &amp;c. of this size, (and paper) printed for three shillings and sixpence a thousand"</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Rowe, Elizabeth Singer</marc:subfield>
+            <marc:subfield code="d">1674-1737</marc:subfield>
+            <marc:subfield code="4">Author (text)</marc:subfield>
+            <marc:subfield code="5">Authorized</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Six letters, from Laura to Aurelia.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Amoret to Corisca.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+            <marc:subfield code="5">PU</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Early Novels</marc:subfield>
+            <marc:subfield code="5">University of Pennsylvania</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="950" ind1=" " ind2=" ">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="i">11/17/87 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="955" ind1=" " ind2=" ">
+            <marc:subfield code="l">RBC</marc:subfield>
+            <marc:subfield code="c">1</marc:subfield>
+            <marc:subfield code="q">6941</marc:subfield>
+            <marc:subfield code="i">11/17/87 C</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="989" ind1=" " ind2=" ">
+            <marc:subfield code="2">History</marc:subfield>
+            <marc:subfield code="5">Laura</marc:subfield>
+            <marc:subfield code="3">Handsome</marc:subfield>
+            <marc:subfield code="2">Hermit</marc:subfield>
+            <marc:subfield code="3">Six</marc:subfield>
+            <marc:subfield code="2">Letter</marc:subfield>
+            <marc:subfield code="6">Write</marc:subfield>
+            <marc:subfield code="3">Celebrated</marc:subfield>
+            <marc:subfield code="6">Celebrate</marc:subfield>
+            <marc:subfield code="5">Mrs. Rowe</marc:subfield>
+            <marc:subfield code="2">Mrs.</marc:subfield>
+            <marc:subfield code="2">Author</marc:subfield>
+            <marc:subfield code="1">Letters from the dead to the living</marc:subfield>
+            <marc:subfield code="5">Amoret</marc:subfield>
+            <marc:subfield code="5">Corsica</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="999" ind1=" " ind2=" ">
+            <marc:subfield code="a">BTA</marc:subfield>
+            <marc:subfield code="b">1/4/17</marc:subfield>
+            <marc:subfield code="c">University of Pennsylvania</marc:subfield>
+            <marc:subfield code="d">YDS</marc:subfield>
+        </marc:datafield>
+    </marc:record>
