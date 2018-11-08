@@ -4,7 +4,9 @@
 
 This repository brings together Fulltext and PDFs from Print at Penn's [Digital Collection of British & American Fiction, 1660-1830](http://dla.library.upenn.edu/dla/print/index.html) and corresponding metadata produced by the Early Novels Dataset.
 
+
 The University of Pennsylvania Libraries' Collection of British & American Fiction, 1660-1830 (CBAF) numbers nearly three thousand works that together form a rich teaching and research collection of early fiction in English. While drawing from the general Rare Books Collection as well as several smaller named collections, its core is the Singer-Mendenhall Collection, built through the combined efforts of a University of Pennsylvania graduate student and professor in the first half of the twentieth century. Godfrey F. Singer and John C. Mendenhall each accumulated working collections of mainly epistolary fiction; Singer's parents donated his books to the University of Pennsylvania Library after his death in 1934, and Mendenhall added his library in 1950. Augmented over the years by other curators and donors, the Singer-Mendenhall Collection is a remarkably comprehensive body for studying the novel in English.
+
 
 ## Curation process
 
