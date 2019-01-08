@@ -1,0 +1,174 @@
+<marc:record>
+<marc:leader>03147cam a2200481 a 4500</marc:leader>
+<marc:controlfield tag="001">341551</marc:controlfield>
+<marc:controlfield tag="005">20130228155227.0</marc:controlfield>
+<marc:controlfield tag="008">860930s1777    enk           00000 eng d</marc:controlfield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(PUVoyagerBIBID)105657</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(CStRLIN)PAUG86-B42380</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(CaOTULAS)146812312</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="9">AAQ0577</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(MediadbVoyBIBID)341551</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(END)sm_pr3991_a1_h5734_1777</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="040">
+<marc:subfield code="a">PU</marc:subfield>
+<marc:subfield code="c">PU</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="090">
+<marc:subfield code="a">PR3991.A1</marc:subfield>
+<marc:subfield code="b">H5734 1777</marc:subfield>
+<marc:subfield code="i">09/30/86 CT</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="4" tag="245">
+<marc:subfield code="a">The History of Melinda Harley, Yorkshire.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">The history of Melinda Harley, Yorkshire.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="x">Work</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">A sermon by Mr Randolph.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="x">Section</marc:subfield>
+<marc:subfield code="g">Half</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2=" " tag="260">
+<marc:subfield code="a">London</marc:subfield>
+<marc:subfield code="b">Printed for G. Robinson, no. 25. Paternoster-row, and J. M'Cliesh, Edinburgh.</marc:subfield>
+<marc:subfield code="c">M,DCC,LXXVII.</marc:subfield>
+<marc:subfield code="a">[London]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="300">
+<marc:subfield code="a">iv, [1], 6-180 p. ;</marc:subfield>
+<marc:subfield code="c">17 cm. (12mo)</marc:subfield>
+<marc:subfield code="x">Duodecimo</marc:subfield>
+<marc:subfield code="a">[1 v.]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">Epistolary</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">""A sermon, by Mr. Randolph"": p. [155]-180."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">Black, F.G.  Epistolary novel</marc:subfield>
+<marc:subfield code="c">no. 160</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+<marc:subfield code="c">N8474</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">English novel, 1770-1829,</marc:subfield>
+<marc:subfield code="c">1777:2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="520">
+<marc:subfield code="a">Introduction</marc:subfield>
+<marc:subfield code="b">Introduction.</marc:subfield>
+<marc:subfield code="c">Front</marc:subfield>
+<marc:subfield code="x">Authorial</marc:subfield>
+<marc:subfield code="x">References novels: ""As it has been often observed, that the style of most novels is rather calculated to warm the passions, and to raise the hero or heroine far beyond the level of common life...so I have...pursued an opposite plan, and I may venture to assure my fair readers, that they will at least receive no hurt or prejudice from the perusal of the following pages..."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="520">
+<marc:subfield code="a">Sermon</marc:subfield>
+<marc:subfield code="b">A sermon by Mr Randolph</marc:subfield>
+<marc:subfield code="c">Back</marc:subfield>
+<marc:subfield code="x">Has its own title page.</marc:subfield>
+<marc:subfield code="x">Title above text is ""A sermon. Galatians ii.16. Knowing that a man is not justified by the works of the law, but by the faith of Christ, &amp;c.""</marc:subfield>
+<marc:subfield code="x">Mr Randolph is a character in the novel.</marc:subfield>
+<marc:subfield code="x">In the first-person, addresssed to ""my brethren""."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="592">
+<marc:subfield code="a">Epistolary</marc:subfield>
+<marc:subfield code="b">Third-person</marc:subfield>
+<marc:subfield code="b">First-person</marc:subfield>
+<marc:subfield code="c">Poems</marc:subfield>
+<marc:subfield code="x">The entire novel is epistolary except for the last few pages which are narrated in the third-person, but with several instances of authorial first-person narration: e.g., ""Thus, (gentle reader), have I told thee all their state, and brought their story to the sum of earthly bliss. Miss Harley was just then 19 years of age...""</marc:subfield>
+<marc:subfield code="x">Addresses to the reader in the text of this last section.</marc:subfield>
+<marc:subfield code="x">An unattributed poem is inserted into the text of this last section."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">CHR 1777</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="7" tag="656">
+<marc:subfield code="a">Epistolary fiction</marc:subfield>
+<marc:subfield code="z">England</marc:subfield>
+<marc:subfield code="y">18th century.</marc:subfield>
+<marc:subfield code="2">rbgenr</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="1" ind2="1" tag="700">
+<marc:subfield code="a">Randolph,</marc:subfield>
+<marc:subfield code="c">Mr.</marc:subfield>
+<marc:subfield code="t">Sermon.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Robinson, George</marc:subfield>
+<marc:subfield code="d">1736-1801</marc:subfield>
+<marc:subfield code="4">Printed for</marc:subfield>
+<marc:subfield code="5">Authorize</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">M'Cliesh, J.</marc:subfield>
+<marc:subfield code="4">Printed for</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="710">
+<marc:subfield code="a">G. Robinson and J. M'Cliesh</marc:subfield>
+<marc:subfield code="4">Printed for</marc:subfield>
+<marc:subfield code="5">Unauthorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Early Novels</marc:subfield>
+<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="0" tag="852">
+<marc:subfield code="b">scsing</marc:subfield>
+<marc:subfield code="t">1</marc:subfield>
+<marc:subfield code="h">PR3991.A1</marc:subfield>
+<marc:subfield code="i">H5734 1777</marc:subfield>
+<marc:subfield code="x">id=9999</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="950">
+<marc:subfield code="l">RBC</marc:subfield>
+<marc:subfield code="e">\\\\\\\\Singer-\\\\Menden-\\\\hall\\\\</marc:subfield>
+<marc:subfield code="i">09/30/86 C</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="955">
+<marc:subfield code="l">RBC</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="q">725450</marc:subfield>
+<marc:subfield code="s">Godfrey F. Singer Mem.</marc:subfield>
+<marc:subfield code="i">09/30/86 C</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="989">
+<marc:subfield code="2">History</marc:subfield>
+<marc:subfield code="4">Yorkshire</marc:subfield>
+<marc:subfield code="5">Melinda Harley</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="989">
+<marc:subfield code="2">Sermon</marc:subfield>
+<marc:subfield code="2">Mr</marc:subfield>
+<marc:subfield code="2">Mr.</marc:subfield>
+<marc:subfield code="5">Mr Randolph</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="999">
+<marc:subfield code="a">MJR</marc:subfield>
+<marc:subfield code="b">6/15/11</marc:subfield>
+</marc:datafield>
+</marc:record>

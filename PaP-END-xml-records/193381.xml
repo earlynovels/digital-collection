@@ -1,0 +1,205 @@
+<marc:record>
+<marc:leader>03754cam a2200529 a 4500</marc:leader>
+<marc:controlfield tag="001">193381</marc:controlfield>
+<marc:controlfield tag="005">20141120163812.0</marc:controlfield>
+<marc:controlfield tag="008">850925s1761    enk           00000 eng d</marc:controlfield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(OCoLC)ocm16112905</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(OCoLC)16112905</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(CStRLIN)PAUG85-B34342</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(CaOTULAS)121273516</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="9">ABB7721</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">193381</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="040">
+<marc:subfield code="a">PU</marc:subfield>
+<marc:subfield code="c">PU</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="090">
+<marc:subfield code="a">PR3291.A1</marc:subfield>
+<marc:subfield code="b">M47 1761</marc:subfield>
+<marc:subfield code="i">09/25/85 CT</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="0" tag="245">
+<marc:subfield code="a">Memoirs of Mr. Charles Guildford :</marc:subfield>
+<marc:subfield code="b">in a regular series of letters, wrote by himself to a friend : the whole founded on real facts : in two volumes.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="0" tag="246">
+<marc:subfield code="a">Memoirs of Mr. Charles Guildford, in a regular series of letters wrote by himself to a friend. The whole founded on real facts. In two volumes.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="0" tag="246">
+<marc:subfield code="a">Memoirs of Mr. Charles Guildford, in a regular series of letters wrote by himself to a friend. The whole founded on real facts. In two volumes.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="7" tag="246">
+<marc:subfield code="a">Memoirs of Mr. Charles Guildford.</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="7" tag="246">
+<marc:subfield code="a">Memoirs of (verso)</marc:subfield>
+<marc:subfield code="a">Mr. Charles Guildford. (recto)</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="260">
+<marc:subfield code="a">London</marc:subfield>
+<marc:subfield code="b">Printed for R. Withy, at the Dunciad, in Cornhill.</marc:subfield>
+<marc:subfield code="c">M.DCC.LXVI.</marc:subfield>
+<marc:subfield code="c">1761.</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+<marc:subfield code="a">[London]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="300">
+<marc:subfield code="a">2 v. ;</marc:subfield>
+<marc:subfield code="c">17 cm. (12mo)</marc:subfield>
+<marc:subfield code="x">Duodecimo</marc:subfield>
+<marc:subfield code="z">In two volumes.</marc:subfield>
+<marc:subfield code="a">[2 v.]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">Novel.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">A piece of the spine preserved in mylar.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">Library marginalia on the final leaf (verso) of each volume.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">A bookworm has eaten a line (and then a hole) through several pages towards the end of v.1. This is in the upper-right corner of the page.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">The book has been partially rebound so that it is reinforced with more durable leaves at both the beginning and end of each volume; between these leaves are the original leaves of the book.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+<marc:subfield code="c">T108369</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">Raven, J.  British fiction, 1750-1770,</marc:subfield>
+<marc:subfield code="c">637</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="520">
+<marc:subfield code="a">Preface</marc:subfield>
+<marc:subfield code="b">Preface.</marc:subfield>
+<marc:subfield code="c">Front</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="x">""Custom may be complied with in any thing that is, in itself, just or reasonable."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="520">
+<marc:subfield code="a">Footnotes</marc:subfield>
+<marc:subfield code="c">Middle</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+<marc:subfield code="x">Footnotes expand upon ideas introduced in the text, but do not seem to be directly relavent to the narrative. For instance: ""*Horace in his satires, takes particular notice of ingratitude &amp;c."" (p50, v.1)"</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="592">
+<marc:subfield code="a">Epistolary</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="595">
+<marc:subfield code="a">Pencil</marc:subfield>
+<marc:subfield code="b">Numbers and words</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="x">Appears to be a list of how much certain things cost; perhaps a shopping list. For instance, ""4''3 petticoat."" Located on the verso of the second-to-last leaf."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="599">
+<marc:subfield code="a">Author (text)</marc:subfield>
+<marc:subfield code="b">Proper name</marc:subfield>
+<marc:subfield code="2">Memoirs of Mr. Charles Guildford. In a regular series of letters, wrote by himself to a friend.</marc:subfield>
+<marc:subfield code="3">Title Page</marc:subfield>
+<marc:subfield code="5">Male</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="599">
+<marc:subfield code="a">Author (paratext)</marc:subfield>
+<marc:subfield code="b">Generic/Descriptive</marc:subfield>
+<marc:subfield code="2">His often descending so low, and then again rising (as emerging from a cloud) to his native language, which is free, simple, and easy, greatly pleased me, being such as might reasonably be supposed to pass between two friends, so closely connected, as Mr. Guildford and myself.</marc:subfield>
+<marc:subfield code="3">Preface</marc:subfield>
+<marc:subfield code="5">Male</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="7" tag="656">
+<marc:subfield code="a">Epistolary fiction</marc:subfield>
+<marc:subfield code="z">England</marc:subfield>
+<marc:subfield code="y">18th century</marc:subfield>
+<marc:subfield code="2">rbgenr</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">CHR 1761</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">PRO Mendenhall, John C. (donor)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Withy, R.</marc:subfield>
+<marc:subfield code="4">Printed for</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+<marc:subfield code="5">PU</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Early Novels</marc:subfield>
+<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="752">
+<marc:subfield code="a">England</marc:subfield>
+<marc:subfield code="d">London.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="950">
+<marc:subfield code="l">RBC</marc:subfield>
+<marc:subfield code="e">\\\\\\\\Singer-\\\\Menden-\\\\hall\\\\</marc:subfield>
+<marc:subfield code="v">2 v.</marc:subfield>
+<marc:subfield code="i">09/25/85 C</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="955">
+<marc:subfield code="l">RBC</marc:subfield>
+<marc:subfield code="c">1:(v.1-2)</marc:subfield>
+<marc:subfield code="q">50-1034</marc:subfield>
+<marc:subfield code="s">g. Dr. John C. Mendenhall</marc:subfield>
+<marc:subfield code="i">09/25/85 C</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="989">
+<marc:subfield code="2">Memoir</marc:subfield>
+<marc:subfield code="5">Mr. Charles Guildford</marc:subfield>
+<marc:subfield code="2">Mr.</marc:subfield>
+<marc:subfield code="3">Regular</marc:subfield>
+<marc:subfield code="2">Series</marc:subfield>
+<marc:subfield code="2">Letter</marc:subfield>
+<marc:subfield code="7">Letter</marc:subfield>
+<marc:subfield code="6">Write</marc:subfield>
+<marc:subfield code="2">Himself</marc:subfield>
+<marc:subfield code="2">Friend</marc:subfield>
+<marc:subfield code="2">Whole</marc:subfield>
+<marc:subfield code="6">Find</marc:subfield>
+<marc:subfield code="3">Real</marc:subfield>
+<marc:subfield code="2">Fact</marc:subfield>
+<marc:subfield code="3">Two</marc:subfield>
+<marc:subfield code="3">One</marc:subfield>
+<marc:subfield code="2">Volume</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="999">
+<marc:subfield code="a">IH</marc:subfield>
+<marc:subfield code="b">9/17/2015</marc:subfield>
+<marc:subfield code="c">Swarthmore College</marc:subfield>
+<marc:subfield code="d">KGP</marc:subfield>
+</marc:datafield>
+</marc:record>

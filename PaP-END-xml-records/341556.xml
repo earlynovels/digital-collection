@@ -1,0 +1,343 @@
+<marc:record>
+<marc:leader>05647cam a2200769 a 4500</marc:leader>
+<marc:controlfield tag="001">341556</marc:controlfield>
+<marc:controlfield tag="005">20130402174402.0</marc:controlfield>
+<marc:controlfield tag="008">860407m17771778enkaf         00000 eng d</marc:controlfield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(PUVoyagerBIBID)146526</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(CStRLIN)PAUG86-B12748</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(CaOTULAS)146808248</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="9">AAW3279</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(MediadbVoyBIBID)341556</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(END)pr3991_a1_m45_1777</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="040">
+<marc:subfield code="a">PU</marc:subfield>
+<marc:subfield code="c">PU</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="090">
+<marc:subfield code="a">PR3991.A1</marc:subfield>
+<marc:subfield code="b">M45 1777</marc:subfield>
+<marc:subfield code="i">04/07/86 CT</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="0" tag="245">
+<marc:subfield code="a">Memoirs of the late Edw. W---ly M--tague, Esq. :</marc:subfield>
+<marc:subfield code="b">with remarks on the manners and customs of the oriental world : collected and published from original posthumous papers.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">Memoirs of the late Edw. W-----ly M---tague, Esq; in two volumes.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Half</marc:subfield>
+<marc:subfield code="x">Work</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">Memoirs of the late Edw. W-----ly M---tague, Esq; with remarks on the manners and customs of the oriental world; collected and published from original posthumous papers. Vol. I.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">Memoirs of the late Edw. W-----ly M---tague, Esq; volume II.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Half</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">Memoirs of the late Edw. W-----ly M---tague, Esq; with remarks on the manners and customs of the oriental world; collected and published from original posthumous papers. Vol. II.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">Sherlock's letters. Volume the first.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Half</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">Letters on several subjects. By the Rev. Martin Sherlock, A.M. Chaplain to the right honourable the Earl of Bristol.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="x">Work</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="7" tag="246">
+<marc:subfield code="a">Preface.</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="7" tag="246">
+<marc:subfield code="a">Preface. (verso)</marc:subfield>
+<marc:subfield code="a">Preface. (recto)</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="260">
+<marc:subfield code="a">London</marc:subfield>
+<marc:subfield code="b">Printed for J. Wallis, in Ludgate-Street.</marc:subfield>
+<marc:subfield code="c">MDCCLXXVIII.</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+<marc:subfield code="a">[London]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="260">
+<marc:subfield code="a">London</marc:subfield>
+<marc:subfield code="b">Printed for J. Nichols, T. Cadell, P. Elmsly, H. Payne, and N. Conant.</marc:subfield>
+<marc:subfield code="c">MDCCLXXXI.</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="300">
+<marc:subfield code="a">2 v. ;</marc:subfield>
+<marc:subfield code="b">ill. ;</marc:subfield>
+<marc:subfield code="c">15 cm. (8vo)</marc:subfield>
+<marc:subfield code="x">Octavo</marc:subfield>
+<marc:subfield code="z">In two volumes.</marc:subfield>
+<marc:subfield code="b">Ill.</marc:subfield>
+<marc:subfield code="a">[2 v.]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">Fictitious memoirs. Cf. DNB, XIII, p. 687.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">Two works bound together</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">On verso of half title page of first volume of ""Letters on several subjects..."": ""These letters are entered at Stationers-Hall."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+<marc:subfield code="c">T129182</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="520">
+<marc:subfield code="a">Table of contents</marc:subfield>
+<marc:subfield code="b">The contents of the first volume.</marc:subfield>
+<marc:subfield code="c">Front</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="x">Brief description appends each chapter heading</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="520">
+<marc:subfield code="a">Table of contents</marc:subfield>
+<marc:subfield code="b">The contents of the second volume.</marc:subfield>
+<marc:subfield code="c">Front</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+<marc:subfield code="x">Brief description appends each chapter heading</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="520">
+<marc:subfield code="a">Dedication</marc:subfield>
+<marc:subfield code="b">To the right honourable the Countess of Bristol.</marc:subfield>
+<marc:subfield code="c">Front</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="520">
+<marc:subfield code="a">Preface</marc:subfield>
+<marc:subfield code="b">Preface.</marc:subfield>
+<marc:subfield code="c">Front</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+<marc:subfield code="x">Discusses relationship with critics (e.g. ""O that my enemy would publish a book, said Solomon! and I always suspected that this royal writer had uttered this exclamation while he was smarting under the criticisms of some unmerciful reviewer. These reviewers have ever been a dangerous set of men. What I dislike most in them is their savage mode of attack. They shoot at you from behind a tree: you never see them. However, I blieve their policy is good. Obscurity gives weight to their oracles. If they were known, their names alone would kill their criticisms[...]Their duty is to inform the public of the merits or demerits of his works. It is of importance to the public to know whether a writer speaks truth or falsehood, whether he writes sense or nonsense. It is of no importance to it to know whether he is a proud or vain man."")"</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="590">
+<marc:subfield code="a">Imprint date in both volumes altered by hand to 1778.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="590">
+<marc:subfield code="a">With: Letters on several subjects / Martin Sherlock. London: Printed for J. Nichols, T. Cadell, P. Elmsly, H. Payne and N. Conant, 1781.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="591">
+<marc:subfield code="a">O that my enemy would publish a book!</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="592">
+<marc:subfield code="a">Epistolary</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="592">
+<marc:subfield code="a">First-person</marc:subfield>
+<marc:subfield code="b">Letters</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="594">
+<marc:subfield code="a">Gell Hopton</marc:subfield>
+<marc:subfield code="b">Ink</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="x">On front pastedown</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="599">
+<marc:subfield code="a">Author (text)</marc:subfield>
+<marc:subfield code="1">Proper name</marc:subfield>
+<marc:subfield code="2">Memoirs of the late Edw. W-----ly M---tague, Esq.</marc:subfield>
+<marc:subfield code="3">Title Page</marc:subfield>
+<marc:subfield code="5">Male</marc:subfield>
+<marc:subfield code="6">Male</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="599">
+<marc:subfield code="a">Author (text)</marc:subfield>
+<marc:subfield code="1">Proper name</marc:subfield>
+<marc:subfield code="2">By the Rev. Martin Sherlock, A.M.</marc:subfield>
+<marc:subfield code="3">Title Page</marc:subfield>
+<marc:subfield code="5">Male</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="1" ind2="0" tag="600">
+<marc:subfield code="a">Montagu, Edward Wortley,</marc:subfield>
+<marc:subfield code="d">1713-1776</marc:subfield>
+<marc:subfield code="x">Fiction.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">CHR 1777</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">CHR 1778</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Montagu, Edward Wortley</marc:subfield>
+<marc:subfield code="d">1713-1776</marc:subfield>
+<marc:subfield code="4">Author (text)</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Wallis, J.</marc:subfield>
+<marc:subfield code="4">Publisher</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Sherlock, Martin</marc:subfield>
+<marc:subfield code="d">ca. 1750-1797</marc:subfield>
+<marc:subfield code="4">Author (text)</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Nichols, John</marc:subfield>
+<marc:subfield code="d">1745-1826</marc:subfield>
+<marc:subfield code="4">Publisher</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Cadell, T. (Thomas)</marc:subfield>
+<marc:subfield code="d">1742-1802</marc:subfield>
+<marc:subfield code="4">Publisher</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Elmsley, Peter</marc:subfield>
+<marc:subfield code="d">1734 or 5-1802</marc:subfield>
+<marc:subfield code="4">Publisher</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Payne, Henry</marc:subfield>
+<marc:subfield code="d">fl. 1760-1761</marc:subfield>
+<marc:subfield code="4">Publisher</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Conant, Nathaniel</marc:subfield>
+<marc:subfield code="4">Publisher</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="710">
+<marc:subfield code="a">Wallis, J.</marc:subfield>
+<marc:subfield code="4">Publisher</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="710">
+<marc:subfield code="a">Nichols, John</marc:subfield>
+<marc:subfield code="4">Publisher</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="710">
+<marc:subfield code="a">T. Cadell (Bookseller), P. Elmsly (Bookseller), H. Payne, and N. Conant</marc:subfield>
+<marc:subfield code="4">Publisher</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Early Novels</marc:subfield>
+<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="1" tag="852">
+<marc:subfield code="b">scrare</marc:subfield>
+<marc:subfield code="t">1</marc:subfield>
+<marc:subfield code="h">PR3991.A1</marc:subfield>
+<marc:subfield code="i">M45 1777</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="3" ind2="0" tag="866">
+<marc:subfield code="8">0</marc:subfield>
+<marc:subfield code="a">2 v.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="950">
+<marc:subfield code="l">RBC</marc:subfield>
+<marc:subfield code="v">2 v.</marc:subfield>
+<marc:subfield code="i">04/07/86 C</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="955">
+<marc:subfield code="l">RBC</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="q">54-272</marc:subfield>
+<marc:subfield code="s">in 1</marc:subfield>
+<marc:subfield code="i">04/07/86 C</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="989">
+<marc:subfield code="2">Memoir</marc:subfield>
+<marc:subfield code="2">Esq.</marc:subfield>
+<marc:subfield code="2">Remark</marc:subfield>
+<marc:subfield code="2">Manner</marc:subfield>
+<marc:subfield code="2">Custom</marc:subfield>
+<marc:subfield code="2">World</marc:subfield>
+<marc:subfield code="2">Paper</marc:subfield>
+<marc:subfield code="2">Volume</marc:subfield>
+<marc:subfield code="3">Late</marc:subfield>
+<marc:subfield code="3">Oriental</marc:subfield>
+<marc:subfield code="3">Original</marc:subfield>
+<marc:subfield code="3">Posthumous</marc:subfield>
+<marc:subfield code="5">Edw. W-----ly M---tague, Esq.</marc:subfield>
+<marc:subfield code="6">Collect</marc:subfield>
+<marc:subfield code="6">Publish</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="989">
+<marc:subfield code="2">Letter</marc:subfield>
+<marc:subfield code="2">Subject</marc:subfield>
+<marc:subfield code="2">Rev.</marc:subfield>
+<marc:subfield code="2">Chaplain</marc:subfield>
+<marc:subfield code="2">Earl</marc:subfield>
+<marc:subfield code="3">Several</marc:subfield>
+<marc:subfield code="3">Right</marc:subfield>
+<marc:subfield code="3">Honourable</marc:subfield>
+<marc:subfield code="5">Rev. Martin Sherlock, A.M.</marc:subfield>
+<marc:subfield code="5">Earl of Bristol</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="999">
+<marc:subfield code="a">AFD</marc:subfield>
+<marc:subfield code="B">06/16/2011</marc:subfield>
+</marc:datafield>
+</marc:record>

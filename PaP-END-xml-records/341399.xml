@@ -1,0 +1,198 @@
+<marc:record>
+<marc:leader>02705cam a2200541 a 4500</marc:leader>
+<marc:controlfield tag="001">341399</marc:controlfield>
+<marc:controlfield tag="005">20130221163208.0</marc:controlfield>
+<marc:controlfield tag="008">860226s1774    enk           00000 eng d</marc:controlfield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(PUVoyagerBIBID)187025</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(CStRLIN)PAUG86-B7759</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(MediadbVoyBIBID)341399</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="9">ABB0309</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(END)sm_pr3991_a1_d57_1774_v1</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(END)sm_pr3991_a1_d57_1774_v2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="040">
+<marc:subfield code="a">PU</marc:subfield>
+<marc:subfield code="c">PU</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="090">
+<marc:subfield code="a">PR3991.A1</marc:subfield>
+<marc:subfield code="b">D57 1774</marc:subfield>
+<marc:subfield code="i">02/26/86 CTZ</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="4" tag="245">
+<marc:subfield code="a">The Disinterested marriage, or, The history of Mr. Frankland.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">The disinterested marriage: or, the history of Mr. Frankland. Vol. I.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">The disinterested marriage. Vol. I.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Half</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">The disinterested marriage: or, the history of Mr. Frankland. Vol. II.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">The disinterested marriage. Vol. II.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Half</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="7" tag="246">
+<marc:subfield code="a">The disinterested marriage.</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="260">
+<marc:subfield code="a">London</marc:subfield>
+<marc:subfield code="b">London: Printed for F. and J. Noble, at their respective circulating libraries, near Middle Row, Holborn; and Saint Martin's Court, near Leicester Square.</marc:subfield>
+<marc:subfield code="c">MDCCLXXIV.</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+<marc:subfield code="a">[London]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="300">
+<marc:subfield code="a">2 v. ;</marc:subfield>
+<marc:subfield code="c">19 cm. (12mo)</marc:subfield>
+<marc:subfield code="x">Duodecimo</marc:subfield>
+<marc:subfield code="a">[2 v.]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">Vol. 1: [4], 248 p.; v. 2: [4], 227, [9] p.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">Advertisement written in response to an accusation made about J. and F. Noble by another publisher</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+<marc:subfield code="c">N28531</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">English novel, 1770-1829,</marc:subfield>
+<marc:subfield code="c">1774:4</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="520">
+<marc:subfield code="a">Errata</marc:subfield>
+<marc:subfield code="b">Erratum.</marc:subfield>
+<marc:subfield code="c">Back</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="592">
+<marc:subfield code="a">Epistolary</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="7" tag="656">
+<marc:subfield code="a">Epistolary fiction</marc:subfield>
+<marc:subfield code="z">England</marc:subfield>
+<marc:subfield code="y">18th century</marc:subfield>
+<marc:subfield code="2">rbgenr</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="7" tag="656">
+<marc:subfield code="a">Booksellers' advertisements</marc:subfield>
+<marc:subfield code="z">England</marc:subfield>
+<marc:subfield code="y">18th century</marc:subfield>
+<marc:subfield code="2">rbgenr</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="656">
+<marc:subfield code="a">Fiction</marc:subfield>
+<marc:subfield code="b">Back</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+<marc:subfield code="c">Same publisher</marc:subfield>
+<marc:subfield code="c">Same genre</marc:subfield>
+<marc:subfield code="x">Long list of various novel titles; may be useful for a survey of contemporary novels</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">CHR 1774</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Mr. Frankland</marc:subfield>
+<marc:subfield code="4">Author (text)</marc:subfield>
+<marc:subfield code="5">Unauthorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">F. Noble</marc:subfield>
+<marc:subfield code="4">Publisher</marc:subfield>
+<marc:subfield code="5">Unauthorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Noble, John Applebe</marc:subfield>
+<marc:subfield code="4">Publisher</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="710">
+<marc:subfield code="a">F. and J. Noble (London, England)</marc:subfield>
+<marc:subfield code="4">Publisher</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Early Novels</marc:subfield>
+<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2=" " tag="740">
+<marc:subfield code="a">History of Mr. Frankland.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="1" tag="852">
+<marc:subfield code="b">scsing</marc:subfield>
+<marc:subfield code="t">1</marc:subfield>
+<marc:subfield code="h">PR3991.A1</marc:subfield>
+<marc:subfield code="i">D57 1774</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="3" ind2="0" tag="866">
+<marc:subfield code="8">0</marc:subfield>
+<marc:subfield code="a">2 v.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="3" ind2="0" tag="866">
+<marc:subfield code="8">0</marc:subfield>
+<marc:subfield code="a">(v.1-2); id=9999</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="950">
+<marc:subfield code="l">RBC</marc:subfield>
+<marc:subfield code="e">\\\\\\\\Singer-\\\\Menden-\\\\hall\\\\</marc:subfield>
+<marc:subfield code="v">2 v.</marc:subfield>
+<marc:subfield code="i">02/26/86 C</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="955">
+<marc:subfield code="l">RBC</marc:subfield>
+<marc:subfield code="c">1:(v.1-2)</marc:subfield>
+<marc:subfield code="q">58-754</marc:subfield>
+<marc:subfield code="s">Singer-Mendenhall</marc:subfield>
+<marc:subfield code="i">02/26/86 C</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="989">
+<marc:subfield code="2">Marriage</marc:subfield>
+<marc:subfield code="2">History</marc:subfield>
+<marc:subfield code="2">Mr.</marc:subfield>
+<marc:subfield code="3">Disinterested</marc:subfield>
+<marc:subfield code="5">Mr. Frankland</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="999">
+<marc:subfield code="a">AFD</marc:subfield>
+<marc:subfield code="b">06/08/2011</marc:subfield>
+<marc:subfield code="c">Swarthmore College</marc:subfield>
+</marc:datafield>
+</marc:record>

@@ -1,0 +1,201 @@
+<marc:record>
+<marc:leader>04309cam a2200529 i 4500</marc:leader>
+<marc:controlfield tag="001">341423</marc:controlfield>
+<marc:controlfield tag="005">20130222144754.0</marc:controlfield>
+<marc:controlfield tag="008">940201s1773    enk           000 1 eng d</marc:controlfield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(PUVoyagerBIBID)1798479</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(MediadbVoyBIBID)341423</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(CStRLIN)PAUGEAX3961-B</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="9">EAX3961</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(END)sm_pr3991_a1_f365_1773</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="040">
+<marc:subfield code="a">PU</marc:subfield>
+<marc:subfield code="c">PU</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="090">
+<marc:subfield code="f">h</marc:subfield>
+<marc:subfield code="n">\\\\jl\\\\</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="4" tag="245">
+<marc:subfield code="a">The fatal effects of deception :</marc:subfield>
+<marc:subfield code="b">a novel.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">The fatal effects of deception. A novel. In three volumes. Vol. I.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">The fatal effects of deception. A novel. In three volumes. Vol. II.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">The fatal effects of deception. A novel. In three volumes. Vol. III.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="7" tag="246">
+<marc:subfield code="a">The fatal deception.</marc:subfield>
+<marc:subfield code="x">""The fatal deception"" (verso and recto)</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+<marc:subfield code="v">v.3"</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="260">
+<marc:subfield code="a">London</marc:subfield>
+<marc:subfield code="b">London: printed for T. Jones, at his circulating library, in the Strand, opposite Hungerford Street,</marc:subfield>
+<marc:subfield code="c">MDCCLXXIII.</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+<marc:subfield code="a">[London]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="300">
+<marc:subfield code="a">3 v. ;</marc:subfield>
+<marc:subfield code="c">19 cm.</marc:subfield>
+<marc:subfield code="x">Duodecimo</marc:subfield>
+<marc:subfield code="z">In three volumes.</marc:subfield>
+<marc:subfield code="a">[3 v.]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">Numbering of p.65 &amp; 68, v.3, transposed.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">Pasted onto inside front cover, all three volumes, an advertisement for ""P. Nugent's Circulating Library, in Bridge-street, Chester."" (""Books bound in the best and most durable Method; Gentlemen's Libraries repaired and fitted up in the neatest Manner, and all Orders executed with the utmost Regularity and Dispatch, on the most reasonable Terms. Also Libraries and Parcels of Books bought, sold, or exchanged."")</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+<marc:subfield code="v">v.3"</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">Block, A. Engl. novel (2nd ed.)</marc:subfield>
+<marc:subfield code="c">p. 72.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+<marc:subfield code="c">N6609</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">English novel, 1770-1829,</marc:subfield>
+<marc:subfield code="c">1773:4</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">Block, A.  Engl. novel (1961 ed.),</marc:subfield>
+<marc:subfield code="c">p.72</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="520">
+<marc:subfield code="a">Advertisement</marc:subfield>
+<marc:subfield code="b">Advertisement.</marc:subfield>
+<marc:subfield code="c">Front</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="x">Full transcription: ""In the present novel writing age, 'tis difficult to hit upon a subject that has not been already exhausted, or in the conduct of it, to avoid the charge of plagiarism, from a casual resemblance to some other performance. How far the following trifle comes under this predicament, is referred to the reader's candour. Pieces of this sort, being so frequently obtruded upon the public, as 'Not being originally intended for their inspection'--'Undertaken at the request of a most intimate friend.'--'For private amusement.' &amp;c. &amp;c.--The author is determined not to account, whether vanity, want of employment, or want of a dinner, was the motive which induced him to assume the character. Conscious many inaccuracies, and grammatical errors, may have escaped his observation, he intreats indulgence, and pleads no merit, but an intention of inculcating the practice of virtue, and abhorrence of vice; a design, which he flatters himself may secure a first attempt, from the too severe lash of criticism."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="592">
+<marc:subfield code="a">Epistolary</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="599">
+<marc:subfield code="a">Author (text)</marc:subfield>
+<marc:subfield code="1">Generic/Descriptive</marc:subfield>
+<marc:subfield code="2">Conscious many inaccuracies, and grammatical errors, may have escaped his observation, he intreats indulgence</marc:subfield>
+<marc:subfield code="3">Advertisement</marc:subfield>
+<marc:subfield code="5">Male</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">CHR 1773</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">PRO P. Nugent' s circulating library in Bridge-street, Chester (bookplate)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="656">
+<marc:subfield code="a">Fiction</marc:subfield>
+<marc:subfield code="b">Front</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="c">Same genre</marc:subfield>
+<marc:subfield code="x">Ad for a single work: ""Speedily will be published, The delicate princess. A fairy tale."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="656">
+<marc:subfield code="a">Fiction</marc:subfield>
+<marc:subfield code="a">Mixed Genre</marc:subfield>
+<marc:subfield code="b">Back</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+<marc:subfield code="c">Same genre</marc:subfield>
+<marc:subfield code="c">Same publisher</marc:subfield>
+<marc:subfield code="x">Primarily an ad for novels, though mention given to the fact that the publisher, identified in the ad heading as Thomas Jones, also sells ""Stationary Wares, Children's Books, and all Sorts of Plays."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Jones, T. (Thomas)</marc:subfield>
+<marc:subfield code="4">Printed for</marc:subfield>
+<marc:subfield code="5">Unauthorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Early Novels</marc:subfield>
+<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="1" tag="740">
+<marc:subfield code="a">Fatal deception.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="1" tag="852">
+<marc:subfield code="b">scsing</marc:subfield>
+<marc:subfield code="t">1</marc:subfield>
+<marc:subfield code="h">PR3991.A1</marc:subfield>
+<marc:subfield code="i">F365 1773</marc:subfield>
+<marc:subfield code="x">9 Apr. 1934-Singer mem.</marc:subfield>
+<marc:subfield code="x">recl. fr. EC75/A100/773f</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2="1" tag="866">
+<marc:subfield code="8">0</marc:subfield>
+<marc:subfield code="a">v.1-3</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="948">
+<marc:subfield code="a">jl</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="950">
+<marc:subfield code="l">RBC</marc:subfield>
+<marc:subfield code="a">PR3991.A1</marc:subfield>
+<marc:subfield code="b">F365 1773</marc:subfield>
+<marc:subfield code="i">01/01/01 N</marc:subfield>
+<marc:subfield code="x">010</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="955">
+<marc:subfield code="l">RBC</marc:subfield>
+<marc:subfield code="c">1:v.1-3</marc:subfield>
+<marc:subfield code="s">9 Apr. 1934-Singer mem.</marc:subfield>
+<marc:subfield code="s">recl. fr. EC75/A100/773f</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="989">
+<marc:subfield code="2">Effect</marc:subfield>
+<marc:subfield code="2">Deception</marc:subfield>
+<marc:subfield code="2">Novel</marc:subfield>
+<marc:subfield code="2">Volume</marc:subfield>
+<marc:subfield code="3">Fatal</marc:subfield>
+<marc:subfield code="3">Three</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="998">
+<marc:subfield code="n">PU</marc:subfield>
+<marc:subfield code="z">BNA</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="999">
+<marc:subfield code="a">AFD</marc:subfield>
+<marc:subfield code="b">06/07/2011</marc:subfield>
+<marc:subfield code="c">Swarthmore College</marc:subfield>
+</marc:datafield>
+</marc:record>

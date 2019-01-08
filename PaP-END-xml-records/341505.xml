@@ -1,0 +1,218 @@
+<marc:record>
+<marc:leader>03278cam a2200589 a 4500</marc:leader>
+<marc:controlfield tag="001">341505</marc:controlfield>
+<marc:controlfield tag="005">20130312174914.0</marc:controlfield>
+<marc:controlfield tag="008">860616s1783    enk           00000 eng d</marc:controlfield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(PUVoyagerBIBID)157772</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(CStRLIN)PAUG86-B24425</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(CaOTULAS)156302172</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="9">AAX4884</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(END)sm_pr3991_a1_l398_1783</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(MediadbVoyBIBID)341505</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="040">
+<marc:subfield code="a">PU</marc:subfield>
+<marc:subfield code="c">PU</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="090">
+<marc:subfield code="a">PR3991.A1</marc:subfield>
+<marc:subfield code="b">L398 1783</marc:subfield>
+<marc:subfield code="i">06/16/86 CT</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="2" tag="245">
+<marc:subfield code="a">A Lesson for lovers, or, The history of Colonel Melville, and Lady Charlotte Richley.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">A lesson for lovers. Or the history of Colonel Melville, and Lady Charlotte Richley. Volume I.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">A lesson for lovers. Vol. II.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Half</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">A lesson for lovers, or the history of Colonel Melville, and Lady Charlotte Richley. Volume II.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="7" tag="246">
+<marc:subfield code="a">Preface.</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="7" tag="246">
+<marc:subfield code="a">Preface. (verso)</marc:subfield>
+<marc:subfield code="a">Preface. (recto)</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="7" tag="246">
+<marc:subfield code="a">A lesson for lovers.</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="7" tag="246">
+<marc:subfield code="a">A lesson for lovers. (verso)</marc:subfield>
+<marc:subfield code="a">A lesson for lovers. (recto)</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="260">
+<marc:subfield code="a">London</marc:subfield>
+<marc:subfield code="b">Printed for Francis Noble, at his circulating library, opposite Grays-Inn-Gate, Holborn.</marc:subfield>
+<marc:subfield code="c">M,DCC,LXXXIII.</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+<marc:subfield code="a">[London]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="300">
+<marc:subfield code="a">2 v. ;</marc:subfield>
+<marc:subfield code="c">19 cm. (12mo)</marc:subfield>
+<marc:subfield code="x">Octavo</marc:subfield>
+<marc:subfield code="a">[2 v.]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+<marc:subfield code="c">N19506</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">English novel, 1770-1829,</marc:subfield>
+<marc:subfield code="c">1783:5</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">Block, A.  Engl. novel,</marc:subfield>
+<marc:subfield code="c">p. 138.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="520">
+<marc:subfield code="a">Preface</marc:subfield>
+<marc:subfield code="b">Preface.</marc:subfield>
+<marc:subfield code="c">Front</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="x">""It is humbly presumed this species of writing, whilst it renders vicious characters the objects of detestation, and whilst it warms the susceptible heart to feel for distressed worth, will not be judged useless, nor wholly destitute of instruction.""</marc:subfield>
+<marc:subfield code="x">Ends with excerpt from Alexander Pope's ""Essay on Criticism"</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="520">
+<marc:subfield code="a">Errata</marc:subfield>
+<marc:subfield code="b">Errata. Vol. I.</marc:subfield>
+<marc:subfield code="c">Front</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="520">
+<marc:subfield code="a">Errata</marc:subfield>
+<marc:subfield code="b">Errata, Vol. II.</marc:subfield>
+<marc:subfield code="c">Back</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="592">
+<marc:subfield code="a">Epistolary</marc:subfield>
+<marc:subfield code="c">Poems</marc:subfield>
+<marc:subfield code="d">Includes footnotes which are written in the voice of an omniscient narrator</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="594">
+<marc:subfield code="a">How bless'd the maid whose bosom---No headstrong passion knows---Her days in joy she passes---Her nights in sweet repose---Mother [?]</marc:subfield>
+<marc:subfield code="b">Pencil</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+<marc:subfield code="x">Lines are from the play ""Love in a Village"" by Isaac Bickerstaff (1733-1808)"</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">CHR 1783</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">PRO Singer, Jacob (donor)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">PRO Singer, Leah (donor)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">PRO Singer, Godfrey F. (honoree)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="7" tag="656">
+<marc:subfield code="a">Epistolary fiction</marc:subfield>
+<marc:subfield code="z">England</marc:subfield>
+<marc:subfield code="y">18th century.</marc:subfield>
+<marc:subfield code="2">rbgenr</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Noble, Francis</marc:subfield>
+<marc:subfield code="d">d. 1792</marc:subfield>
+<marc:subfield code="4">Publisher</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="710">
+<marc:subfield code="a">Noble, Francis</marc:subfield>
+<marc:subfield code="4">Publisher</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Early Novels</marc:subfield>
+<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="2" tag="740">
+<marc:subfield code="a">History of Colonel Melville, and Lady Charlotte Richley.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="752">
+<marc:subfield code="a">England</marc:subfield>
+<marc:subfield code="d">London.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="1" tag="852">
+<marc:subfield code="b">scsing</marc:subfield>
+<marc:subfield code="t">1</marc:subfield>
+<marc:subfield code="h">PR3991.A1</marc:subfield>
+<marc:subfield code="i">L398 1783</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="3" ind2="0" tag="866">
+<marc:subfield code="8">0</marc:subfield>
+<marc:subfield code="a">2 v.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="3" ind2="0" tag="866">
+<marc:subfield code="8">0</marc:subfield>
+<marc:subfield code="a">(v.1-2); id=9999</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="950">
+<marc:subfield code="l">RBC</marc:subfield>
+<marc:subfield code="e">\\\\\\\\Singer-\\\\Menden-\\\\hall\\\\</marc:subfield>
+<marc:subfield code="v">2 v.</marc:subfield>
+<marc:subfield code="i">06/16/86 C</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="955">
+<marc:subfield code="l">RBC</marc:subfield>
+<marc:subfield code="c">1:(v.1-2)</marc:subfield>
+<marc:subfield code="q">726655-6</marc:subfield>
+<marc:subfield code="s">g. Mr. and Mrs. Jacob Singer</marc:subfield>
+<marc:subfield code="i">06/16/86 C</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="989">
+<marc:subfield code="2">Lesson</marc:subfield>
+<marc:subfield code="2">Lover</marc:subfield>
+<marc:subfield code="2">History</marc:subfield>
+<marc:subfield code="2">Colonel</marc:subfield>
+<marc:subfield code="2">Lady</marc:subfield>
+<marc:subfield code="2">Volume</marc:subfield>
+<marc:subfield code="5">Colonel Melville</marc:subfield>
+<marc:subfield code="5">Lady Charlotte Richley</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="999">
+<marc:subfield code="a">AFD</marc:subfield>
+<marc:subfield code="b">06/27/2011</marc:subfield>
+</marc:datafield>
+</marc:record>

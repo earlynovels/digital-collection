@@ -1,0 +1,246 @@
+<marc:record>
+<marc:leader>04597cam a2200649 a 4500</marc:leader>
+<marc:controlfield tag="001">197280</marc:controlfield>
+<marc:controlfield tag="005">20141120165734.0</marc:controlfield>
+<marc:controlfield tag="008">851118s1768    enk           00000 eng d</marc:controlfield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(OCoLC)ocm16108725</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(OCoLC)16108725</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(CStRLIN)PAUG85-B40785</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(CaOTULAS)185119691</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="9">ABC1988</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">197280</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="040">
+<marc:subfield code="a">PU</marc:subfield>
+<marc:subfield code="c">PU</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="090">
+<marc:subfield code="a">PR3291.A1</marc:subfield>
+<marc:subfield code="b">H63 1768</marc:subfield>
+<marc:subfield code="i">12/28/87 CT</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="4" tag="245">
+<marc:subfield code="a">The History of Miss Emilia Beville :</marc:subfield>
+<marc:subfield code="b">in two volumes.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="1" ind2="4" tag="246">
+<marc:subfield code="a">The history of Miss Beville. Vol. I.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Half</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="1" ind2="4" tag="246">
+<marc:subfield code="a">The history of Miss Emilia Beville. In two volumes. Vol. I.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="1" ind2="4" tag="246">
+<marc:subfield code="a">The history of Miss Emilia Beville. In two volumes. Vol. II.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="7" tag="246">
+<marc:subfield code="a">The history of Miss Beville.</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="7" tag="246">
+<marc:subfield code="a">The history of (verso)</marc:subfield>
+<marc:subfield code="a">Miss Beville. (recto)</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="260">
+<marc:subfield code="a">London</marc:subfield>
+<marc:subfield code="b">Printed by W. Hoggard, for Francis Noble, at his circulating library, near Middle-Row Holborn; and John Noble, at his circulating library, in St. Martin's Court, near Leicester-Square.</marc:subfield>
+<marc:subfield code="c">MDCCLXVIII</marc:subfield>
+<marc:subfield code="c">1768</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+<marc:subfield code="a">[London]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="300">
+<marc:subfield code="a">2 v. ;</marc:subfield>
+<marc:subfield code="c">16 cm. (12mo)</marc:subfield>
+<marc:subfield code="x">Duodecimo</marc:subfield>
+<marc:subfield code="z">In two volumes.</marc:subfield>
+<marc:subfield code="a">[2 v.]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">An epistolary novel.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">Bookplate - ""Faversham 17 -- Doorne's Circulating Library""</marc:subfield>
+<marc:subfield code="a">Located on front pastedown endpaper, v.1."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">Bookplate - ""Library of the University of Pennsylvania -- The Godfrey F. Singer Memorial Presented by Mr. and Mrs. Jacob Singer""</marc:subfield>
+<marc:subfield code="a">Located in v.1 and v.2."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">Library-related markings: b1r, back free endpapers (verso) (v.1); b1r (v.2).</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+<marc:subfield code="c">N7803</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">Raven, J.  British fiction, 1750-1770,</marc:subfield>
+<marc:subfield code="c">1075</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">Block, A.  Engl. novel (1961 ed.),</marc:subfield>
+<marc:subfield code="c">p. 107</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="520">
+<marc:subfield code="a">Other</marc:subfield>
+<marc:subfield code="c">Front</marc:subfield>
+<marc:subfield code="c">Back</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="x">A notice to subscribers of certain circulating libraries (such as Francis Noble's and John Noble's) that the price of subscriptions will be going up in order to sustain the reputation and quality of the circulating libraries.</marc:subfield>
+<marc:subfield code="x">""We, proprietors of circulating libraries, finding it impossible to continue the business of lending books to read on the late low terms of subscription, with the same degree of reputation to ourselves and satisfaction to the public, as we did at a time when neither so great a number of new books were published, nor the demand for them so great as now, have been compelled to advance the sum of one shilling on our quarterly, and eighteen-pence on our yearly subscribers, in order to avoid the disagreeable alternative of throwing up that branch of business which hath so many years been a source of amusement...""</marc:subfield>
+<marc:subfield code="x">This notice is printed twice in the first volume: on the verso of the half title page and on the verso of the last page of the volume (p.239)."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="592">
+<marc:subfield code="a">Epistolary</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="594">
+<marc:subfield code="a">D</marc:subfield>
+<marc:subfield code="b">Ink</marc:subfield>
+<marc:subfield code="x">An inked stamp of the uppercase letter ""d."" Located on the recto of the front free endpaper of both volumes."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="599">
+<marc:subfield code="a">Author (paratext)</marc:subfield>
+<marc:subfield code="b">Proper name</marc:subfield>
+<marc:subfield code="2">Francis Noble, John Noble, William Bathoe, Tho. Lowndes, T. Vernor and J. Chater, Thomas Jones, William Cooke.</marc:subfield>
+<marc:subfield code="3">Other</marc:subfield>
+<marc:subfield code="6">Male</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="7" tag="656">
+<marc:subfield code="a">Epistolary fiction</marc:subfield>
+<marc:subfield code="z">England</marc:subfield>
+<marc:subfield code="y">18th century.</marc:subfield>
+<marc:subfield code="2">rbgenr</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">CHR 1768</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">PRO Doorne's circulating library (Bookplate)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">PRO D., S. (Stamp)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">PRO Singer, Jacob (Donor)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">PRO Singer, Leah (donor)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">PRO Singer, Godfrey F. (honoree)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="700">
+<marc:subfield code="a">Noble, Francis</marc:subfield>
+<marc:subfield code="d">d. 1792</marc:subfield>
+<marc:subfield code="4">Printed for</marc:subfield>
+<marc:subfield code="4">Author (paratext)</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="700">
+<marc:subfield code="a">Noble, John</marc:subfield>
+<marc:subfield code="4">Printed for</marc:subfield>
+<marc:subfield code="4">Author (paratext)</marc:subfield>
+<marc:subfield code="5">Unauthorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="700">
+<marc:subfield code="a">Hoggard, W</marc:subfield>
+<marc:subfield code="4">Printed by</marc:subfield>
+<marc:subfield code="5">Unauthorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="700">
+<marc:subfield code="a">Bathoe, William</marc:subfield>
+<marc:subfield code="d">d.1768</marc:subfield>
+<marc:subfield code="4">Author (paratext)</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="700">
+<marc:subfield code="a">Lowndes, Thomas</marc:subfield>
+<marc:subfield code="d">1719-1784</marc:subfield>
+<marc:subfield code="4">Author (paratext)</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="700">
+<marc:subfield code="a">Vernor, Thomas</marc:subfield>
+<marc:subfield code="d">d. 1793</marc:subfield>
+<marc:subfield code="4">Author (paratext)</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="700">
+<marc:subfield code="a">Chater, John</marc:subfield>
+<marc:subfield code="4">Author (paratext)</marc:subfield>
+<marc:subfield code="5">Unauthorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="700">
+<marc:subfield code="a">Jones, Thomas</marc:subfield>
+<marc:subfield code="4">Author (paratext)</marc:subfield>
+<marc:subfield code="5">Unauthorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="700">
+<marc:subfield code="a">Cooke, William</marc:subfield>
+<marc:subfield code="4">Author (paratext)</marc:subfield>
+<marc:subfield code="5">Unauthorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+<marc:subfield code="5">PU</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Early Novels</marc:subfield>
+<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="950">
+<marc:subfield code="l">RBC</marc:subfield>
+<marc:subfield code="e">\\\\\\\\Singer-\\\\Menden-\\\\hall\\\\</marc:subfield>
+<marc:subfield code="v">2 v.</marc:subfield>
+<marc:subfield code="i">12/28/87 C</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="955">
+<marc:subfield code="l">RBC</marc:subfield>
+<marc:subfield code="c">1:(v.1-2)</marc:subfield>
+<marc:subfield code="q">725959-60</marc:subfield>
+<marc:subfield code="s">Ex libris: Doorne's circulating library</marc:subfield>
+<marc:subfield code="s">Ex libris: D., S.</marc:subfield>
+<marc:subfield code="s">g. Mr. and Mrs. Jacob Singer</marc:subfield>
+<marc:subfield code="i">12/28/87 C</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="989">
+<marc:subfield code="2">History</marc:subfield>
+<marc:subfield code="5">Miss Emilia Beville</marc:subfield>
+<marc:subfield code="2">Miss</marc:subfield>
+<marc:subfield code="3">Two</marc:subfield>
+<marc:subfield code="2">Volume</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="999">
+<marc:subfield code="a">MH</marc:subfield>
+<marc:subfield code="b">7/7/15</marc:subfield>
+<marc:subfield code="c">University of Pennsylvania</marc:subfield>
+<marc:subfield code="d">IH</marc:subfield>
+</marc:datafield>
+</marc:record>

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<marc:record>
+	<marc:leader>05545cam a2200745 a 4500</marc:leader>
+	<marc:controlfield tag="001">106708</marc:controlfield>
+	<marc:controlfield tag="005">20141119180227.0</marc:controlfield>
+	<marc:controlfield tag="008">861015s1791 enk 00010 eng d            =035     a(OCoLC)ocm17381563</marc:controlfield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(OCoLC)17381563</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(CStRLIN)PAUG86-B44579</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(CaOTULAS)146817084</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="9">AAQ1681</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">106708</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(PennHoldings)106708</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="040">
+		<marc:subfield code="a">PU</marc:subfield>
+		<marc:subfield code="c">PU</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="090">
+		<marc:subfield code="a">PR5059.M484</marc:subfield>
+		<marc:subfield code="b">I5 1791</marc:subfield>
+		<marc:subfield code="i">10/15/86 CT</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="1" ind2="0" tag="100">
+		<marc:subfield code="a">Morris,</marc:subfield>
+		<marc:subfield code="c">Mrs.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="1" ind2="0" tag="245">
+		<marc:subfield code="a">Illicit love :</marc:subfield>
+		<marc:subfield code="b">a novel /</marc:subfield>
+		<marc:subfield code="c">by Mrs. Morris ... : in two volumes.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">Illicit love: a novel. Vol. I.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Half</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">Illicit love: a novel. Vol. II.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Half</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">Illicit love: a novel. By Mrs. Morris, author of the rival brothers, a Novel; poems, &amp;c. In two volumes. Vol. I.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">Illicit love: a novel. By Mrs. Morris, author of the rival brothers, a Novel; poems, &amp;c. In two volumes. Vol. II.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="7" tag="246">
+		<marc:subfield code="a">Illicit love.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="7" tag="246">
+		<marc:subfield code="a">Illicit love. (recto)</marc:subfield>
+		<marc:subfield code="a">Illicit love. (verso)</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="260">
+		<marc:subfield code="a">London</marc:subfield>
+		<marc:subfield code="b">Printed for the Author; and sold by H.D. Symonds, No 20, Paternoster-Row; and W. Beilby, No 6, Pall Mall.</marc:subfield>
+		<marc:subfield code="c">1791</marc:subfield>
+		<marc:subfield code="c">M DCC XCI.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="300">
+		<marc:subfield code="a">2 v. ;</marc:subfield>
+		<marc:subfield code="c">18 cm. (8vo)</marc:subfield>
+		<marc:subfield code="x">Octavo</marc:subfield>
+		<marc:subfield code="z">In two volumes.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Dedication to the Hon. Mrs. Massey signed: Your obedient cousin ... R. P. Morris.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">An epistolary novel.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Library of the University of Pennsylvania bookplate pasted down on front endpaper of v.1. In red ink at top: "823 M833I v.1" Printed on bottom: "The Godfrey F. Singer Memorial Presented by Mr. and Mrs. Jacob Singer"</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Library of the University of Pennsylvania bookplate pasted down on front endpaper of v.2. In red ink at top: "823 M833I v.2" Printed on bottom: "The Godfrey F. Singer Memorial Presented by Mr. and Mrs. Jacob Singer"</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">In ink on front endpaper of v.1 and v.2: "556"</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">In pencil on front endpaper of v.1: "Novel"</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Library stamp on verso of full title page of v.1: "U. of Pa. Library"</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Library stamp on verso of full title page of v.2: "U. of Pa. Library"</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Library marginalia n pencil on first page of v.1: "9Ap34 g. Mr. + Mrs. Jacob Singer (2vols)"; "726009"; "823 M833I v.1"</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Library marginalia n pencil on first page of v.2: "9Ap34 g. Mr. + Mrs. Jacob Singer v.2"; "726010"; "823 M833I v.2"</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Library stamp on last page of text of v.1 (pg.136): "U. of Pa. Library"</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Library stamp on last page of text of v.2 (pg.154): "U. of Pa. Library"</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Library marginalia on verso of back free end paper of v.1: "Singer Mendenhall PR 5059 M484 I5 1791 v.1"</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Library marginalia on verso of back free end paper v.2: "Singer Mendenhall PR 5059 M484 I5 1791 v.2"</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Back free end paper of v.2 has been partially cut or torn.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Library marginalia on back endpaper of v.1: "Nb 6-5-14 [unintelligible letter(s)] 2 vols""</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">Black, F.G. Epistolary novel</marc:subfield>
+		<marc:subfield code="c">628</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+		<marc:subfield code="c">N16753</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">English novel, 1770-1829,</marc:subfield>
+		<marc:subfield code="c">1791:52</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Dedication</marc:subfield>
+		<marc:subfield code="b">To the honourable Mrs. Massey.</marc:subfield>
+		<marc:subfield code="c">Front</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="x">Transcription of first line: "Madam, having obtained your private approbation of the following sheets, I am happy to have your permission to throw them in a public manner under your protection."</marc:subfield>
+		<marc:subfield code="x">Running title reads "Dedication."</marc:subfield>
+		<marc:subfield code="x">Signed, "your obedient cousin and devoted humble servant, R. P. Morris."</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Preface</marc:subfield>
+		<marc:subfield code="b">Preface.</marc:subfield>
+		<marc:subfield code="c">Front</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="x">Transcription of first line: "The following pages, like some former work of mine, contain a narrative drawn from real life; it is a faithful relation of incidents which actually occurred."</marc:subfield>
+		<marc:subfield code="x">Running title reads "Preface."</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="591">
+		<marc:subfield code="a">Trust not a man; they are by nature false,---Fickle, subtle, deceitful, and inconstant;---If a man talks of love, with caution trust him;---But if he swears, he'll certainly deceive.</marc:subfield>
+		<marc:subfield code="2">Otway.</marc:subfield>
+		<marc:subfield code="b">The orphan: or, the unhappy marriage. A tragedy.</marc:subfield>
+		<marc:subfield code="c">Thomas Otway</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+		<marc:subfield code="x">Located on full title page.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="592">
+		<marc:subfield code="a">Epistolary</marc:subfield>
+		<marc:subfield code="b">First-person</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="599">
+		<marc:subfield code="a">Author (text)</marc:subfield>
+		<marc:subfield code="b">Proper name</marc:subfield>
+		<marc:subfield code="b">Reference to other works</marc:subfield>
+		<marc:subfield code="2">By Mrs. Morris, author of the rival brothers, a Novel; poems, &amp;c.</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
+		<marc:subfield code="5">Female</marc:subfield>
+		<marc:subfield code="6">Female</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="599">
+		<marc:subfield code="a">Author (paratext)</marc:subfield>
+		<marc:subfield code="b">Proper name</marc:subfield>
+		<marc:subfield code="2">Your obedient cousin, and devoted humble servant, R. P. Morris.</marc:subfield>
+		<marc:subfield code="3">Dedication</marc:subfield>
+		<marc:subfield code="5">Female</marc:subfield>
+		<marc:subfield code="6">Female</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="599">
+		<marc:subfield code="a">Author (paratext)</marc:subfield>
+		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
+		<marc:subfield code="2">Their ever obliged and obedient humble servant, the author.</marc:subfield>
+		<marc:subfield code="3">Preface</marc:subfield>
+		<marc:subfield code="5">Female</marc:subfield>
+		<marc:subfield code="6">Female</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="7" tag="655">
+		<marc:subfield code="a">Epistolary fiction</marc:subfield>
+		<marc:subfield code="z">England</marc:subfield>
+		<marc:subfield code="y">18th century.</marc:subfield>
+		<marc:subfield code="2">rbgenr</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">CHR 1791</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Morris, Mrs.</marc:subfield>
+		<marc:subfield code="4">Author (text)</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Mrs. Massey</marc:subfield>
+		<marc:subfield code="4">Dedicatee</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Otway, Thomas</marc:subfield>
+		<marc:subfield code="d">1652-1685</marc:subfield>
+		<marc:subfield code="4">Author (epigraph)</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Symonds, H. D. (Henry Delahoy)</marc:subfield>
+		<marc:subfield code="4">Sold by</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Beilby, William</marc:subfield>
+		<marc:subfield code="d">1740-1819</marc:subfield>
+		<marc:subfield code="4">Sold by</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+		<marc:subfield code="5">PU</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Early Novels</marc:subfield>
+		<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="950">
+		<marc:subfield code="l">RBC</marc:subfield>
+		<marc:subfield code="e">\\Singer-\Menden-\hall\</marc:subfield>
+		<marc:subfield code="v">2 v.</marc:subfield>
+		<marc:subfield code="i">10/15/86 C</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="955">
+		<marc:subfield code="l">RBC</marc:subfield>
+		<marc:subfield code="c">1:(v.1-2)</marc:subfield>
+		<marc:subfield code="q">726090-10</marc:subfield>
+		<marc:subfield code="s">Singer Mem.</marc:subfield>
+		<marc:subfield code="i">10/15/86 C</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="989">
+		<marc:subfield code="3">Illicit</marc:subfield>
+		<marc:subfield code="2">Love</marc:subfield>
+		<marc:subfield code="2">Novel</marc:subfield>
+		<marc:subfield code="5">Mrs. Morris</marc:subfield>
+		<marc:subfield code="2">Author</marc:subfield>
+		<marc:subfield code="1">The rival brothers</marc:subfield>
+		<marc:subfield code="2">Poem</marc:subfield>
+		<marc:subfield code="3">Two</marc:subfield>
+		<marc:subfield code="2">Volume</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="999">
+		<marc:subfield code="a">AGY</marc:subfield>
+		<marc:subfield code="b">6/20/17</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
+		<marc:subfield code="d">ECH</marc:subfield>
+	</marc:datafield>
+</marc:record>

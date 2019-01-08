@@ -1,0 +1,145 @@
+<marc:record>
+<marc:leader>02930cam a2200409 i 4500</marc:leader>
+<marc:controlfield tag="001">341531</marc:controlfield>
+<marc:controlfield tag="005">20130314161233.0</marc:controlfield>
+<marc:controlfield tag="008">860305s1771    enk           000 1 eng d</marc:controlfield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(PUVoyagerBIBID)3445751</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(MediadbVoyBIBID)341531</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(END)pr3291_a1_l67_1771</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="040">
+<marc:subfield code="a">CLU</marc:subfield>
+<marc:subfield code="c">CLU</marc:subfield>
+<marc:subfield code="d">PU</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="050">
+<marc:subfield code="a">PR3291.A1</marc:subfield>
+<marc:subfield code="b">L67 1771</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="0" tag="245">
+<marc:subfield code="a">Louisa :</marc:subfield>
+<marc:subfield code="b">A sentimental novel ...</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">Louisa. A sentimental novel.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="x">Work</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="7" tag="246">
+<marc:subfield code="a">Louisa</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="7" tag="246">
+<marc:subfield code="a">Louisa. (verso)</marc:subfield>
+<marc:subfield code="a">Louisa. (recto)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="260">
+<marc:subfield code="a">London</marc:subfield>
+<marc:subfield code="b">Printed for T. Lowndes, in Fleetstreet; and G. Kearsley, in Ludgate-Street.</marc:subfield>
+<marc:subfield code="c">M DCC LXXI.</marc:subfield>
+<marc:subfield code="a">[London]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="300">
+<marc:subfield code="a">[6], 234 p. ;</marc:subfield>
+<marc:subfield code="c">17 cm. (12mo)</marc:subfield>
+<marc:subfield code="x">Duodecimo</marc:subfield>
+<marc:subfield code="a">[1 v.]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">From ESTC descriptive bibliographic record: ""The writer of the work (a female) probably also wrote 'The brother', 1771, advertised on the verso of the titlepage."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">ESTC</marc:subfield>
+<marc:subfield code="c">t126674</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">English novel, 1770-1829</marc:subfield>
+<marc:subfield code="c">1771:24</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="520">
+<marc:subfield code="a">Advertisement</marc:subfield>
+<marc:subfield code="b">Advertisement.</marc:subfield>
+<marc:subfield code="c">Front</marc:subfield>
+<marc:subfield code="x">""The following elegant Novel is the Production of a Lady, who, to a fine Genius, has added every Advantage, that could be derived from a polite Education...""</marc:subfield>
+<marc:subfield code="x">Lays out who should read this novel (e.g. ""the most meritorious of the sex""), when they should read it (e.g. ""or in the uniteresting chit-chat of the tea-table""), and why (e.g. ""only as a rational amusement"").</marc:subfield>
+<marc:subfield code="x">Claims ""Felicity"" of characters, ""Attachement"" to ""perfect Representations"" of morality, ""simple, unaffected, yet elegant Language.""</marc:subfield>
+<marc:subfield code="x">""Suffice it to say, that the Publisher is impowered to declare with the greatest Veracity, 'That they are the genuine Letters, as they were delivered to him in the Manuscript, of a Lady of Distinction'--who has promised to continue her ingenious Labours chiefly for the Service of her own Sex--if the present Attempt meets with public Approbation.""</marc:subfield>
+<marc:subfield code="x">Signed ""T. M."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="591">
+<marc:subfield code="a">"" New ways I must attempt, my virgin name --- "" To raise aloft, and wing my flight to fame."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="592">
+<marc:subfield code="a">Epistolary</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="599">
+<marc:subfield code="a">Author (text)</marc:subfield>
+<marc:subfield code="b">Generic/Descriptive</marc:subfield>
+<marc:subfield code="2">The following elegant Novel is the Production of a Lady</marc:subfield>
+<marc:subfield code="3">Advertisement</marc:subfield>
+<marc:subfield code="5">Female</marc:subfield>
+<marc:subfield code="6">Female</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="599">
+<marc:subfield code="a">Author (paratext)</marc:subfield>
+<marc:subfield code="b">Initials</marc:subfield>
+<marc:subfield code="2">T. M.</marc:subfield>
+<marc:subfield code="3">Advertisement</marc:subfield>
+<marc:subfield code="5">Indeterminate</marc:subfield>
+<marc:subfield code="6">Unknown</marc:subfield>
+<marc:subfield code="x">Perhaps fictitious</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">CHR 1771</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="656">
+<marc:subfield code="a">Fiction</marc:subfield>
+<marc:subfield code="b">Front</marc:subfield>
+<marc:subfield code="c">Same genre</marc:subfield>
+<marc:subfield code="x">""In a few Days will be published, in Two Vols. 12mo. Price 6s. bound, The BROTHER. A Novel. By a LADY."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Lowndes, Thomas</marc:subfield>
+<marc:subfield code="d">1719-1784</marc:subfield>
+<marc:subfield code="4">Printed for</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Kearsley, George</marc:subfield>
+<marc:subfield code="d">d. 1790</marc:subfield>
+<marc:subfield code="4">Printed for</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Early Novels</marc:subfield>
+<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="8" ind2=" " tag="852">
+<marc:subfield code="b">scrare</marc:subfield>
+<marc:subfield code="h">EC75</marc:subfield>
+<marc:subfield code="i">A100 771l</marc:subfield>
+<marc:subfield code="x">3Ap47 (44304) B.A. General</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="989">
+<marc:subfield code="2">Novel</marc:subfield>
+<marc:subfield code="3">Sentimental</marc:subfield>
+<marc:subfield code="5">Louisa</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="994">
+<marc:subfield code="a">E0</marc:subfield>
+<marc:subfield code="b">PAU</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="999">
+<marc:subfield code="a">AFD</marc:subfield>
+<marc:subfield code="b">5/31/11</marc:subfield>
+<marc:subfield code="c">Swarthmore College</marc:subfield>
+</marc:datafield>
+</marc:record>

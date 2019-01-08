@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+	<marc:leader>13690cam a2200997 i 4500</marc:leader>
+	<marc:controlfield tag="001">437634</marc:controlfield>
+	<marc:controlfield tag="005">20130802114906.0</marc:controlfield>
+	<marc:controlfield tag="008">940216s1751    ie a          000 1 eng d</marc:controlfield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(CStRLIN)PAUGEAX6921-B</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(CStRLIN)PAUGEAX6921-B</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="9">EAX6921</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">1801395</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(END)pr_3369_c7_h5_1751b</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(MediadbVoyBIBID)347634</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="040">
+		<marc:subfield code="a">PU</marc:subfield>
+		<marc:subfield code="c">PU</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="041">
+		<marc:subfield code="a">eng</marc:subfield>
+		<marc:subfield code="x">The history of Pompey</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="041">
+		<marc:subfield code="a">eng</marc:subfield>
+		<marc:subfield code="h">fre</marc:subfield>
+		<marc:subfield code="x">Letters written by a Peruvian Princess</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="090">
+		<marc:subfield code="f">h</marc:subfield>
+		<marc:subfield code="n">\\\\jl\\\\</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="1" ind2=" " tag="100">
+		<marc:subfield code="a">Coventry, Francis</marc:subfield>
+		<marc:subfield code="d">d. 1759.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="1" ind2="4" tag="245">
+		<marc:subfield code="a">The history of Pompey the Little, or, The life and adventures of a lap-dog.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">The history of Pompey the Little.  Or, the life and adventures of a lap-dog.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Work</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="7" tag="246">
+		<marc:subfield code="a">The history of Pompey the Little.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="7" tag="246">
+		<marc:subfield code="a">The history of (verso)</marc:subfield>
+		<marc:subfield code="a">Pompey the Little. (recto)</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">Letters written by a Peruvian Princess. Translated from the French.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Work</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">Sequel of the Letters written by a Peruvian Princess.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Work</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">The Letters of a Layman to the Son at Sea, Giving his advice from Observation, Experience, and Reason. Which may be useful to the Youth of Family, lower People and others.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Work</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">The Letters of a Layman to the Son at Sea, Giving his advice from Observation, Experience, and Reason. Which may be useful to the Youth of Family, lower People and others. To which is Added, An Address to higher People, proposing Improving at this, and every Time, necessary to be known by all.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Work</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="260">
+		<marc:subfield code="a">Dublin</marc:subfield>
+		<marc:subfield code="b">Printed by George Faulkner; in Essex-street.</marc:subfield>
+		<marc:subfield code="c">1751.</marc:subfield>
+		<marc:subfield code="c">MDCCLI</marc:subfield>
+		<marc:subfield code="x">The History of Pompey</marc:subfield>
+		<marc:subfield code="a">[Dublin]</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="260">
+		<marc:subfield code="a">Dublin</marc:subfield>
+		<marc:subfield code="b">Printed by S. Powell, For Thomas Moore at Erasmus's-Head in Dame-street, Bookseller.</marc:subfield>
+		<marc:subfield code="c">M DCC XL VIII</marc:subfield>
+		<marc:subfield code="c">1748</marc:subfield>
+		<marc:subfield code="x">Letters written by a Peruvian Princess</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="260">
+		<marc:subfield code="a">Dublin</marc:subfield>
+		<marc:subfield code="b">Printed by Richard James, at Newton's Head in Dame-Street</marc:subfield>
+		<marc:subfield code="c">MDCCXLIX</marc:subfield>
+		<marc:subfield code="c">1749</marc:subfield>
+		<marc:subfield code="x">Sequel of the Letters written by a Peruvian Princess.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="260">
+		<marc:subfield code="a">Dublin</marc:subfield>
+		<marc:subfield code="b">Printed for W. Smith at the Hercules in Dame-Street</marc:subfield>
+		<marc:subfield code="c">MDCCLIV</marc:subfield>
+		<marc:subfield code="c">1754</marc:subfield>
+		<marc:subfield code="x">The Letters of a Layman to the Son at Sea, Giving his advice from Observation, Experience, and Reason. Which may be useful to the Youth of Family, lower People and others.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="260">
+		<marc:subfield code="a">Dublih</marc:subfield>
+		<marc:subfield code="b">Printed for W. Smith at the Hercules in Dame-Street.</marc:subfield>
+		<marc:subfield code="c">MDCCLIV</marc:subfield>
+		<marc:subfield code="c">1754</marc:subfield>
+		<marc:subfield code="x">The Letters of a Layman to the Son at Sea, Giving his advice from Observation, Experience, and Reason. Which may be useful to the Youth of Family, lower People and others. To which is Added, An Address to higher People, proposing Improving at this, and every Time, necessary to be known by all.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="300">
+		<marc:subfield code="a">vii, 176 p., [1] leaf of plates :</marc:subfield>
+		<marc:subfield code="b">ill. ;</marc:subfield>
+		<marc:subfield code="c">18 cm.</marc:subfield>
+		<marc:subfield code="a">[1 v.]</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="300">
+		<marc:subfield code="a">[i]-[ii], iii-[iv], [1]-176</marc:subfield>
+		<marc:subfield code="b">Ill. (frontispiece)</marc:subfield>
+		<marc:subfield code="c">18 cm.</marc:subfield>
+		<marc:subfield code="x">Duodecimo</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Bound with "Letters written by a Peruvian Princess.  Translated from the French."</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Bookplate - "Nec volenti -- nec volanti --- Wm Westby Esq."</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">The frontispiece features a dog sitting on a cushion, peering out at the viewer from inside of a sculptural frame that reads, at its base, "Pompey the Little."</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Letters written by a Peruvian Princess comprises 37 letters.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Sequel of the Letters written by a Peruvian Princess comprises 7 letters.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+		<marc:subfield code="c">T120586</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">Raven, J.  British fiction, 1750-1770,</marc:subfield>
+		<marc:subfield code="c">78</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">Halkett &amp; Laing (2nd ed.)</marc:subfield>
+		<marc:subfield code="c">v.3, p.74.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Table of contents</marc:subfield>
+		<marc:subfield code="b">Contents.</marc:subfield>
+		<marc:subfield code="c">Front</marc:subfield>
+		<marc:subfield code="x">The table of contents divides the text into Book I (containing chapters I-XIV) and Book II (chapters I-XVIII).  Each chapter listing is accompanied by a brief description and a page number.</marc:subfield>
+		<marc:subfield code="x">History of Pompey</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Table of contents</marc:subfield>
+		<marc:subfield code="b">Contents</marc:subfield>
+		<marc:subfield code="c">Back</marc:subfield>
+		<marc:subfield code="x">The table of contents lists all of Zilia's letters and includes brief descriptions of each such as the addressee and general intent.</marc:subfield>
+		<marc:subfield code="x">Letters written by a Peruvian Princess</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Advertisement</marc:subfield>
+		<marc:subfield code="b">Advertisement of the French Editor</marc:subfield>
+		<marc:subfield code="c">Middle</marc:subfield>
+		<marc:subfield code="x">Begins: "If truth, when it strays from probability, usually loses its credit in the eye of reason, it is for a short time only; but, let it contradict prejudice ever so little, and seldom shall it find grace before that tribunal. What then ought not the editor of this work to fear, in presenting to the public the letters of a young Peruvian, whose stile and thoughts so little agree with the mean idea which an unjust prejudice has caused us to form of her nation? Enriched by the precious spoils of Peru, we ought, at least, to regard the inhabitants of that part of the world as a magnificent people; and the sentiment of respect is not very remote from the idea of magnificence. But so prejudiced are we always in our own favour, that we rate the merit of other nations not only in proportion as their manners imitate ours, but in proportion as their tongues approach nearer to our Idiom. How can one be a Persian? We despite the Indians, and hardly grant a thinking soul to those unhappy people: yet their history is in every one's hands, and abounds with monuments of the sagacity of their minds, and the solidity of their philosophy. The apologist of humanity and of beautiful nature has traced the out-lines of the Indian manners in a dramatic poem, the subject of which divides the glory with the execution.With so much light given us into the characters of these people, there should seem no room to fear that original letters which only exhibit what we already know of the lively and natural wit of the Indians, are in danger of passing for a fiction. But, that prejudice any eyes? There is no fecundity against its judgement, and we should have been careful not to submit this work to it, if its empire has been without bounds. It seems needless to give notice, that the first letters of Zilia were translated by herself: every one must easily judge, that, being composed in a language, and traced in a manner equally unknown to us, this collection could never have reached us, if the same hand had not writ them in our tongue. We owe this translation to Zilia's leisure in her retreat: her complaisance in communicating them to the chevalier Deterville, and the permission he at last obtained to keep them, were the means that conveyed them into our hands."</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Footnote</marc:subfield>
+		<marc:subfield code="b">Footnote</marc:subfield>
+		<marc:subfield code="c">Middle</marc:subfield>
+		<marc:subfield code="x">In reference to the question "How can one be a Persian?"</marc:subfield>
+		<marc:subfield code="x">Reads: "The translator apprehends this sentence to be a satirical repetition after some other French author. There were a few strokes marked in the same manner in one or two of the letters, which he did not take notice of, as he supposed they would be inintellible to the Engglish reader.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Footnote</marc:subfield>
+		<marc:subfield code="b">Footnote</marc:subfield>
+		<marc:subfield code="c">Middle</marc:subfield>
+		<marc:subfield code="x">The translator explains his or her opinion on the French editor's use of the term "Oriental" in the "Advertisement of the French editor." It reads, "The French editor here uses Oriental for lofty and swelling, though the Peruvians, with respect to us, are certainly an Occidental people."</marc:subfield>
+		<marc:subfield code="x">Letters written by a Peruvian Princess</marc:subfield>
+		<marc:subfield code="x">Advertisement of the French Editor</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Advertisement</marc:subfield>
+		<marc:subfield code="b">The Editor's Advertisement.</marc:subfield>
+		<marc:subfield code="c">Middle</marc:subfield>
+		<marc:subfield code="x">Reads: "When I gave the first Part of the Peruvian Letters to the Publick, I did not dare to flatter myself that they would meet with so favourable an Acceptance as they have been honoured with. The Defects of Stile, the ingenuous simplicity, and the tender Sentiments which animated Zilia, and alone dictated all that she wrote the first Year of her Misfortunes; all appeared to me of a Character too opposite to the Prejudices of our Nation, for me to think it would amuse the French. Reasons so plausible would have diverted me from this Enterprize, if I had entertained the same Fears with Regard to the Sequel which I now publish, but which was of Necessity preceded by that, which appeared to found the Taste of the Publick. The Reader, however, will see with a single Glance, how much Preference is due to this Sequel. In the first Part of these Letters Zilia had not yet changed any thing but her Dress; But he will find in this a greater Progress than he could have expected from an Indian Capacity. The Princess Royal of Cusco looks no longer for the Peruvian Virgin behind the Glass, and her Reason's too much enlightened to refuse her Arm to a Physician. Her stile is corrected with as much Care as she was capable of bestowing on it, and her civilized Pen knows how to throw a Lustre upon whatever her Imagination furnishes. This is the Author's own Opinion, in a Letter which he wrote, and in which he discovers a tender Predelection for this Sequel."</marc:subfield>
+		<marc:subfield code="x">Sequel of the Letters written by a Peruvian Princess</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="590">
+		<marc:subfield code="a">With: Grafigny, Mme de (Françoise d'Issembourg d'Happoncourt). Letters written by a Peruvian princess. Dublin : Printed by S. Powell for Thomas Moore, 1748. -- Grafigny, Mme de (Françoise d'Issembourg d'Happoncourt). Sequel of the letters written by a Peruvian princess. Dublin : Printed by Richard James, 1749. -- Letter of a layman to his son at sea. Dublin : Printed for W. Smith, 1754.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="591">
+		<marc:subfield code="a">---gressumque canes comitantur herilem.</marc:subfield>
+		<marc:subfield code="1">Aen.</marc:subfield>
+		<marc:subfield code="2">Vir.</marc:subfield>
+		<marc:subfield code="b">Aeneid, Lib. VIII.</marc:subfield>
+		<marc:subfield code="c">Virgil</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="591">
+		<marc:subfield code="a">---mutato nomine de te --- fabula narratur.</marc:subfield>
+		<marc:subfield code="2">Hor.</marc:subfield>
+		<marc:subfield code="b">Satires</marc:subfield>
+		<marc:subfield code="c">Horace</marc:subfield>
+		<marc:subfield code="d">With a change of names, the fable is told about you.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="591">
+		<marc:subfield code="a">Agricolam laudat juris legumque peritus, -- Sub Galli cantum contultor ubi oftia pulfat</marc:subfield>
+		<marc:subfield code="2">Horace</marc:subfield>
+		<marc:subfield code="b">Satires</marc:subfield>
+		<marc:subfield code="c">Horace</marc:subfield>
+		<marc:subfield code="x">Appears on page 69.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="591">
+		<marc:subfield code="a">Hei mihi! fi fueris tu Leo, qualis eris?</marc:subfield>
+		<marc:subfield code="1">Martial</marc:subfield>
+		<marc:subfield code="x">Appears on page 68.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="591">
+		<marc:subfield code="a">Quicquid agunt homines, votum, timor, ira, volaptas -- Gaudia, discursus</marc:subfield>
+		<marc:subfield code="b">Satirarum libri quinque: Accedit Sulpiciae Satira</marc:subfield>
+		<marc:subfield code="x">Appears on page 83.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="591">
+		<marc:subfield code="a">King of the Garden, blooming Rose! -- Which sprang'st from Venus' heavenly Woes, -- When weeping for Adonis slain, -- Her pearly Tears bedew'd the Plain, -- Now let thy dewy Leaves bewail -- A greater Beauty's greater Ill; -- Ye Lillies! hang your drooping Head, -- Ye Myrtles! weep for Pompey dead; -- Light lie the Turf upon his Breast, -- Peace to his Shade, and gentle Rest.</marc:subfield>
+		<marc:subfield code="b">Webb's Epitaphs</marc:subfield>
+		<marc:subfield code="x">Appears on page 172.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="592">
+		<marc:subfield code="b">Third-person</marc:subfield>
+		<marc:subfield code="b">First-person</marc:subfield>
+		<marc:subfield code="b">Letters</marc:subfield>
+		<marc:subfield code="x">Letters appear on pages 34, 35, 151, and 167-8.</marc:subfield>
+		<marc:subfield code="x">Quotations in Latin are found offset from the text on pages 43, 68 (Martial), 69 (Horace), and 83.  English verse appears on pages 76 (a passage from King Lear) and 173-4.</marc:subfield>
+		<marc:subfield code="x">An advertisement for a lost dog appears on pages 45-6.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="595">
+		<marc:subfield code="a">Ink</marc:subfield>
+		<marc:subfield code="b">Words</marc:subfield>
+		<marc:subfield code="x">On page 24, where the text introduces Lady Tempest, someone has written "Lady Townsend" into the lefthand margin.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="596">
+		<marc:subfield code="a">Translation</marc:subfield>
+		<marc:subfield code="b">Title Page</marc:subfield>
+		<marc:subfield code="c">French</marc:subfield>
+		<marc:subfield code="e">Translated from the French.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="599">
+		<marc:subfield code="a">Author (text)</marc:subfield>
+		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
+		<marc:subfield code="2">"[...] men of gravity may be apt to censure me for mispending my time in writing the adventures of a lap-dog [...]"</marc:subfield>
+		<marc:subfield code="3">Book I, Chapter I</marc:subfield>
+		<marc:subfield code="5">Indeterminate</marc:subfield>
+		<marc:subfield code="6">Unknown</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="599">
+		<marc:subfield code="a">Translator (text)</marc:subfield>
+		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
+		<marc:subfield code="2">The translator apprehends this sentence to be a satirical repetition after some other French author.</marc:subfield>
+		<marc:subfield code="3">Advertisement</marc:subfield>
+		<marc:subfield code="5">Male</marc:subfield>
+		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="x">Letters written by a Peruvian Princess</marc:subfield>
+		<marc:subfield code="x">Advertisement of the French editor.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="599">
+		<marc:subfield code="a">Translator (text)</marc:subfield>
+		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
+		<marc:subfield code="2">The translator begs leave just to add, that, as he went through his talk with peculiar pleasure, he hopes he has done justice to a work which he looks upon to have great beauty in the original. The Peruvian character, as far as we know it from history, joined to that of good sense, obstinate virtue, tender sentiments, and unchangeable affections, cannot be more strongly and naturally painted than in the letters of Zilia; nor do we often see the progress of the human mind so correctly and expressively drawn as in these letters.</marc:subfield>
+		<marc:subfield code="3">Advertisement</marc:subfield>
+		<marc:subfield code="5">Male</marc:subfield>
+		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="x">Letters written by a Peruvian Princess</marc:subfield>
+		<marc:subfield code="x">Advertisement of the French editor.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">CHR 1751</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">PRO Westby, William (bookplate)</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="656">
+		<marc:subfield code="a">Mixed Genre</marc:subfield>
+		<marc:subfield code="b">Back</marc:subfield>
+		<marc:subfield code="c">Same bookseller</marc:subfield>
+		<marc:subfield code="x">"Books printed for and sold by Tho. Moore, at Erasmus's-Head, in Dame-Street."</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="656">
+		<marc:subfield code="a">Mixed Genre</marc:subfield>
+		<marc:subfield code="b">Back</marc:subfield>
+		<marc:subfield code="c">Same bookseller</marc:subfield>
+		<marc:subfield code="x">"Books lately published by Richard James, Printer and Bookseller, at Newton's-Head, in Dame-Street, opposite Sycamore-Alley.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Virgil</marc:subfield>
+		<marc:subfield code="4">Author (epigraph)</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Horace</marc:subfield>
+		<marc:subfield code="4">Author (epigraph)</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Coventry, Francis</marc:subfield>
+		<marc:subfield code="d">1725?-1759</marc:subfield>
+		<marc:subfield code="4">Author (text)</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Faulkner, George</marc:subfield>
+		<marc:subfield code="d">1699?-1775</marc:subfield>
+		<marc:subfield code="4">Printed by</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Thomas Moore</marc:subfield>
+		<marc:subfield code="b">Bookseller</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Faulkner, G.</marc:subfield>
+		<marc:subfield code="4">Printed by</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Moore, T.</marc:subfield>
+		<marc:subfield code="b">Bookseller</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="1" tag="740">
+		<marc:subfield code="a">History of Pompey the Little.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="1" tag="740">
+		<marc:subfield code="a">Life and adventures of a lap dog.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Early Novels</marc:subfield>
+		<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="950">
+		<marc:subfield code="l">RBC</marc:subfield>
+		<marc:subfield code="a">PR3369.C7</marc:subfield>
+		<marc:subfield code="b">H5 1751b</marc:subfield>
+		<marc:subfield code="i">01/01/01 N</marc:subfield>
+		<marc:subfield code="x">010</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="955">
+		<marc:subfield code="l">RBC</marc:subfield>
+		<marc:subfield code="c">1</marc:subfield>
+		<marc:subfield code="s">725377</marc:subfield>
+		<marc:subfield code="s">recl. fr. EC7/C8383/751hb &amp; 823/C837Pb</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="998">
+		<marc:subfield code="n">PU</marc:subfield>
+		<marc:subfield code="z">BNA</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="948">
+		<marc:subfield code="a">jl</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="989">
+		<marc:subfield code="2">History</marc:subfield>
+		<marc:subfield code="5">Pompey</marc:subfield>
+		<marc:subfield code="3">Little</marc:subfield>
+		<marc:subfield code="2">Life</marc:subfield>
+		<marc:subfield code="2">Adventure</marc:subfield>
+		<marc:subfield code="2">Lap-dog</marc:subfield>
+		<marc:subfield code="3">Lap</marc:subfield>
+		<marc:subfield code="2">Dog</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="989">
+		<marc:subfield code="2">Letter</marc:subfield>
+		<marc:subfield code="3">written</marc:subfield>
+		<marc:subfield code="8">by</marc:subfield>
+		<marc:subfield code="3">Peruvian</marc:subfield>
+		<marc:subfield code="2">Princess</marc:subfield>
+		<marc:subfield code="3">Translated</marc:subfield>
+		<marc:subfield code="8">from</marc:subfield>
+		<marc:subfield code="2">French</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="989">
+		<marc:subfield code="2">Letter</marc:subfield>
+		<marc:subfield code="2">Layman</marc:subfield>
+		<marc:subfield code="2">Son</marc:subfield>
+		<marc:subfield code="8">at</marc:subfield>
+		<marc:subfield code="2">Sea</marc:subfield>
+		<marc:subfield code="3">Giving</marc:subfield>
+		<marc:subfield code="2">advice</marc:subfield>
+		<marc:subfield code="2">Observation</marc:subfield>
+		<marc:subfield code="2">Experience</marc:subfield>
+		<marc:subfield code="2">Reason</marc:subfield>
+		<marc:subfield code="8">Which</marc:subfield>
+		<marc:subfield code="3">useful</marc:subfield>
+		<marc:subfield code="2">Youth</marc:subfield>
+		<marc:subfield code="2">Family</marc:subfield>
+		<marc:subfield code="3">lower</marc:subfield>
+		<marc:subfield code="2">People</marc:subfield>
+		<marc:subfield code="2">others</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="989">
+		<marc:subfield code="3">Added</marc:subfield>
+		<marc:subfield code="2">Address</marc:subfield>
+		<marc:subfield code="3">higher</marc:subfield>
+		<marc:subfield code="2">People</marc:subfield>
+		<marc:subfield code="3">proposing</marc:subfield>
+		<marc:subfield code="3">Improving</marc:subfield>
+		<marc:subfield code="3">every</marc:subfield>
+		<marc:subfield code="2">Time</marc:subfield>
+		<marc:subfield code="3">necessary</marc:subfield>
+		<marc:subfield code="3">known</marc:subfield>
+		<marc:subfield code="2">all</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="989">
+		<marc:subfield code="2">Sequel</marc:subfield>
+		<marc:subfield code="2">Letter</marc:subfield>
+		<marc:subfield code="3">written</marc:subfield>
+		<marc:subfield code="3">Peruvian</marc:subfield>
+		<marc:subfield code="2">Princess</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="999">
+		<marc:subfield code="a">JRH</marc:subfield>
+		<marc:subfield code="b">8/1/13</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
+	</marc:datafield>
+</marc:record>

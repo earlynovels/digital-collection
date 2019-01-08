@@ -1,0 +1,196 @@
+<marc:record>
+<marc:leader>03892cam a2200541 i 4500</marc:leader>
+<marc:controlfield tag="001">374936</marc:controlfield>
+<marc:controlfield tag="005">20130402163521.0</marc:controlfield>
+<marc:controlfield tag="008">800908s1845    pauaf         000 1 eng d</marc:controlfield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">NYPGR6690609-B</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(MediadbVoyBIBID)374936</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(END)148_Au85</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(OCoLC)6690609</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">MRC00510450</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">2641869</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="040">
+<marc:subfield code="a">ViU</marc:subfield>
+<marc:subfield code="c">ViU</marc:subfield>
+<marc:subfield code="d">NN</marc:subfield>
+<marc:subfield code="d">CStRLIN</marc:subfield>
+<marc:subfield code="d">PU</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="0" tag="245">
+<marc:subfield code="a">Autobiography of a reformed drunkard, or, Letters and recollections by an inmate of the Alms-House.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="3" ind2="0" tag="246">
+<marc:subfield code="a">Autobiography of a reformed drunkard</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="3" ind2="0" tag="246">
+<marc:subfield code="a">Letters and recollections by an inmate of the Alms-House</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">Autobiography of a reformed drunkard; or letters and recollections by an inmate of the alms-house. With illustrations.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="x">Work</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="7" tag="246">
+<marc:subfield code="a">Letters from the alms-house.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="7" tag="246">
+<marc:subfield code="a">Letters from the alms-house. (recto)</marc:subfield>
+<marc:subfield code="a">Letters from the alms-house. (verso)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="7" tag="246">
+<marc:subfield code="a">Recollections.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="7" tag="246">
+<marc:subfield code="a">Recollections. (recto)</marc:subfield>
+<marc:subfield code="a">Recollections. (verso)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="260">
+<marc:subfield code="a">Philadelphia</marc:subfield>
+<marc:subfield code="b">Griffith and Simon ;</marc:subfield>
+<marc:subfield code="a">New York</marc:subfield>
+<marc:subfield code="b">Saxton and Miles,</marc:subfield>
+<marc:subfield code="c">1845.</marc:subfield>
+<marc:subfield code="a">[Philadelphia]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="260">
+<marc:subfield code="a">Philadelphia</marc:subfield>
+<marc:subfield code="b">Griffith and Simon, 188 North Third Street. Saxton and Miles, New York.</marc:subfield>
+<marc:subfield code="c">1845</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="261">
+<marc:subfield code="b">I. Ashmead, printer.</marc:subfield>
+<marc:subfield code="f">I. Ashmead</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="300">
+<marc:subfield code="a">[8], [13]-159, [1] p., [6] leaves of plates :</marc:subfield>
+<marc:subfield code="b">Ill.</marc:subfield>
+<marc:subfield code="b">Ill. (frontispiece)</marc:subfield>
+<marc:subfield code="c">16 cm.</marc:subfield>
+<marc:subfield code="x">Duodecimo</marc:subfield>
+<marc:subfield code="a">[1 v.]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">Duodecimo in sixes. Signature with asterisk.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="520">
+<marc:subfield code="a">Copyright statement</marc:subfield>
+<marc:subfield code="c">Front</marc:subfield>
+<marc:subfield code="x">Copyright statement reads: ""Entered according to act of congress, in the year 1845, by Isaac Ashmead, in the clerk's office of the District Court of the Eastern District of Pennsylvania"</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="520">
+<marc:subfield code="a">Table of contents</marc:subfield>
+<marc:subfield code="b">Illustrations.</marc:subfield>
+<marc:subfield code="c">Front</marc:subfield>
+<marc:subfield code="x">Lists name of illustration and page.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="520">
+<marc:subfield code="a">Dedication</marc:subfield>
+<marc:subfield code="c">Front</marc:subfield>
+<marc:subfield code="x">The dedication reads: ""To the Washingtonians who are so successfully following up the labours of the early pioneers in the cause of temperance, this little work is dedicated as a faithful portraiture both of the woes of intemperance, and of the joys and hopes and aims and efforts of one who has through mercy obtained deliverance therefrom."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="520">
+<marc:subfield code="a">Advertisement</marc:subfield>
+<marc:subfield code="b">Advertisement.</marc:subfield>
+<marc:subfield code="c">Front</marc:subfield>
+<marc:subfield code="x">The advertisement begins: ""The 'Letters from the Alms-house' were first published in a popular periodical. The  'Recollections' are simply a continuation of the narrative begun in the 'Letters.'""</marc:subfield>
+<marc:subfield code="x">The advertisment says that Letters from the alms-house and Recollections are published together as a result of the desire of ""the friends of the Temperance Reformation."" Notes that ""the 'Letters,' without the 'Recollections,' was published some time since without the knowledge of the author."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="592">
+<marc:subfield code="a">Epistolary</marc:subfield>
+<marc:subfield code="a">First-person</marc:subfield>
+<marc:subfield code="x">The first half of the volume is Letters from the alms-house, which is compose of letters addressed to ""Dear Sir,"" and the second half of the volume (preceded by a page that says: ""Part II. Recollections. By the author of 'Letters from the alms-house.'"" is Recollections, written in the first-person."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="599">
+<marc:subfield code="a">Author (text)</marc:subfield>
+<marc:subfield code="b">Generic/Descriptive</marc:subfield>
+<marc:subfield code="2">By an inmate of the alms-house</marc:subfield>
+<marc:subfield code="3">Title Page</marc:subfield>
+<marc:subfield code="5">Indeterminate</marc:subfield>
+<marc:subfield code="6">Unknown</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="0" tag="650">
+<marc:subfield code="a">Temperance</marc:subfield>
+<marc:subfield code="x">Fiction.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">CHR 1845</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Ashmead, Isaac</marc:subfield>
+<marc:subfield code="d">1790-1870</marc:subfield>
+<marc:subfield code="4">Printed by</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Saxton</marc:subfield>
+<marc:subfield code="4">Published by</marc:subfield>
+<marc:subfield code="5">Unauthorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Miles</marc:subfield>
+<marc:subfield code="4">Published by</marc:subfield>
+<marc:subfield code="5">Unauthorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Griffith</marc:subfield>
+<marc:subfield code="4">Published by</marc:subfield>
+<marc:subfield code="5">Unauthorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Simon</marc:subfield>
+<marc:subfield code="4">Published by</marc:subfield>
+<marc:subfield code="5">Unauthorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="710">
+<marc:subfield code="a">Ashmead, Isaac</marc:subfield>
+<marc:subfield code="4">Printed by</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="710">
+<marc:subfield code="a">Griffith &amp; Simon</marc:subfield>
+<marc:subfield code="4">Published by</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="710">
+<marc:subfield code="a">Saxton &amp; Miles</marc:subfield>
+<marc:subfield code="4">Published by</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Early Novels</marc:subfield>
+<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="1" ind2=" " tag="852">
+<marc:subfield code="b">scrare</marc:subfield>
+<marc:subfield code="h">148</marc:subfield>
+<marc:subfield code="i">Au85</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="989">
+<marc:subfield code="2">Autobiography</marc:subfield>
+<marc:subfield code="6">Reform</marc:subfield>
+<marc:subfield code="2">Drunkard</marc:subfield>
+<marc:subfield code="7">Letter</marc:subfield>
+<marc:subfield code="2">Recollection</marc:subfield>
+<marc:subfield code="2">Inmate</marc:subfield>
+<marc:subfield code="2">Alms-house</marc:subfield>
+<marc:subfield code="2">Illustration</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="999">
+<marc:subfield code="a">MFC</marc:subfield>
+<marc:subfield code="b">7/2/2012</marc:subfield>
+<marc:subfield code="c">Bryn Mawr College</marc:subfield>
+</marc:datafield>
+</marc:record>

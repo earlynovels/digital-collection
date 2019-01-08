@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<marc:record>
+	<marc:leader>04492cam a2200517 i 4500</marc:leader>
+	<marc:controlfield tag="001">260911</marc:controlfield>
+	<marc:controlfield tag="005">20130517135907.0</marc:controlfield>
+	<marc:controlfield tag="008">940412s1817    enka          000 1 eng d</marc:controlfield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(PUVoyagerBIBID)1812029</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(CStRLIN)PAUGEAY7689-B</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="9">EAY7689</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(MediadbVoyBIBID)260911</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(END)sm_pr3991_a1_l4_1817</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="040">
+		<marc:subfield code="a">PU</marc:subfield>
+		<marc:subfield code="c">PU</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="090">
+		<marc:subfield code="f">h</marc:subfield>
+		<marc:subfield code="n">\\\\jl\\\\</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="0" tag="245">
+		<marc:subfield code="a">Letters of an Italian nun and an English gentleman /</marc:subfield>
+		<marc:subfield code="c">translated from the French of J.J. Rousseau.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">Letters of an Italian Nun and an English Gentleman.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Half</marc:subfield>
+		<marc:subfield code="x">Work</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">Letters of an Italian Nun and an English Gentleman. Translated from the French of J.J. Rousseau. Sixth Edition.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Work</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="250">
+		<marc:subfield code="a">Sixth edition.</marc:subfield>
+		<marc:subfield code="b">Sixth edition</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="260">
+		<marc:subfield code="a">London</marc:subfield>
+		<marc:subfield code="b">Printed for Sherwood, Neely, and Jones, Paternoster Row</marc:subfield>
+		<marc:subfield code="c">1817.</marc:subfield>
+		<marc:subfield code="f">R. and R. Gilbert, St. John's Square, London.</marc:subfield>
+		<marc:subfield code="a">[London]</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="300">
+		<marc:subfield code="a">xii, 132, 4 p., [1] leaf of plates ;</marc:subfield>
+		<marc:subfield code="b">illustration ;</marc:subfield>
+		<marc:subfield code="c">18 cm.</marc:subfield>
+		<marc:subfield code="a">[1 v.]</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Most of the letters are addressed to ""Isabella."</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">There are 16 letters in total.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Introduction</marc:subfield>
+		<marc:subfield code="b">Introduction</marc:subfield>
+		<marc:subfield code="c">Front</marc:subfield>
+		<marc:subfield code="x">Begins: ""Extract of a Letter to the Editor, Dated Chamberry, in Savoy, Jan. 7, 1780.""</marc:subfield>
+		<marc:subfield code="x">Continues: ""The original manuscript, an imperfect translation of which I take the liberty to send you, is in the possession of a gentleman in this neighbourhood, to whom I was presented by our common friend, the Marquis de Bellegarde. -- He was so obliging as to lend it to me for my perusal, and, on my proposing its publication, he informed me that it had been sent to the Editors of the posthumous editions of Rousseau's works, now preparing for the press, who excused themselves from receiving it, because no such work was named among those which he intended should appear after his death. However, I have obtained the liberty to translate and give it to my country.""</marc:subfield>
+		<marc:subfield code="x">Ends: ""That this may be found inferior to the other translated works of its celebrated author, I will readily acknowledge: -- but still it was originally written by Rousseau; and I shall not disgrace it by any apology of mine. It is said that the gallipots painted by Raphael are held in high estimation by those who most ardently admire the distinguished productions of that sublime pencil, which has given to its master a name that will never die."</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Conclusion</marc:subfield>
+		<marc:subfield code="b">Here the letters conclude...</marc:subfield>
+		<marc:subfield code="c">Back</marc:subfield>
+		<marc:subfield code="x">Begins: ""Here the letters conclude; but a note is added to complete the history. Isabella arrived safe at Naples, in the vicinity of which city she lived unknown, till, by the interest of Mr. C.----'s friends, the British Court interfered in her behalf, and in consequence of it the Pope ordered her admission into an abbey in the Neapolitan dominions where she and her friend retired together.""</marc:subfield>
+		<marc:subfield code="x">Ends: ""She had never been made acquainted with the fatal method which Mr. C.---- had employed to avenge her wrongs, and, happily for her, at this day remains ignorant for it."</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="591">
+		<marc:subfield code="a">Il cor grandisce; -- E serve a lui chi'l suo dover compisce</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="592">
+		<marc:subfield code="a">Epistolary</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="594">
+		<marc:subfield code="a">[Unintelligible]</marc:subfield>
+		<marc:subfield code="b">Ink</marc:subfield>
+		<marc:subfield code="x">On full volume title page</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="594">
+		<marc:subfield code="a">Jan. 3, 1834</marc:subfield>
+		<marc:subfield code="b">Ink</marc:subfield>
+		<marc:subfield code="x">On full volume title page</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">CHR 1817</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="7" tag="656">
+		<marc:subfield code="a">Advertisements</marc:subfield>
+		<marc:subfield code="z">England</marc:subfield>
+		<marc:subfield code="z">London</marc:subfield>
+		<marc:subfield code="y">19th century.</marc:subfield>
+		<marc:subfield code="2">rbgenr</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="656">
+		<marc:subfield code="a">Non-fiction</marc:subfield>
+		<marc:subfield code="b">Back</marc:subfield>
+		<marc:subfield code="c">Same publisher</marc:subfield>
+		<marc:subfield code="x">Ad for: ""Cooke's Topography of Great Britain, or,  British Traveller's Pocket Directory; being an accurate and comprehensive topographical, and statistical description of all the counties in England, Scotland, and Wales...."</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="1" ind2="0" tag="700">
+		<marc:subfield code="a">Rousseau, Jean-Jacques,</marc:subfield>
+		<marc:subfield code="d">1712-1778.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="1" ind2="0" tag="700">
+		<marc:subfield code="a">Combe, William</marc:subfield>
+		<marc:subfield code="d">1742-1823</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Sherwood, Neely, and Jones</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">R. and R. Gilbert</marc:subfield>
+		<marc:subfield code="4">Printed by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">R. and R. Gilbert</marc:subfield>
+		<marc:subfield code="4">Printed by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Sherwood, Neely, and Jones</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Early Novels</marc:subfield>
+		<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+		<marc:subfield code="9">University of Pennsylvania</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="950">
+		<marc:subfield code="l">RBC</marc:subfield>
+		<marc:subfield code="a">PR3991.A1</marc:subfield>
+		<marc:subfield code="b">L4 1817</marc:subfield>
+		<marc:subfield code="i">01/01/01 N</marc:subfield>
+		<marc:subfield code="x">010</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2=" " tag="852">
+		<marc:subfield code="b">scsing</marc:subfield>
+		<marc:subfield code="h">PR3991.A1</marc:subfield>
+		<marc:subfield code="i">L4 1817</marc:subfield>
+		<marc:subfield code="x">725817</marc:subfield>
+		<marc:subfield code="x">recl. fr. 823/L563</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="955">
+		<marc:subfield code="l">RBC</marc:subfield>
+		<marc:subfield code="c">1</marc:subfield>
+		<marc:subfield code="s">725817</marc:subfield>
+		<marc:subfield code="s">recl. fr. 823/L563</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="989">
+		<marc:subfield code="2">letters</marc:subfield>
+		<marc:subfield code="3">Italian</marc:subfield>
+		<marc:subfield code="2">nun</marc:subfield>
+		<marc:subfield code="3">English</marc:subfield>
+		<marc:subfield code="2">gentleman</marc:subfield>
+		<marc:subfield code="6">translated</marc:subfield>
+		<marc:subfield code="2">French</marc:subfield>
+		<marc:subfield code="5">J.J. Rousseau</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="998">
+		<marc:subfield code="n">PU</marc:subfield>
+		<marc:subfield code="z">BNA</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="999">
+		<marc:subfield code="b">10/10/10</marc:subfield>
+	</marc:datafield>
+</marc:record>

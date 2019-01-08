@@ -1,0 +1,273 @@
+<marc:record>
+<marc:leader>04920cam a2200649 a 4500</marc:leader>
+<marc:controlfield tag="001">341602</marc:controlfield>
+<marc:controlfield tag="005">20130404172548.0</marc:controlfield>
+<marc:controlfield tag="008">860715s1783    enk           00000 eng d</marc:controlfield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(PUVoyagerBIBID)161470</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(CStRLIN)PAUG86-B29590</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(CaOTULAS)146817456</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="9">AAX8670</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(MediadbVoyBIBID)341602</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(END)sm_pr3991_a1_p43_1783</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="040">
+<marc:subfield code="a">PU</marc:subfield>
+<marc:subfield code="c">PU</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="090">
+<marc:subfield code="a">PR3991.A1</marc:subfield>
+<marc:subfield code="b">P43 1783</marc:subfield>
+<marc:subfield code="i">07/31/86 CT</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="0" tag="245">
+<marc:subfield code="a">Peggy and Patty, or, The sisters of Ashdale :</marc:subfield>
+<marc:subfield code="b">in four volumes.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">Peggy and Patty; or, the sisters of Ashdale. In four volumes. Vol. I.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">Peggy and Patty; or, the sisters of Ashdale. Vol. I.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="g">Half</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">Peggy and Patty; or, the sisters of Ashdale. In four volumes. Vol. II.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">Peggy and Patty; or, the sisters of Ashdale. Vol. II.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="g">Half</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">Peggy and Patty; or, the sisters of Ashdale. In four volumes. Vol. III.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">Peggy and Patty; or, the sisters of Ashdale. Vol. III.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="g">Half</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">Peggy and Patty; or, the sisters of Ashdale. In four volumes. Vol. IV.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="v">v.4</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">Peggy and Patty; or, the sisters of Ashdale. Vol. IV.</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="g">Half</marc:subfield>
+<marc:subfield code="v">v.4</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="260">
+<marc:subfield code="a">London</marc:subfield>
+<marc:subfield code="b">Printed for J. Dodsley, Pall-mall.</marc:subfield>
+<marc:subfield code="c">M,DCC,LXXXIII.</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+<marc:subfield code="v">v.4</marc:subfield>
+<marc:subfield code="a">[London]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="300">
+<marc:subfield code="a">4 v. ;</marc:subfield>
+<marc:subfield code="c">16 cm. (8vo)</marc:subfield>
+<marc:subfield code="x">Octavo</marc:subfield>
+<marc:subfield code="z">In four volumes.</marc:subfield>
+<marc:subfield code="a">[4 v.]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">An epistolary novel.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="500">
+<marc:subfield code="a">Each volume contains two bookplates on the front pastedown, one that reads ""E. Williams, New Dale, Satop,"" and the other that reads, ""D. Webster bookseller Tunbridge Wells books bought""."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+<marc:subfield code="c">N38510</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">English novel, 1770-1829,</marc:subfield>
+<marc:subfield code="c">1783:24</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">Block, A.  Engl. novel (1961 ed.),</marc:subfield>
+<marc:subfield code="c">p.181-82</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="520">
+<marc:subfield code="a">Advertisement</marc:subfield>
+<marc:subfield code="a">To the Reader</marc:subfield>
+<marc:subfield code="b">Advertisement: to the reader.</marc:subfield>
+<marc:subfield code="c">Front</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="x">Authorial</marc:subfield>
+<marc:subfield code="x">Begins, ""'I hate apologies""--(says a sensible author) 'for if you have written well, there needs none;--and if ill, they will be of little service.'--Yet the writer of the following history...""</marc:subfield>
+<marc:subfield code="x">Establishes the intended audience as ""the young, the unprotected, inexperienced part of the female world,"" and the purpose of the novel to ""warn"" this audience ""to avoid the fatal effects of a too easy belief, and rash credulity,"" to ""reprobate vice,"" and to ""recommend...virtues"".</marc:subfield>
+<marc:subfield code="x">Quotes, at length, ""the excellent author of the Spectator"".</marc:subfield>
+<marc:subfield code="x">Ends in an unattributed quotation."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="592">
+<marc:subfield code="a">Epistolary</marc:subfield>
+<marc:subfield code="b">Third-person</marc:subfield>
+<marc:subfield code="b">First-person</marc:subfield>
+<marc:subfield code="c">Poems(s)</marc:subfield>
+<marc:subfield code="c">Theatrical dialogue</marc:subfield>
+<marc:subfield code="x">The sections of the novel that are not epistolary are in the third-person, with occasional instances of authorial first-person.</marc:subfield>
+<marc:subfield code="x">Theatrical dialogue contained within a letter.</marc:subfield>
+<marc:subfield code="x">Contains authorial footnotes, addressed to the reader, providing extra information unknown to the characters.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="594">
+<marc:subfield code="a">Purchased at Willington 12/3/95 by E Walsh</marc:subfield>
+<marc:subfield code="b">Ink</marc:subfield>
+<marc:subfield code="v">v.4</marc:subfield>
+<marc:subfield code="x">On the bookplate that reads ""E. Williams..."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="599">
+<marc:subfield code="a">Author (text)</marc:subfield>
+<marc:subfield code="b">Generic/Descriptive</marc:subfield>
+<marc:subfield code="2">the writer of the following history</marc:subfield>
+<marc:subfield code="3">Advertisement</marc:subfield>
+<marc:subfield code="3">To the Reader</marc:subfield>
+<marc:subfield code="5">Indeterminate</marc:subfield>
+<marc:subfield code="6">Unknown</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="599">
+<marc:subfield code="a">Author (text)</marc:subfield>
+<marc:subfield code="b">Generic/Descriptive</marc:subfield>
+<marc:subfield code="2">the writer of this little work</marc:subfield>
+<marc:subfield code="3">Advertisement</marc:subfield>
+<marc:subfield code="3">To the Reader</marc:subfield>
+<marc:subfield code="5">Female</marc:subfield>
+<marc:subfield code="6">Unknown</marc:subfield>
+<marc:subfield code="7">Comments on her anonymity--the full statement containing this authorship claim is, ""If the reader should entertain a wish to know who or what the writer of this little work is,--suffice it to say, a woman;--but whether a maid, wife, or widow;--whether fair or brown--tall or short;--whether it was written for a dinner, or a new gown,--is of no great importance."</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="7" tag="656">
+<marc:subfield code="a">Epistolary fiction</marc:subfield>
+<marc:subfield code="z">England</marc:subfield>
+<marc:subfield code="y">18th century</marc:subfield>
+<marc:subfield code="2">rbgenr</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">CHR 1783</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">PRO Mendenhall, John C. (Donor)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">PRO Williams, E. (Bookplate)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">PRO Webster, D., bookseller (Bookplate)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">Dodsley, James</marc:subfield>
+<marc:subfield code="d">1724-1797</marc:subfield>
+<marc:subfield code="4">Printed for</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">E. Williams</marc:subfield>
+<marc:subfield code="4">Author (bookplate)</marc:subfield>
+<marc:subfield code="5">Unauthorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">D. Webster</marc:subfield>
+<marc:subfield code="4">Author (bookplate)</marc:subfield>
+<marc:subfield code="5">Unauthorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="710">
+<marc:subfield code="a">J. Dodsley</marc:subfield>
+<marc:subfield code="4">Printed for</marc:subfield>
+<marc:subfield code="5">Authorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Early Novels</marc:subfield>
+<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2=" " tag="740">
+<marc:subfield code="a">Sisters of Ashdale.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="752">
+<marc:subfield code="a">England</marc:subfield>
+<marc:subfield code="d">London.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="1" tag="852">
+<marc:subfield code="b">scsing</marc:subfield>
+<marc:subfield code="t">1</marc:subfield>
+<marc:subfield code="h">PR3991.A1</marc:subfield>
+<marc:subfield code="i">P43 1783</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="3" ind2="0" tag="866">
+<marc:subfield code="8">0</marc:subfield>
+<marc:subfield code="a">4 v.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="3" ind2="0" tag="866">
+<marc:subfield code="8">0</marc:subfield>
+<marc:subfield code="a">(v.1-4); id=9999</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="950">
+<marc:subfield code="l">RBC</marc:subfield>
+<marc:subfield code="e">\\\\\\\\Singer-\\\\Menden-\\\\hall\\\\</marc:subfield>
+<marc:subfield code="v">4 v.</marc:subfield>
+<marc:subfield code="i">07/31/86 C</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="955">
+<marc:subfield code="l">RBC</marc:subfield>
+<marc:subfield code="c">1:(v.1-4)</marc:subfield>
+<marc:subfield code="q">50-1085</marc:subfield>
+<marc:subfield code="q">g. Dr. John C. Mendenhall</marc:subfield>
+<marc:subfield code="s">Ex libris: Williams, E.</marc:subfield>
+<marc:subfield code="s">Ex libris: Webster, D., bookseller</marc:subfield>
+<marc:subfield code="i">07/31/86 C</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="989">
+<marc:subfield code="2">Sister</marc:subfield>
+<marc:subfield code="2">Volume</marc:subfield>
+<marc:subfield code="3">Four</marc:subfield>
+<marc:subfield code="4">Ashdale</marc:subfield>
+<marc:subfield code="5">Peggy</marc:subfield>
+<marc:subfield code="5">Patty</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+<marc:subfield code="v">v.3</marc:subfield>
+<marc:subfield code="v">v.4</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="999">
+<marc:subfield code="a">MJR</marc:subfield>
+<marc:subfield code="b">6/28/11</marc:subfield>
+</marc:datafield>
+</marc:record>

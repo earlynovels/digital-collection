@@ -1,0 +1,172 @@
+<marc:record>
+<marc:leader>02543cam a2200457 i 4500</marc:leader>
+<marc:controlfield tag="001">341477</marc:controlfield>
+<marc:controlfield tag="005">20130301151315.0</marc:controlfield>
+<marc:controlfield tag="008">940323s1772    enk           000 1 eng d</marc:controlfield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(PUVoyagerBIBID)1808263</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(CStRLIN)PAUGEAY3873-B</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="9">EAY3873</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(MediadbVoyBIBID)341477</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(END)sm_pr3991_a1_i68_1772_v1</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="035">
+<marc:subfield code="a">(END)sm_pr3991_a1_i68_1772_v2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="040">
+<marc:subfield code="a">PU</marc:subfield>
+<marc:subfield code="c">PU</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="4" tag="245">
+<marc:subfield code="a">The Irishman, or, The favourite of fortune :</marc:subfield>
+<marc:subfield code="b">a satirical novel founded upon facts.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">The Irishman; or, the favourite of fortune: a satirical novel founded upon facts. In two volumes. Vol. 1</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="246">
+<marc:subfield code="a">The Irishman; or, the favourite of fortune: a satirical novel founded upon facts. In two volumes. Vol. 2</marc:subfield>
+<marc:subfield code="d">Letter-press</marc:subfield>
+<marc:subfield code="x">Volume</marc:subfield>
+<marc:subfield code="g">Full</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="7" tag="246">
+<marc:subfield code="a">The favourite of fortune.</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="260">
+<marc:subfield code="a">London</marc:subfield>
+<marc:subfield code="b">Printed for W. Goldsmith, No 24, Pater-Noster-Row.</marc:subfield>
+<marc:subfield code="x">No date given on title pages; 1772 according to Penn library catalog</marc:subfield>
+<marc:subfield code="a">[London]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="300">
+<marc:subfield code="a">2 v. ;</marc:subfield>
+<marc:subfield code="c">17 cm.</marc:subfield>
+<marc:subfield code="x">Duodecimo</marc:subfield>
+<marc:subfield code="z">In two volumes.</marc:subfield>
+<marc:subfield code="a">[2 v.]</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">English novel, 1770-1829,</marc:subfield>
+<marc:subfield code="c">1772:14</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2=" " tag="510">
+<marc:subfield code="a">Block, A. Engl. novel (2nd ed.)</marc:subfield>
+<marc:subfield code="c">p.119.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="520">
+<marc:subfield code="a">Dedication</marc:subfield>
+<marc:subfield code="b">To the right honourable George; Lord Viscount Townsend, late Lord Lieutenant of Ireland.</marc:subfield>
+<marc:subfield code="c">Front</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="x">Claims that dedicatee knows the work's central character.</marc:subfield>
+<marc:subfield code="x">Claims to be taken directly from papers given to editor, who changed names to protect those involved.</marc:subfield>
+<marc:subfield code="x">Signed ""The Editor"</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="591">
+<marc:subfield code="a">What a strange world this is!</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+<marc:subfield code="x">Unattributed</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="592">
+<marc:subfield code="a">Third-person</marc:subfield>
+<marc:subfield code="d">No quotation marks</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="594">
+<marc:subfield code="a">John Clarke</marc:subfield>
+<marc:subfield code="b">Ink</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="x">Front free endpaper</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="599">
+<marc:subfield code="a">Editor (text)</marc:subfield>
+<marc:subfield code="a">Author (paratext)</marc:subfield>
+<marc:subfield code="b">Generic/Descriptive</marc:subfield>
+<marc:subfield code="2">""The Editor""</marc:subfield>
+<marc:subfield code="3">Dedication</marc:subfield>
+<marc:subfield code="5">Male</marc:subfield>
+<marc:subfield code="6">Unknown"</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="599">
+<marc:subfield code="a">Author (text)</marc:subfield>
+<marc:subfield code="b">Generic/Descriptive</marc:subfield>
+<marc:subfield code="2">""The journal of his life, written with his own hand, was communicated to me""</marc:subfield>
+<marc:subfield code="3">Dedication</marc:subfield>
+<marc:subfield code="5">Male</marc:subfield>
+<marc:subfield code="6">Unknown"</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2="4" tag="650">
+<marc:subfield code="a">CHR 1772</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="700">
+<marc:subfield code="a">W. Goldsmith</marc:subfield>
+<marc:subfield code="4">Printed for</marc:subfield>
+<marc:subfield code="5">Unauthorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="710">
+<marc:subfield code="a">W. Goldsmith</marc:subfield>
+<marc:subfield code="4">Printed for</marc:subfield>
+<marc:subfield code="5">Unauthorized</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="2" ind2=" " tag="710">
+<marc:subfield code="a">Early Novels</marc:subfield>
+<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="1" tag="740">
+<marc:subfield code="a">Favourite of fortune.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="1" tag="740">
+<marc:subfield code="a">Irishman.</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="0" ind2="1" tag="852">
+<marc:subfield code="b">scsing</marc:subfield>
+<marc:subfield code="t">1</marc:subfield>
+<marc:subfield code="h">PR3991.A1</marc:subfield>
+<marc:subfield code="i">I68 1772</marc:subfield>
+<marc:subfield code="x">725836-37</marc:subfield>
+<marc:subfield code="x">recl. fr. 823/Ir45</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1="4" ind2="1" tag="866">
+<marc:subfield code="8">0</marc:subfield>
+<marc:subfield code="a">v.1-2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="948">
+<marc:subfield code="a">jl</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="989">
+<marc:subfield code="2">Irishman</marc:subfield>
+<marc:subfield code="2">Favourite</marc:subfield>
+<marc:subfield code="2">Fortune</marc:subfield>
+<marc:subfield code="2">Novel</marc:subfield>
+<marc:subfield code="2">Fact</marc:subfield>
+<marc:subfield code="2">Volume</marc:subfield>
+<marc:subfield code="3">Satirical</marc:subfield>
+<marc:subfield code="3">Two</marc:subfield>
+<marc:subfield code="6">Found</marc:subfield>
+<marc:subfield code="v">v.1</marc:subfield>
+<marc:subfield code="v">v.2</marc:subfield>
+</marc:datafield>
+<marc:datafield ind1=" " ind2=" " tag="999">
+<marc:subfield code="a">NA</marc:subfield>
+<marc:subfield code="b">6/3/11</marc:subfield>
+</marc:datafield>
+</marc:record>

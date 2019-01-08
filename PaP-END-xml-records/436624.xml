@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+	<marc:leader>03609cam a2200493 i 4500</marc:leader>
+	<marc:controlfield tag="001">436624</marc:controlfield>
+	<marc:controlfield tag="005">20130731124536.0</marc:controlfield>
+	<marc:controlfield tag="008">940621s1759    enk           000 1 eng d</marc:controlfield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(CStRLIN)PAUGEBA2019-B</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="9">EBA2019</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">1826182</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(END)pr_3291_a6_l326_1759</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="035">
+		<marc:subfield code="a">(MediadbVoyBIBID)436624</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="040">
+		<marc:subfield code="a">PU</marc:subfield>
+		<marc:subfield code="c">PU</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="1" ind2=" " tag="100">
+		<marc:subfield code="a">Lady</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="0" tag="245">
+		<marc:subfield code="a">Jemima and Louisa :</marc:subfield>
+		<marc:subfield code="b">in which is contain'd several remarkable incidents relating to two ladies of distinguish'd families and fortunes : in a series of letters /</marc:subfield>
+		<marc:subfield code="c">by a lady.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="246">
+		<marc:subfield code="a">Jemima and Louisa.  In which is contain'd, several remarkable incidents relating to two ladies of distinguish'd families and fortunes.  In a series of letters.  By a lady.</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
+		<marc:subfield code="g">Full</marc:subfield>
+		<marc:subfield code="x">Work</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="7" tag="246">
+		<marc:subfield code="a">Jemima and Louisa.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="0" ind2="7" tag="246">
+		<marc:subfield code="a">Jemima and Louisa. (verso)</marc:subfield>
+		<marc:subfield code="a">Jemima and Louisa. (recto)</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="260">
+		<marc:subfield code="a">London</marc:subfield>
+		<marc:subfield code="b">Printed for the author, and sold by Owen, at Homer's-Head, near Temple-Bar.</marc:subfield>
+		<marc:subfield code="c">MDCCLIX.</marc:subfield>
+		<marc:subfield code="c">1759.</marc:subfield>
+		<marc:subfield code="a">[London]</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="300">
+		<marc:subfield code="a">[8], 239 [i.e.240] p. ;</marc:subfield>
+		<marc:subfield code="c">18 cm.</marc:subfield>
+		<marc:subfield code="x">Duodecimo</marc:subfield>
+		<marc:subfield code="a">[1 v.]</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="300">
+		<marc:subfield code="a">[i-ii], [iii-iv], [v-viii], [1]-238, 238-239</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">P. 240 incorrectly numbered 239.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="500">
+		<marc:subfield code="a">Page 84 is incorrectly numbered 74.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">ESTC (RLIN)</marc:subfield>
+		<marc:subfield code="c">N55112</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="4" ind2=" " tag="510">
+		<marc:subfield code="a">Raven, J.  British fiction, 1750-1770,</marc:subfield>
+		<marc:subfield code="c">470</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Introduction</marc:subfield>
+		<marc:subfield code="b">Introduction.</marc:subfield>
+		<marc:subfield code="c">Front</marc:subfield>
+		<marc:subfield code="x">First line reads: "It being customary for every scribbler, when they transmit their works to the public, to give some account of the subject they treat of, and the motives that induced them to such an undertaking, (by way of preface) I therefore beg leave to acquaint the perusers of the following sheets, that they are the production of a female pen [...]"</marc:subfield>
+		<marc:subfield code="x">Goes on to describe the content of the book, which "have indeed nothing to recommend them to the readers attention, (except being founded on facts) [...]".</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Table of contents</marc:subfield>
+		<marc:subfield code="b">The contents.</marc:subfield>
+		<marc:subfield code="c">Front</marc:subfield>
+		<marc:subfield code="x">Contains headings for each of 99 letters, along with page numbers.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="520">
+		<marc:subfield code="a">Conclusion</marc:subfield>
+		<marc:subfield code="b">Conclusion.</marc:subfield>
+		<marc:subfield code="c">Back</marc:subfield>
+		<marc:subfield code="x">Conclusion follows up on life of characters after the novel's letters end.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="591">
+		<marc:subfield code="a">A woman write!  The town cries one and all, --- no wonder Bedlam's lately found too small. --- Have not we head and hands, and pens and ink? --- And what should ail us then but we can think?</marc:subfield>
+		<marc:subfield code="1">Epilogue to Bayes in Petticoats</marc:subfield>
+		<marc:subfield code="2">Clive</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="592">
+		<marc:subfield code="a">Epistolary</marc:subfield>
+		<marc:subfield code="b">Third-person</marc:subfield>
+		<marc:subfield code="x">The novel is epistolary; the conclusion is written in third-person.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="595">
+		<marc:subfield code="a">Sarah Ward[en] [C]uckfield</marc:subfield>
+		<marc:subfield code="b">Ink</marc:subfield>
+		<marc:subfield code="x">Located on the page facing the title page.</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="595">
+		<marc:subfield code="a">Ink</marc:subfield>
+		<marc:subfield code="b">Words</marc:subfield>
+		<marc:subfield code="x">A list of errata has been written on the back pastedown: "Errata.  Letter 51. page 124. line 26 read kick'd him. --- Letter 82. page 205. for Emily read [Franny].</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="599">
+		<marc:subfield code="a">Author (text)</marc:subfield>
+		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
+		<marc:subfield code="2">[...] I therefore beg leave to acquaint the perusers of the following sheets, that they are the production of a female pen [...]</marc:subfield>
+		<marc:subfield code="3">Introduction</marc:subfield>
+		<marc:subfield code="5">Female</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="599">
+		<marc:subfield code="a">Author (text)</marc:subfield>
+		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
+		<marc:subfield code="2">By a lady.</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
+		<marc:subfield code="5">Female</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2="4" tag="650">
+		<marc:subfield code="a">CHR 1759</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Clive</marc:subfield>
+		<marc:subfield code="c">Mrs.</marc:subfield>
+		<marc:subfield code="q">(Catherine)</marc:subfield>
+		<marc:subfield code="d">1711-1785</marc:subfield>
+		<marc:subfield code="4">Author (epigraph)</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="700">
+		<marc:subfield code="a">Owen</marc:subfield>
+		<marc:subfield code="4">Sold by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="710">
+		<marc:subfield code="a">Owen</marc:subfield>
+		<marc:subfield code="4">Sold by</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Collection of British and American Fiction, 1660-1830 (University of Pennsylvania)</marc:subfield>
+		<marc:subfield code="5">PU</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1="2" ind2=" " tag="710">
+		<marc:subfield code="a">Early Novels</marc:subfield>
+		<marc:subfield code="5">University of Pennsylvania</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="948">
+		<marc:subfield code="a">jl</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="989">
+		<marc:subfield code="5">Jemima</marc:subfield>
+		<marc:subfield code="5">Louisa</marc:subfield>
+		<marc:subfield code="6">Contain</marc:subfield>
+		<marc:subfield code="3">Several</marc:subfield>
+		<marc:subfield code="3">Remarkable</marc:subfield>
+		<marc:subfield code="2">Incident</marc:subfield>
+		<marc:subfield code="3">Relating</marc:subfield>
+		<marc:subfield code="3">Two</marc:subfield>
+		<marc:subfield code="2">Lady</marc:subfield>
+		<marc:subfield code="3">Distinguished</marc:subfield>
+		<marc:subfield code="2">Family</marc:subfield>
+		<marc:subfield code="2">Fortune</marc:subfield>
+		<marc:subfield code="2">Series</marc:subfield>
+		<marc:subfield code="7">Letter</marc:subfield>
+	</marc:datafield>
+	<marc:datafield ind1=" " ind2=" " tag="999">
+		<marc:subfield code="a">JRH</marc:subfield>
+		<marc:subfield code="b">7/30/13</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
+		<marc:subfield code="d">ANS</marc:subfield>
+	</marc:datafield>
+</marc:record>
